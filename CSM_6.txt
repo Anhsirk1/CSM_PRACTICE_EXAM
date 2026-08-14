@@ -1,0 +1,1072 @@
+Skip to content
+Skillcertpro Logo
+Products search
+Search for products...
+All Courses
+Contact Us
+MY ACCOUNT
+/ ServiceNow / By SkillCertPro
+Practice Set 6 
+
+Your results are here!! for" ServiceNow CIS CSM - Customer Service Management Practice Test 6 "
+0 of 60 questions answered correctly
+
+Your time: 00:00:03
+
+Your Final Score is : 0
+You have attempted : 0
+Number of Correct Questions : 0 and scored 0
+Number of Incorrect Questions : 0 and Negative marks 0
+
+Average score	  72.59%
+Your score	  0%
+You can review your answers by clicking on “View Answers” option.
+Important Note : Open Reference Documentation Links in New Tab (Right Click and Open in New Tab).
+ 
+Answer Review
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Correct
+ Incorrect
+ Unattempted
+Focus: incorrect & unattempted
+1. Question
+What should be emphasized when designing solutions? (Choose three of the available options)
+
+Design for Scalability
+Focus Out-of-the-box functionality
+Mobile friendly functionality
+Minimize customizations
+ Unattempted
+Correct
+Option A. Design for Scalability
+
+Correct because solutions in ServiceNow CSM must be able to handle growth in users, cases, and integrations without requiring major redesign. Scalability ensures long‑term sustainability and performance.
+Option B. Focus Out‑of‑the‑box functionality
+
+Correct because leveraging native ServiceNow features reduces complexity, improves maintainability, and ensures smoother upgrades. Using out‑of‑the‑box functionality is a best practice emphasized in the CIS‑CSM exam.
+Option D. Minimize customizations
+
+Correct because excessive customizations increase maintenance costs, upgrade risks, and technical debt. Minimizing them ensures solutions remain aligned with ServiceNow’s upgrade path and best practices.
+Incorrect
+Option C. Mobile friendly functionality
+
+Incorrect because while mobile support is beneficial, it is not one of the core exam‑emphasized principles for designing CSM solutions. The exam focuses more on scalability, leveraging out‑of‑the‑box features, and minimizing customizations.
+2. Question
+Which Business Rules are part of the Customer Service Management baseline configuration? (Choose two of the available options)
+
+Apply Role by Customer
+Change Update to Close
+Auto Assessment
+Update Case Entitlement
+ Unattempted
+Correct Answers:
+C. Auto Assessment: This business rule automatically assesses cases based on predefined criteria, such as urgency or impact.
+D. Update Case Entitlement: This business rule updates the case entitlement based on changes to the associated account or product.
+These are standard business rules included in the Customer Service Management baseline configuration and play crucial roles in case management automation.
+
+3. Question
+Which of the following roles cannot update a consumers record?
+
+admin
+sn_customerservice_manager
+sn_customerservice_agent
+sn_customerservice.consumer_agent
+ Unattempted
+C. sn_customerservice_agent
+Correct answer: sn_customerservice_agent
+
+Explanation:
+
+sn_customerservice_agent role is designed for agents who interact with customers and manage cases. While they can view and interact with consumer records, they typically do not have the permissions to update consumer information directly.
+admin, sn_customerservice_manager, and sn_customerservice.consumer_agent roles have broader permissions and can usually update consumer records.
+Therefore, the sn_customerservice_agent is the role that cannot update a consumer‘s record.
+
+4. Question
+What module is used to create Case Record Producers?
+
+Maintain Records
+Case Record Producers
+Edit Records
+Record Producers
+ Unattempted
+D. Record Producers is correct.
+
+Record Producers are used to create new records in the system, including Case records. They provide a user-friendly interface for data entry and submission.
+
+5. Question
+What are the characteristics of Knowledge Categories?
+
+Shareable across KBs: Yes ; Multi-Level: Yes
+Shareable across KBs: Yes ; Multi-Level: No
+Shareable across KBs: No ; Multi-Level: No
+Shareable across KBs: No ; Multi-Level: Yes
+ Unattempted
+D. Shareable across KBs: No ; Multi-Level: Yes accurately describes the characteristics of Knowledge Categories in ServiceNow.
+
+Shareable across KBs: No – Knowledge Categories are specific to a particular knowledge base and cannot be shared across different knowledge bases.
+Multi-Level: Yes – Knowledge Categories support a hierarchical structure, allowing for multiple levels of categorization within a knowledge base.
+This structure helps in organizing knowledge articles efficiently and improves search capabilities.
+
+6. Question
+Advance Work Assignment assigns work to agents based on their availability, capacity, and skills. Agent Affinity enhances the Advanced Work Assignment process by adding additional agent details organized by affinity type. Which of these are these affinity types? (Choose three.)
+
+Skill seniority
+Product expertise
+Account team responsibility
+Historical
+Related task
+ Unattempted
+C. Account team responsibility
+D. Historical
+E. Related task
+
+These are the correct affinity types used to enhance the Advanced Work Assignment process. They provide additional context for agent assignment beyond just skills and availability.
+
+7. Question
+What is the specific type of catalog item called that allows users to create task-based records, such as case records, from the Service Catalog?
+
+Catalog Processor
+Record Producer
+Request Item
+Case Template
+ Unattempted
+B. Record Producer is correct.
+
+A Record Producer is a specific type of catalog item designed to create task-based records, such as cases, incidents, or requests. It provides a user-friendly interface for collecting necessary information and generating the desired record.
+
+8. Question
+Proactive Customer Service Operations works Event Management to proactively monitor and fix issues affecting customers. It can also trigger case workflows and enable organizations to notify customers whose services or products are impacted by an outage or issue. What are the three main components that make up Proactive Customer Service Operations? (Choose three.)
+
+Service Reporting
+Service-Aware CMDB
+Proactive Case
+Service-Aware Install Base
+Proactive Prevention
+Service Monitoring
+ Unattempted
+Correct Answers:
+C. Proactive Case: This is a case created proactively based on potential issues or events.
+D. Service-Aware Install Base: This component links customers to the services they consume, enabling proactive monitoring and intervention.
+F. Service Monitoring: Continuously monitors the health and performance of services to identify potential issues before they impact customers.
+These three components are essential for proactive customer service operations, allowing organizations to anticipate and address customer issues before they escalate.
+
+9. Question
+Out-of-box, which functionality handles state transitioning for case management?
+
+Flows
+Business Rules
+Workflows
+State Flows
+ Unattempted
+D. State Flows is correct.
+
+State Flows are specifically designed to manage state transitions within ServiceNow records, including cases. They provide a visual and intuitive way to define the possible states a record can go through and the conditions for moving between those states.
+
+10. Question
+Out-of-the-box. cases are automatically closed after how many days?
+
+Cases are not automatically closed by default
+5 days
+3 days
+10 days
+ Unattempted
+A. Cases are not automatically closed by default is correct.
+
+ServiceNow does not have a default setting to automatically close cases after a specific number of days. This functionality can be configured through workflows or business rules if needed.
+
+11. Question
+Service providers use business models to support their various customers. What type of customer is supported with the Business-to-Consumer (B2C) model?
+
+Partners
+Accounts
+Individuals
+Contacts
+ Unattempted
+C. Individuals is correct.
+
+A Business-to-Consumer (B2C) model focuses on selling products or services directly to individual consumers, rather than businesses or organizations.
+
+12. Question
+What is KCS (Knowledge Centered Services)?
+
+A dashboard with specific visualization of the different knowledge bases and categories
+A documented methodology to provide a set of best practices for creating and maintaining knowledge
+An application that helps agents and managers to create cases from Knowledge articles
+A bunch of tables strictly pertaining to CSM case articles that focus on mapping articles to Knowledge management
+ Unattempted
+B. A documented methodology to provide a set of best practices for creating and maintaining knowledge accurately defines KCS (Knowledge Centered Services).
+
+KCS is a proven framework that helps organizations create and manage knowledge effectively, improving efficiency, customer satisfaction, and agent productivity.
+
+13. Question
+Which of the following roles have permission to create a relationship between a contact and an account? (Choose two.)
+
+sn_customerservice.partner_admin
+sn_customerservice.customer_admm
+admin
+sn_customerservice_agent
+sn_customerservice_manager
+ Unattempted
+Correct Answers:
+C. admin: The administrator role has full permissions to manage all aspects of the ServiceNow instance, including creating relationships between contacts and accounts.
+E. sn_customerservice_manager: This role typically has the necessary permissions to manage customer information and relationships, including creating links between contacts and accounts.
+These roles have the required privileges to establish a connection between a contact and an account record.
+
+14. Question
+Customer Service Management Administrators can delegate Contact Administration activities to specific contacts within accounts by assigning specific roles to one or more users. Which of the following roles, if assigned, would allow the user to create contacts?
+
+Customer admin (sn_customerservice.customer_admln)
+Customer (sn_customerservice.customer)
+Customer account manager (sn_customerservice.customer_account_manager)
+Customer case manager (sn_customerservice.customer_case_manager)
+ Unattempted
+A. Customer admin (sn_customerservice.customer_admln)
+Correct.
+
+The Customer admin (sn_customerservice.customer_admln) role is specifically designed to allow users to manage contact information within an account. This includes creating new contacts.
+
+The other options do not have the necessary permissions for contact creation.
+
+15. Question
+What does NLU stand for?
+
+Natural-Learning Userability
+Natural-Language Understanding
+Natural-Learning URL
+Natural-Language URL
+ Unattempted
+NLU stands for Natural-Language Understanding.
+This technology is used to enable systems to interpret and understand human language in a way that is meaningful, allowing for more effective interactions in applications like customer service management
+
+16. Question
+Which one is NOT a dependency for the Customer Service Plugin?
+
+Skills Management
+Communities
+Openframe
+Task Activities
+ Unattempted
+B. Communities is the correct answer.
+
+While Skills Management, Openframe, and Task Activities are essential components or dependencies for the Customer Service Management plugin, Communities is not a direct dependency.
+
+Communities is a separate application that can be integrated with Customer Service Management for enhanced customer engagement, but it‘s not a prerequisite for the core functionality of the Customer Service plugin.
+
+17. Question
+As an agent you can report a knowledge gap, if you cannot find relevant articles that could help resolve a case. Which action is required to create the knowledge gap?
+
+Document the knowledge gap in the case work notes and escalate the case
+Use Related Links on the case form to report a knowledge gap
+Use the Create Knowledge button on the case form to report a knowledge gap
+Post a question in one of the various Customer Service Management knowledge bases
+ Unattempted
+Correct
+Option B. Use Related Links on the case form to report a knowledge gap
+This is correct. In ServiceNow CSM, agents can report a knowledge gap directly from the case form using the Related Links option.
+This action formally creates a record of the gap, which can then be reviewed by knowledge managers to create or update articles.
+Incorrect
+Option A. Document in work notes and escalate
+Incorrect because simply documenting the gap in work notes or escalating the case does not create a formal knowledge gap record.
+Work notes are for case tracking, not for initiating knowledge management processes.
+Option C. Use the Create Knowledge button
+Incorrect because the Create Knowledge button is used to directly author a new knowledge article, not to report a gap.
+Reporting a gap is a separate process that flags missing content for later review.
+Option D. Post a question in knowledge bases
+Incorrect because posting a question in a knowledge base does not create a knowledge gap record.
+Knowledge gaps must be reported through the case form’s Related Links, not informal Q&A postings.
+18. Question
+What role does the Engagement Manager play before the Workshop? (Choose two of the available options)
+
+A. Provides answers to technical problems
+B. Acts as intermediary
+C. Assists with technical requirements
+D. Project Manager
+ Unattempted
+Correct
+Option C. Assists with technical requirements
+
+Correct because before the workshop, the Engagement Manager helps ensure that the technical prerequisites and requirements are properly addressed. This includes coordinating with stakeholders and technical teams to prepare the environment and data needed for the workshop.
+Option D. Project Manager
+
+Correct because the Engagement Manager often plays a project management role, ensuring logistics, scheduling, and coordination are in place before the workshop. They align stakeholders and manage expectations to ensure the workshop runs smoothly.
+Incorrect
+Option A. Provides answers to technical problems
+
+Incorrect because the Engagement Manager is not primarily responsible for solving technical problems. That responsibility typically lies with technical consultants or solution architects.
+Option B. Acts as intermediary
+
+Incorrect because while the Engagement Manager facilitates communication, their role is broader than simply acting as an intermediary. They focus on preparation, coordination, and project oversight rather than just relaying information.
+ 
+
+19. Question
+The Customer Support Portal default configuration provides the following channels to interact with customers? (Choose two of the available options)
+
+Social
+Email
+Chat
+Web
+ Unattempted
+Correct
+Option B: Email
+
+Email is a default channel in the Customer Support Portal.
+Customers can raise cases or interact with support teams via email, which is automatically integrated into ServiceNow CSM.
+Option C: Chat
+
+Chat is also a default channel provided in the Customer Support Portal.
+It allows real-time interaction between customers and support agents, improving responsiveness and customer satisfaction.
+Incorrect
+Option A: Social
+
+Social channels (like Facebook, Twitter, etc.) can be integrated into ServiceNow CSM, but they are not part of the default configuration.
+They require additional setup and configuration.
+Option D: Web
+
+The web portal itself is the interface, but “Web” is not considered a separate default communication channel in the configuration.
+Customers use the portal to access services, but the default channels are specifically Email and Chat.
+20. Question
+Now Create provides a prescriptive methodology, leading practices, and accelerators to help with ServiceNow implementations and upgrades. How many sequential project phases and exit gates are there in the Now Create Methodology?
+
+Five
+Three
+Four
+Six
+ Unattempted
+Correct
+Option A. Five
+
+The Now Create methodology is ServiceNow’s structured approach to implementations and upgrades.
+It defines five sequential project phases, each with an exit gate to ensure readiness before moving forward.
+These phases provide a clear roadmap, reduce risk, and align with best practices.
+Therefore, this option is correct.
+Incorrect
+Option B. Three
+
+Three phases would oversimplify the methodology and omit critical checkpoints.
+ServiceNow explicitly defines five phases, not three.
+Therefore, this option is incorrect.
+Option C. Four
+
+Four phases is also incorrect because the methodology requires five sequential steps to cover the full lifecycle.
+Therefore, this option is incorrect.
+Option D. Six
+
+Six phases would overcomplicate the methodology.
+ServiceNow does not define six sequential phases in Now Create.
+Therefore, this option is incorrect.
+21. Question
+Which of the following is a condition for matching rules?
+
+Agent domain
+Switching
+Specific case attributes
+Assignment
+ Unattempted
+Correct
+Option C. Specific case attributes
+
+Correct because matching rules in ServiceNow CSM are designed to evaluate case attributes (such as product, category, priority, or customer details) to determine the best agent or team to handle the case.
+These attributes form the conditions that drive automated case assignment.
+Incorrect
+Option A. Agent domain
+
+Incorrect because matching rules do not use “agent domain” as a condition. Domains are part of domain separation, not case matching logic.
+Option B. Switching
+
+Incorrect because “switching” is not a valid condition in matching rules. Matching rules rely on case data, not switching actions.
+Option D. Assignment
+
+Incorrect because assignment is the result of matching rules, not a condition. The condition is based on case attributes, and the outcome is assigning the case to the right agent or group.
+22. Question
+Which of the following are true regarding integrating a ServiceNow Knowledge base with external content? (Choose two options)
+
+SharePoint blocks this integration
+The imported article will have the same category it had in the source knowledge base
+Only applications that allow WebDAV connections can be integrated
+Imported external articles appear as attachments in ServiceNow
+ Unattempted
+Correct
+Option C. Only applications that allow WebDAV connections can be integrated
+
+Correct. ServiceNow supports integration with external knowledge bases through WebDAV connections. This is a key requirement for connecting external repositories like SharePoint or other compatible systems.
+Option D. Imported external articles appear as attachments in ServiceNow
+
+Correct. When external articles are brought into ServiceNow, they are stored as attachments to ensure accessibility within the ServiceNow Knowledge base. This is the expected behavior of the integration.
+Incorrect
+Option A. SharePoint blocks this integration
+
+Incorrect. SharePoint does not block integration. In fact, SharePoint is one of the common external systems integrated with ServiceNow Knowledge bases using WebDAV.
+Option B. Imported article will have the same category as in the source knowledge base
+
+Incorrect. Categories do not automatically transfer from the external source. ServiceNow administrators must manually assign or map categories after import.
+23. Question
+Matching rules enhance assignment capability by ____________________?
+
+Matching best agent by availability
+Providing dynamic matching of cases to groups or individuals
+Matching best agent by skill
+Determining if account is a customer or partner
+ Unattempted
+Correct
+Option B. Providing dynamic matching of cases to groups or individuals
+
+Correct because matching rules in ServiceNow CSM are designed to dynamically assign cases to the most appropriate group or individual.
+They evaluate case attributes (such as product, customer type, priority, or geography) and match them against agent or group criteria.
+This ensures efficient case routing and improves customer service response times.
+Incorrect
+Option A. Matching best agent by availability
+
+Incorrect because availability is handled by assignment rules or workforce management, not matching rules.
+Matching rules focus on case attributes rather than real‑time agent availability.
+Option C. Matching best agent by skill
+
+Incorrect because skill‑based routing is a separate capability (using skills and skill‑based assignment).
+Matching rules do not directly evaluate agent skills; they match based on case data and defined conditions.
+Option D. Determining if account is a customer or partner
+
+Incorrect because customer vs. partner classification is handled by account data in the CRM model.
+Matching rules are not used for determining account type; they are used for routing cases.
+24. Question
+What is required to synchronize fields from a parent to a child case(s)?
+
+The advanced plugin (com.sns.pa.customer_service_advanced) needs to be activated
+No action required, this is a standard Customer Service Management feature
+The role of sn_customerservice.customer_case_manager must be assigned
+Major Issue Management needs to be installed and certain properties enabled
+ Unattempted
+Correct
+Option D. Major Issue Management needs to be installed and certain properties enabled
+
+Correct because field synchronization between parent and child cases in ServiceNow CSM is a feature provided by the Major Issue Management plugin.
+Once installed, administrators can configure properties to ensure that updates made to parent case fields (such as status or priority) are automatically synchronized to child cases.
+This functionality is not available by default in standard CSM; it requires the plugin and property configuration.
+Incorrect
+Option A. The advanced plugin (com.sns.pa.customer_service_advanced) needs to be activated
+
+Incorrect because this plugin relates to Performance Analytics for CSM, not case field synchronization.
+It provides dashboards and KPIs, not parent‑child case synchronization.
+Option B. No action required, this is a standard Customer Service Management feature
+
+Incorrect because synchronization is not a standard out‑of‑the‑box feature in CSM.
+It requires enabling Major Issue Management, so action is indeed required.
+Option C. The role of sn_customerservice.customer_case_manager must be assigned
+
+Incorrect because roles control permissions and access, not synchronization behavior.
+Assigning this role allows case management but does not enable automatic field synchronization.
+25. Question
+What are common types of application record data that are imported during a CSM data migration? (Choose two of the available options)
+
+Chat
+Knowledge Article
+Accounts
+Case
+ Unattempted
+Correct
+Option B. Knowledge Article
+
+Correct because knowledge articles are a key part of Customer Service Management.
+During a CSM data migration, organizations often import existing knowledge bases so agents and customers can continue to access solutions and FAQs without disruption.
+Option C. Accounts
+
+Correct because account records (customer accounts, organizations, or companies) are fundamental to CSM.
+Migrating account data ensures that customer information is preserved and linked to cases, interactions, and other service records.
+Incorrect
+Option A. Chat
+
+Incorrect because chat transcripts are not typically imported during a CSM data migration.
+Chat is a real‑time communication channel, and historical chat data is usually not migrated as part of standard application record imports.
+Option D. Case
+
+Incorrect because while cases are central to CSM, they are not considered a “common type” of record imported during initial migrations.
+Case migration is more complex and often handled separately depending on business requirements, rather than being part of the standard import set.
+26. Question
+From what places in ServiceNow can an agent create a case? (Choose three of the available options)
+
+Chat
+Account
+Contact
+Customer Service Application
+ Unattempted
+Correct
+Option A. Chat
+
+Correct because agents can create a case directly from a live chat interaction with a customer.
+This ensures that customer issues raised during real‑time communication are captured in the case record.
+Option C. Contact
+
+Correct because agents can create a case from the Contact record.
+This is useful when a customer reaches out and the agent wants to log the issue directly against the customer’s profile.
+Option D. Customer Service Application
+
+Correct because the Customer Service application is the primary interface for agents to create and manage cases.
+It provides full case creation functionality, including linking to accounts, contacts, and related records.
+Incorrect
+Option B. Account
+
+Incorrect because while accounts store organizational information, cases are not created directly from the Account record.
+Cases are tied to contacts or customer service interactions, not accounts alone.
+27. Question
+Upon self-registration through the Consumer Service Portal, a record is created in: (Choose two of the available options)
+
+CSM User (csm_user)
+Consumer User (csm_consumer-user)
+Consumer (csm_consumer)
+Contact (customer_contact)
+ Unattempted
+Correct
+Option B. Consumer User (csm_consumer_user) This is correct because when a consumer self‑registers, a Consumer User record is created to represent the authenticated portal user in the system.
+Option C. Consumer (csm_consumer) This is also correct because a Consumer record is created to represent the individual customer entity. This record links the portal user to customer service processes and data.
+Incorrect
+Option A. CSM User (csm_user) Incorrect because csm_user is not the table used for consumer self‑registration. It is not automatically populated during portal registration.
+Option D. Contact (customer_contact) Incorrect because customer_contact is used in B2B scenarios to represent contacts associated with accounts. In consumer self‑registration, the system creates Consumer and Consumer User records, not Contact records.
+ 
+
+28. Question
+Which of the following are channels? (Choose two options)
+
+Chat
+Web
+Contacts
+Article
+ Unattempted
+Correct
+
+Option A) Chat This is correct because Chat is a recognized communication channel in ServiceNow CSM. Customers can interact with agents in real time, improving responsiveness and customer satisfaction.
+
+Option B) Web This is correct because the Web channel (via portals such as the Customer Service Portal or Consumer Service Portal) is a standard way for customers to self‑register, create cases, and access knowledge articles. It is a primary channel in CSM.
+
+Incorrect
+
+Option C) Contacts Incorrect because Contacts are records representing customer information, not communication channels. They store customer details but do not serve as a medium of interaction.
+
+Option D) Article Incorrect because Articles are part of the knowledge base. They provide information and self‑help resources but are not considered communication channels.
+
+ 
+
+29. Question
+What are the Forum User Types? (Choose three options)
+
+Registered
+Custom
+Moderator
+Admin
+Public
+ Unattempted
+Correct
+
+Option A. Registered This is correct because Registered users are authenticated users who have signed up and logged into the system. They can actively participate in forums, post questions, and reply to discussions.
+
+Option B. Custom This is correct because Custom users are configurable user types that organizations can define based on their needs. They allow flexibility in assigning specific roles or permissions within the forum.
+
+Option E. Public This is correct because Public users are unauthenticated users who can view forum content without logging in. They typically have read-only access and cannot post or interact unless they register.
+
+Incorrect
+
+Option C. Moderator Incorrect because while moderators exist in forums to oversee discussions, Moderator is not defined as one of the standard ServiceNow forum user types. Moderation is a role, not a core user type.
+
+Option D. Admin Incorrect because Admin is a system role with elevated privileges across the platform, not a forum-specific user type. Admins manage configurations and permissions but are not categorized as a forum user type.
+
+ 
+
+30. Question
+What should be part of the pre-engagement collateral?
+
+Stock Keeping Unit (SKU) and pricing sheet
+Customer Service roles template
+Frequently Asked Questions (FAQ)
+Scoping Guide
+ Unattempted
+Correct
+
+Option D. Scoping Guide This is correct because a Scoping Guide is a key part of pre-engagement collateral in ServiceNow CSM. It helps define the scope of the engagement, outlines requirements, and ensures alignment between customer expectations and project deliverables. It is used early in the process to set the stage for a successful implementation.
+
+Incorrect
+
+Option A. Stock Keeping Unit (SKU) and pricing sheet Incorrect because SKUs and pricing sheets are part of sales or procurement documentation, not pre-engagement collateral for ServiceNow CSM projects. They deal with commercial aspects rather than scoping and requirements.
+
+Option B. Customer Service roles template Incorrect because while role templates are useful during configuration and implementation, they are not considered pre-engagement collateral. They come later in the process when defining user roles and permissions.
+
+Option C. Frequently Asked Questions (FAQ) Incorrect because FAQs are customer-facing support materials, not pre-engagement collateral. They help end-users post-deployment but do not define scope or requirements before engagement.
+
+31. Question
+ACME corporation wants to use ServiceNow CSM for supporting their customers through Twitter. What CSM entity would you recommend ACME to store the customers Twitter profile details?
+
+Consumer
+Account
+Social Profile
+Not supported
+Personnel File
+ Unattempted
+C. Social Profile
+Social Profile is the correct entity to store a customer‘s Twitter profile details within ServiceNow CSM. This allows you to link the social media account to the customer record and potentially use this information for various purposes, such as:
+
+Identifying customers
+Tracking social media interactions
+Providing targeted support
+Analyzing customer sentiment
+By storing Twitter profile details in the Social Profile record, ACME Corporation can effectively manage customer interactions and leverage social media data for improved customer service.
+
+32. Question
+Access to a Knowledge base or Article can be restricted based on a customers assets and the product models using which of the following? (Choose two of the available options)
+
+Knowledge Product Entitlements
+User Criteria
+ACL
+Data Policy
+ Unattempted
+In ServiceNow Knowledge Base (KB) access control, two primary mechanisms limit access based on a customer‘s assets and product models:
+
+Knowledge Product Entitlements :
+This feature directly ties KB article access to a customer‘s product entitlements.
+When a customer subscribes to a specific product or service, they gain access to the corresponding knowledge articles within the KB. This ensures customers only see articles relevant to their products and avoids overwhelming them with irrelevant information.
+User Criteria :
+User Criteria allows defining access rules based on various user attributes, including:
+Assigned groups
+Company
+Location
+Asset ownership
+Product models associated with those assets
+By leveraging these criteria, you can restrict access to KB articles so that users only see information relevant to their specific customer interactions, assets, and product models they support.
+
+Let‘s see why the other options are not typically used for this purpose:
+
+ACL (Access Control List): ACLs are more commonly used to control access to tables and forms within ServiceNow, not specifically KB articles. While they might be used in some specific scenarios, User Criteria is generally the preferred method for KB access control.
+Data Policy: Data policies are broader guidelines for data management within ServiceNow. While they might indirectly influence KB access control decisions, they wouldn‘t directly define access rules based on customer assets and product models.
+
+33. Question
+Which of the following are true regarding the Community Portal application? (Choose two of the available options)
+
+It is only available to CSM license holders
+Most of the configuration does not require System Administrator role
+It is available to any customer with a Community license
+It is available by default with the Support and Service portals
+ Unattempted
+1. It is available to any customer with a Community license :
+
+The Community Portal application isn‘t exclusive to CSM (Customer Service Management) licenses. Customers with a standalone Community license can leverage this application to create a self-service portal for their users. This portal can house various resources like knowledge articles, FAQs, and forums, empowering users to find answers and support independently.
+
+2. Most of the configuration does not require System Administrator role :
+
+A major benefit of the Community Portal is its user-friendly configuration. Many aspects can be managed by users with roles like “Community Manager“ or “Community Creator.“ These roles can:
+
+Create and edit content categories.
+Publish knowledge articles and FAQs.
+Manage user groups and permissions within the community.
+This allows for a more collaborative approach to managing the community content without requiring constant intervention from System Administrators.
+
+Let‘s explore why the other options aren‘t entirely accurate:
+
+It is only available to CSM license holders: As mentioned earlier, the Community Portal is available with a standalone Community license.
+It is available by default with the Support and Service portals: The Community Portal is a separate application from the Support and Service portals. While it can integrate with them, it doesn‘t come bundled by default.
+
+34. Question
+What are features of Customer Service Management? (Choose four of the available options)
+
+Service Entitlements
+Demand Management
+Service Prospecting
+Skills-based routing
+Real-time SLAs
+Service Contracts
+ Unattempted
+Correct Answers:
+Service Entitlements: Defines the level of service a customer is entitled to.
+Skills-based routing: Directs incidents to agents based on their skill set.
+Real-time SLAs: Monitors service level agreements in real-time.
+Service Contracts: Outlines the terms and conditions of the service provided.
+Incorrect Answer:
+Demand Management: While related to service management, it‘s typically part of Service Portfolio Management, not Customer Service Management.
+These features are essential components of a robust Customer Service Management system, helping organizations deliver efficient and effective support to their customers.
+
+35. Question
+The ServiceNow Communities feature is only available for customers with ServiceNow Customer Services Management licenses?
+
+TRUE
+False
+ Unattempted
+False.
+
+The ServiceNow Communities feature is not exclusively available for customers with ServiceNow Customer Service Management licenses. It can also be activated for instances with HR Service Delivery licenses.
+
+36. Question
+If only one user reports a content for moderation, the content will be hidden?
+
+False
+TRUE
+ Unattempted
+A. False is the correct answer.
+
+A single report of content for moderation typically isn‘t enough to automatically hide the content. There‘s usually a process in place involving review, verification, and potential escalation before content is removed or hidden.
+
+This ensures that content is evaluated fairly and accurately before any actions are taken.
+
+37. Question
+The available case types are: (Choose two of the available options)
+
+Product Support
+Support
+Product
+Order
+ Unattempted
+Correct Answers:
+Product: This case type typically relates to issues or inquiries about specific products.
+Order: This case type is often used for order-related problems or questions.
+Incorrect Answers:
+Product Support and Support are more general terms and not typically used as standalone case types in ServiceNow.
+Product and Order are commonly used case types to categorize and manage customer issues effectively.
+
+38. Question
+Which are the key self-service functions of the Customer Support Portal? (Choose three of the available options)
+
+Service Catalog
+Knowledge Base
+Community
+Open An Incident
+ Unattempted
+Correct Answers:
+Service Catalog: Allows customers to browse and request services.
+Knowledge Base: Provides self-help resources and solutions.
+Community: Enables customers to interact and share knowledge with each other.
+Incorrect Answer:
+Open An Incident: While this is a crucial function, it‘s typically not considered a self-service feature as it requires agent intervention.
+These three options accurately represent the core self-service functions of a Customer Support Portal.
+
+39. Question
+Predictive Intelligence improves triage quality by eliminating the guesswork. Predictive Intelligence supports which of the following decisions? (Choose two of the available options)
+
+Case Escalation
+Case Prioritization
+Case State
+Case Categorization
+ Unattempted
+Correct Answers:
+Case Prioritization: Predictive Intelligence can analyze various factors to determine the urgency and importance of a case.
+Case Categorization: By identifying patterns and relationships, Predictive Intelligence can help classify cases accurately.
+These two options effectively demonstrate how Predictive Intelligence can enhance case triage by providing data-driven insights.
+
+Case Escalation and Case State are typically determined by defined business rules or workflows, rather than predictive models.
+
+40. Question
+Information in the Case Field Contact is copied to which Incident Field?
+
+User
+Customer
+Contact
+Caller
+ Unattempted
+D. Caller is correct.
+
+When a case is converted into an incident, the ‘Contact‘ field from the case is typically mapped to the ‘Caller‘ field in the incident. This helps maintain consistency in the information related to the person reporting the issue.
+
+41. Question
+Users with the sn_customerservice.proxy_contact role can do which of the following? (Choose two of the available options)
+
+Create cases on behalf of customers
+Manage major incident communication on behalf of a customer service manager
+Manage requests on behalf of customer service agents
+Create requests on behalf of customers
+Manage cases on behalf of customer service agents
+ Unattempted
+A. Create cases on behalf of customers
+D. Create requests on behalf of customers
+
+The sn_customerservice.proxy_contact role specifically grants permissions to create cases and requests on behalf of customers. This role is typically assigned to employees who interact directly with customers but don‘t have full agent privileges.
+
+42. Question
+How many active OpenFrame configurations can you have on an instance?
+
+1
+3
+2
+Unlimited
+ Unattempted
+D. Unlimited is the correct answer.
+
+ServiceNow allows for an unlimited number of active OpenFrame configurations on a single instance. This flexibility enables organizations to create tailored OpenFrame experiences for different user groups or specific business requirements.
+
+43. Question
+Articles can provide the following: (Choose three of the available options)
+
+Document current and known issues
+Share product information
+Information about customers service contract
+Provide answers and responses to common issues or questions
+ Unattempted
+Correct Answers:
+Document current and known issues: Articles can serve as a repository for problem documentation.
+Share product information: Articles can provide details about product features, functionalities, and specifications.
+Provide answers and responses to common issues or questions: Articles can offer solutions to frequently asked questions.
+These three options accurately reflect the primary purposes of knowledge articles in ServiceNow.
+
+44. Question
+What are some of the influencing factors that will help determine the type of customer support desk structure required? (Choose four of the available options)
+
+Knowledge and skills required for agents
+Languages spoken by agents
+Number of customer service portals used
+Number and type of support tools available
+Number of agents required
+Geographical location of customer
+ Unattempted
+Correct Answers:
+Knowledge and skills required for agents: Different support issues require different skill sets.
+Languages spoken by agents: Supporting multilingual customers requires language-specific agents.
+Number of agents required: The volume of support requests will determine staffing needs.
+Geographical location of customer: Time zones and regional differences can influence support desk structure.
+These factors are crucial in determining the optimal structure for a customer support desk to ensure efficient and effective service delivery.
+
+45. Question
+Major Issue Management uses which one of the following capabilities?
+
+Asset management
+Governance Risk and Control
+Record producers
+Targeted Communications
+ Unattempted
+D. Targeted Communications is correct.
+
+Targeted Communications is crucial for effective Major Incident Management as it enables timely and accurate information dissemination to stakeholders involved in the incident.
+
+46. Question
+From a security perspective, scoping brings several benefits: (Choose two of the available options)
+
+Improves instance security by limiting accessibility to other applications on the instance
+IT can manage and control the pace of the CSM teams because dependencies have been put in place
+The scope holds the records and acts as a container for the desired Customer Service Management Applications
+Provides CSM teams the autonomy and control needed to configure and manage the CSM application, but not the CSM Service Portals
+ Unattempted
+A. Improves instance security by limiting accessibility to other applications on the instance :
+
+Scoping essentially creates a defined boundary for the CSM applications. Users with access to the CSM scope can only access those specific applications within ServiceNow, not the entire platform. This reduces the risk of unauthorized access to other functionalities or data within the instance.
+C. The scope holds the records and acts as a container for the desired Customer Service Management Applications :
+
+The CSM scope serves as a designated space within the ServiceNow instance. It houses all the relevant CSM applications and data, keeping them organized and separate from other applications. This promotes data security and simplifies administration tasks for the CSM team.
+Let‘s explore why the other options aren‘t the primary security benefits of scoping:
+
+B. IT can manage and control the pace of the CSM teams because dependencies have been put in place: While scoping might indirectly influence the pace of CSM team activities due to the defined application set, it‘s not the primary purpose. Dependencies can exist within the scoped applications themselves, but scoping primarily focuses on security and organization.
+D. Provides CSM teams the autonomy and control needed to configure and manage the CSM application, but not the CSM Service Portals: This statement focuses more on user permissions within the scoped applications. While scoping can manage access levels, it doesn‘t inherently restrict control over Service Portals. These access controls can be configured independently.
+In conclusion, when it comes to security in ServiceNow CSM, scoping shines in:
+
+Limiting access to other applications on the instance.
+Providing a secure container for CSM applications and data.
+
+47. Question
+In the Customer Service Management space, what does the term asset management mean?
+
+Tracking products or services customers are using
+Tables in the Asset application
+A set of business activities and processes used to track assets
+Financial, contractual and inventory information of assets
+ Unattempted
+A. Tracking products or services customers are using
+In the context of Customer Service Management (CSM), asset management primarily refers to tracking the specific products or services that customers are utilizing. This information is crucial for providing effective support, understanding customer needs, and managing service entitlements.
+
+While options B, C, and D are related to asset management in a broader sense, they don‘t specifically capture the essence of asset management within the CSM domain.
+
+48. Question
+What are some benefits that Knowledge Product Entitlement provide? (Choose three of the available options)
+
+Reduces call volume
+Information about customers service contract
+Focused product marketing
+Allows access to Knowledge Articles that are related to products owned by a customer
+Makes it easier for Agents to manage case volume
+ Unattempted
+Correct Answers:
+Reduces call volume: By providing customers with self-service access to relevant information.
+Allows access to Knowledge Articles that are related to products owned by a customer: Enhances the relevancy of knowledge base content.
+Makes it easier for Agents to manage case volume: By directing customers to self-service options and providing agents with relevant information.
+These options accurately reflect the benefits of Knowledge Product Entitlements in improving customer satisfaction and agent efficiency.
+
+49. Question
+Predictive Intelligence improves Case management by?
+
+Reducing the number of records needed to accurately predict a value
+Replacing legacy routing rules
+Predicting Case values without manual intervention
+Predicting what values should have gone into empty fields in historical records
+ Unattempted
+C. Predicting Case values without manual intervention
+Predictive Intelligence improves Case management by predicting Case values without manual intervention. This means the system can automatically suggest or populate fields like case category, priority, or assignment group based on the available data, saving agents time and improving accuracy.
+
+50. Question
+What is required to enable the Follow the sun field on the Customer Service Case form?
+
+The value property on the form must be set to true
+The value property on the form must be set to true and the field added to the case form
+The plugin com.snc.csm_time_recording needs to be activated
+Nothing, it is a standard field
+ Unattempted
+B. The value property on the form must be set to true and the field added to the case form
+To enable the “Follow the sun“ field on the Customer Service Case form, you need to:
+
+Set the value property to true: This activates the feature.
+Add the field to the case form: This makes the field visible for users to interact with.
+By completing both steps, you‘ll successfully enable the “Follow the sun“ functionality on the case form.
+
+51. Question
+What are the Critical Success Factors that are related to CSM Suite Implementations? (Choose four of the available options)
+
+Implementation is only as good as the underlying process
+Define the number of hours needed to develop the associated requirements
+Have a clear understanding of the use cases
+Provide consistent service to customers
+Define the Business Pain Points
+ Unattempted
+Correct Answers:
+Implementation is only as good as the underlying process: Emphasizes the importance of solid business processes.
+Have a clear understanding of the use cases: Identifies the specific needs and goals of the implementation.
+Provide consistent service to customers: Ensures a positive customer experience.
+Define the Business Pain Points: Helps focus on addressing key challenges.
+These factors are crucial for a successful CSM implementation.
+
+52. Question
+Who can create a customer service case from a community discussion? (Choose two of the available options)
+
+Proxy case creator (sn_customerservice.proxy_case_creator)
+Case Viewer (sn_customerservice.case_viewer)
+Customer service agent (sn_customerservice_agent)
+Partner (sn_customerservice.partner)
+ Unattempted
+Correct Answers:
+A. Proxy case creator (sn_customerservice.proxy_case_creator): This role is specifically designed to create cases on behalf of others.
+C. Customer service agent (sn_customerservice_agent): Agents have the authority to create cases from various sources, including community discussions.
+These two roles have the necessary permissions to convert a community discussion into a case.
+
+53. Question
+Which of the following functions can be completed when using the Field Service Management Application on a mobile device offline? (Choose three of the available options)
+
+Manage assets
+Manage requests
+Execute assigned tasks
+Close work orders
+Manage cases
+ Unattempted
+Correct Answers:
+A. Manage assets: Field service technicians can access and update asset information offline.
+C. Execute assigned tasks: Technicians can complete and update task details without an internet connection.
+D. Close work orders: Work orders can be closed and marked complete even when offline.
+These functions are typically designed to work offline in Field Service Management applications to ensure technicians can continue their work even in areas with limited or no network connectivity.
+
+54. Question
+The assignment workbench uses configurable matching criteria to evaluate agents in a selected group and provide an overall ranking. What are the different types of criteria available for the assignment workbench? (Choose three of the available options)
+
+Aggregate
+Correlation
+Scripted
+Availability
+Simple Match
+ Unattempted
+The three types of criteria available for the assignment workbench are:
+
+Aggregate: Used for simple queries and returning aggregate results.
+Scripted: Allows for more complex matching logic using scripts.
+Simple Match: Creates a one-to-one match based on specific criteria.
+These criteria provide flexibility in configuring the assignment workbench to match agents to cases based on various factors.
+
+55. Question
+Whats the purpose of the Deactivate Special Handling Notes Scheduled Job?
+
+Runs at the end of the month and deactivates all Special Handling notes more than 30 days old
+Runs weekly and must have the Active checkbox unchecked in order for Special Handling notes to be deleted by the end of the week
+Runs daily at midnight, checks all active alerts and sets the status to Expired for those that have reached their expiration dates
+Runs on demand by the System Admin who must set specific weekly schedules and set only those that are priority 1-critical to be deactivated
+ Unattempted
+C. Runs daily at midnight, checks all active alerts and sets the status to Expired for those that have reached their expiration dates
+The Deactivate Special Handling Notes Scheduled Job is designed to automatically manage the lifecycle of special handling notes. It primarily functions by:
+
+Running daily at midnight
+Checking all active special handling notes
+Setting the status to “Expired“ for those notes that have reached their expiration date
+This ensures that special handling notes don‘t clutter the system and remain relevant by automatically removing those that are no longer needed.
+
+56. Question
+A consumer service agent receives and accepts a case which was created by a consumer. The agent needs and requests more information from the consumer. After receiving the information, the agent proposes a solution that is accepted by the consumer. Given this scenario, what is the chronological order of case states used to manage this case?
+
+New > Open > Awaiting Info > Open > Resolved > Closed
+New > Open > Work in Progress > Solution Proposed > Closed
+Open > Pending > Work in Progress > Resolved > Closed
+New > Work in Progress > On Hold > Work in Progress > Resolved > Closed
+ Unattempted
+A. New > Open > Awaiting Info > Open > Resolved > Closed
+
+This sequence accurately reflects the case lifecycle based on the provided scenario:
+
+New: The case is initially created by the consumer.
+Open: The agent accepts the case and starts working on it.
+Awaiting Info: The agent needs additional information from the consumer.
+Open: The case is reopened after receiving the required information.
+Resolved: The agent proposes a solution and the consumer accepts it.
+Closed: The case is successfully closed after resolution.
+
+57. Question
+Asset classes are defined to allow for logical grouping of assets. There are five asset classes provided to group assets, each Asset class provides unique functionality for that group of Assets in the platform. Which of the following are the asset classes used? (Choose five of the available options)
+
+Enterprise Software assets
+Hardware assets
+Consumables assets
+Configuration assets
+Software licenses assets
+Facility assets
+ Unattempted
+The five asset classes in ServiceNow are:
+
+Enterprise Software assets: Includes software applications and suites.
+Hardware assets: Covers physical IT equipment.
+Consumables assets: Manages assets with a limited lifespan, like office supplies.
+Software licenses assets: Tracks software licenses and entitlements.
+Facility assets: Includes physical assets like buildings, rooms, and equipment.
+These asset classes provide a structured way to categorize and manage different types of assets within the ServiceNow platform.
+
+58. Question
+Information about a customers service contract is found in Knowledge?
+
+TRUE
+False
+ Unattempted
+B. False
+
+Information about a customer‘s service contract is typically stored in a dedicated Service Contract record within ServiceNow CSM, not in the Knowledge base. While Knowledge articles might reference or provide information related to a service contract, they are not the primary repository for contract details.
+
+59. Question
+What are the conditions that matching rules are based on? (Choose two of the available options)
+
+Agent resources best suited to work on a case
+Specific case attributes
+Specific routing rules
+Filters set up in advanced work assignment
+ Unattempted
+Correct Answers:
+A. Agent resources best suited to work on a case: Matching rules can consider agent skills, availability, and workload.
+B. Specific case attributes: Case type, category, urgency, and other fields can be used as matching criteria.
+These two options accurately represent the core conditions used in matching rules to optimize case assignment.
+
+60. Question
+Special Handling Notes can apply to which one of the following based on specific attributes?
+
+Holiday
+Contact
+VIP
+ Unattempted
+B. Contact
+Special Handling Notes can apply to Contact based on specific attributes. This means you can create special handling notes for specific contacts or groups of contacts, providing relevant information to agents when handling cases or interactions related to those contacts.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10
+
+Skillcertpro
+Instagram Twitter Linkedin-in Facebook-f
+Quick Links
+About us
+FAQ
+Browse All practice tests
+Contact Form
+Important Links
+Refund Policy
+Refund Request
+Terms & Conditions
+Privacy Policy
+
+Privacy Policy
+

@@ -1,0 +1,878 @@
+Skip to content
+Skillcertpro Logo
+Products search
+Search for products...
+All Courses
+Contact Us
+MY ACCOUNT
+/ ServiceNow / By SkillCertPro
+Practice Set 9
+
+Your results are here!! for" ServiceNow CIS CSM - Customer Service Management Practice Test 9 "
+0 of 48 questions answered correctly
+
+Your time: 00:00:03
+
+Your Final Score is : 0
+You have attempted : 0
+Number of Correct Questions : 0 and scored 0
+Number of Incorrect Questions : 0 and Negative marks 0
+
+Average score	  73.54%
+Your score	  0%
+You can review your answers by clicking on “View Answers” option.
+Important Note : Open Reference Documentation Links in New Tab (Right Click and Open in New Tab).
+ 
+Answer Review
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748
+ Correct
+ Incorrect
+ Unattempted
+Focus: incorrect & unattempted
+1. Question
+Which of the following child case states would cause parent – child case synchronization to fail? (Choose three.)
+
+New
+Cancelled
+Resolved
+In Progress
+Closed
+Awaiting Info
+ Unattempted
+Correct
+Option B. Cancelled
+
+Correct because when a child case is cancelled, synchronization with the parent case fails.
+Cancelled cases are considered inactive, so they no longer participate in parent‑child updates.
+Option C. Resolved
+
+Correct because once a child case is resolved, it is no longer in an active state.
+Synchronization fails since resolved cases are excluded from parent‑child state propagation.
+Option E. Closed
+
+Correct because a closed child case is finalized and cannot be updated further.
+Synchronization fails because closed cases are locked from parent‑child state changes.
+Incorrect
+Option A. New
+
+Incorrect because a child case in the New state is still active and eligible for synchronization.
+Synchronization works normally until the case transitions to a terminal state.
+Option D. In Progress
+
+Incorrect because In Progress is an active state.
+Synchronization continues to function while the child case is in this state.
+Option F. Awaiting Info
+
+Incorrect because Awaiting Info is also an active state.
+Synchronization remains intact until the case is resolved, cancelled, or closed.
+2. Question
+Which role must B2B and B2C customers obtain, at a MINIMUM, to access to a ServiceNow instance?
+
+Account Contact (sn_customeservice.account_contact)
+Case Creator (sn_customerservice.case_creator)
+External (snc_external)
+Customer (sn_customerservice.customer)
+ Unattempted
+External (snc_external) is the correct answer.
+
+This role is the fundamental permission required for any external user, whether B2B or B2C, to access a ServiceNow instance. It signifies that the user is not an internal employee of the organization.
+
+While other roles like Account Contact or Customer might provide additional permissions, the snc_external role is the minimum requirement for external access.
+
+3. Question
+The assignment workbench uses configurable matching criteria to evaluate agents in a selected group and provide an overall ranking. What are the different types of criteria available for the assignment workbench? (Choose three.)
+
+Aggregate
+Simple Match
+Scripted
+Availability
+Correlation
+ Unattempted
+Aggregate, Simple Match, and Scripted are the correct types of criteria available for the assignment workbench.
+
+These criteria provide different levels of complexity and flexibility in defining how work items are assigned to agents based on various factors.
+
+4. Question
+Which feature enables you to quickly identify high-priority tasks based on multiple dimensions, not just by a single field value like priority?
+
+Case Performance
+Case Digest
+Case Spotlight
+Case Analytics
+ Unattempted
+Case Spotlight is the correct answer.
+
+It allows you to define multiple criteria (like priority, age, case owner, etc.) and assign weights to them to prioritize tasks effectively. This provides a more comprehensive view of task importance compared to relying on a single field like priority.
+
+5. Question
+Advance Work Assignment assigns work to agents based on their availability, capacity, and skills. Agent Affinity enhances the Advanced Work Assignment process by adding additional agent details organized by affinity type. Which of these are these affinity types? (Choose three.)
+
+Account team responsibility
+Product expertise
+Related task
+Historical
+Skill seniority
+ Unattempted
+Account team responsibility, Related task, and Historical are the correct affinity types used in Agent Affinity to enhance the Advanced Work Assignment process.
+
+These affinity types allow for more nuanced work assignment based on factors beyond just skills, availability, and capacity.
+
+6. Question
+Entitlements specify the level of service provided to customers.
+
+True
+FALSE
+ Unattempted
+True
+
+Entitlements indeed specify the level of service provided to customers. They outline the services, support levels, response times, and other terms and conditions applicable to a customer based on their contract or agreement.
+
+7. Question
+An Account Relationship is based on a defined account relationship hype. Users with the System Administrator role can define two types of relationships: (Choose two.)
+
+Partner-to-account
+Account-to-account
+Customer-to-Consumer
+Account-to-customer
+Partner-to-customer
+ Unattempted
+✅ A. Partner-to-account System Administrators can define relationships where a partner organization has a defined relationship with a customer account.
+
+✅ B. Account-to-account System Administrators can define relationships directly between different customer accounts within the system. This allows for tracking hierarchical or peer relationships between organizations.
+
+❌ C. Customer-to-Consumer While relationships exist between Accounts (organizations) and Consumers (individual contacts), the primary definition of Account Relationships focuses on connections between organizational entities. “Customer-to-Consumer” isn’t a standard “Account Relationship Type” in the same way as the others.
+
+❌ D. Account-to-customer Similar to “Customer-to-Consumer,” this option describes a relationship between an organization (Account) and an individual (Customer/Contact), which isn’t the core focus of the defined “Account Relationship Type.”
+
+❌ E. Partner-to-customer This option describes a relationship between a partner organization and an individual customer, which falls outside the typical definition of “Account Relationship Types” that primarily link organizational entities.
+
+8. Question
+Which of the following are best practice with regard to data imports? (Choose two.)
+
+When importing to multiple instances import to each instance separately.
+Images embedded in Knowledge Articles should be uploaded separately.
+Ensure the field data lengths in ServiceNow are adequate for the imported data because ServiceNow does not automatically adjust the length.
+Use ServiceNow automatic functionality to clean the data after it is in ServiceNow tables rather than in the legacy repository.
+ Unattempted
+Images embedded in Knowledge Articles should be uploaded separately.
+Ensure the field data lengths in ServiceNow are adequate for the imported data because ServiceNow does not automatically adjust the length.
+Explanation:
+
+Images embedded in Knowledge Articles should be uploaded separately: This is a best practice because embedding images directly into articles might not be efficient or ideal for managing them. It’s best to upload images separately and reference them in the article, ensuring better control and management of the resources.
+Ensure the field data lengths in ServiceNow are adequate for the imported data: Since ServiceNow doesn’t automatically adjust the length of fields when importing data, it’s important to ensure that the field data lengths are properly configured to accommodate the incoming data. Otherwise, data truncation or errors may occur.
+9. Question
+When activating the Customer Service Management Demo Data plugin, which case type is available besides product case?
+
+Contract
+FAQ
+Order
+Billing
+Monitoring
+Request
+ Unattempted
+Correct 
+
+Option C. Order
+
+When activating the Customer Service Management Demo Data plugin, Order cases are available alongside Product cases. This provides demo data for common customer service scenarios including order management and product support.
+
+Incorrect 
+
+Option A. Contract: Contract cases require separate Contract Management plugin activation.
+
+Option B. FAQ: FAQs are knowledge articles, not case types.
+
+Option D. Billing: Billing cases are custom configuration, not OOB demo data.
+
+Option E. Monitoring: Monitoring is ITOM functionality, unrelated to CSM demo data.
+
+Option F. Request: Service requests belong to ITSM, not Customer Service Management demo dataset.
+
+10. Question
+What are the different resource matching methods on the Matching Rule form? (Choose four.)
+
+Selection Criteria
+Skill
+Simple
+Scripted
+History
+Advanced
+ Unattempted
+Correct
+
+Option A. Selection Criteria
+Pre-defined conditions match work items to agent groups/queues based on case attributes (priority, region, product).
+
+Option C. Simple
+Basic user selection – manually pick specific agent from dropdown list.
+
+Option D. Scripted
+Custom JavaScript logic for complex matching algorithms and business rules.
+
+Option F. Advanced
+Multi-factor matching combining availability, capacity, workload, and skills.
+
+Incorrect 
+
+Option B. Skill
+Not a matching method – skills used within Advanced matching, not standalone method.
+
+Option E. History
+Not available – no “History” matching method exists in CSM routing rules.
+
+11. Question
+Viewing a customer’s install base in the CSM Workspaces enables customer service agents to: (Choose two.)
+
+See the detailed configurations of the products and services deployed for a customer to determine the action needed
+Trace Information provided in a case to the right product or service to which it relates
+Close an upsell of related products and services not yet purchased by a customer
+Monitor related operational services and configuration items that affect service health
+ Unattempted
+Correct
+Option A. See the detailed configurations of the products and services deployed for a customer to determine the action needed
+
+Correct because the install base view provides visibility into what products and services the customer already has.
+This helps agents understand the customer’s environment and decide the right resolution path.
+Option B. Trace information provided in a case to the right product or service to which it relates
+
+Correct because linking case details to the customer’s install base ensures the agent is working on the correct product/service.
+This improves accuracy and efficiency in resolving customer issues.
+Incorrect
+Option C. Close an upsell of related products and services not yet purchased by a customer
+
+Incorrect because upselling is a sales activity, not a primary function of the install base view in CSM Workspaces.
+The install base is focused on service resolution, not sales enablement.
+Option D. Monitor related operational services and configuration items that affect service health
+
+Incorrect because monitoring service health is part of IT Service Management (ITSM) and CMDB functions, not the CSM install base view.
+CSM agents use install base for customer-specific product/service context, not operational monitoring.
+12. Question
+When implementing Knowledge Product Entitlements, what is enabled when activating the Enable access control of Knowledge Articles system property?
+
+Allows access to knowledge articles that are related to products owned by a customer
+Allows access to knowledge articles based on customers security access
+Allows access to knowledge articles that are related to entitlements owned by a customer
+Allows access to multi-product line knowledge articles
+ Unattempted
+Correct
+Option A. Allows access to knowledge articles that are related to products owned by a customer
+
+Correct because enabling the system property ties knowledge article access to the products a customer owns.
+This ensures entitlement logic is applied, so customers only see articles relevant to their purchased or entitled products.
+It enforces product‑based access control, which is the intended functionality of Knowledge Product Entitlements.
+Incorrect
+Option B. Allows access to knowledge articles based on customer’s security access
+
+Incorrect because security roles and access controls are separate from product entitlements.
+This option confuses role‑based access with entitlement‑based access.
+Option C. Allows access to knowledge articles that are related to entitlements owned by a customer
+
+Incorrect because entitlements in ServiceNow CSM typically govern case handling and support services, not direct knowledge article access.
+Product ownership, not entitlement records, drives knowledge article visibility when this property is enabled.
+Option D. Allows access to multi‑product line knowledge articles
+
+Incorrect because the property does not automatically grant access to multi‑product line articles.
+Access is strictly tied to the customer’s owned products, not generalized across product lines.
+13. Question
+Which application must be activated to enable customers to check in on-line for future appointments?
+
+Walk-Up Experience
+Field Service Management
+Service Organization
+Business Location
+ Unattempted
+Walk-Up Experience is the correct answer.
+
+This application provides the necessary functionality for customers to check in online for future appointments, streamlining the process and improving efficiency.
+
+14. Question
+Name a security benefit gained from using scoped applications:
+
+Prevents third party integrations
+Prevents changes to tables without explicit permission from IT
+Limits accessibility to other applications in the instance
+Limits the number of update sets that can be applied
+ Unattempted
+C. Limits accessibility to other applications in the instance (Correct)
+
+The primary purpose of a scoped application is to isolate its data and artifacts from other applications on the platform. By default, an application scope blocks other scoped applications or the global scope from accessing its tables, scripts, and configurations unless explicit cross-scope access is granted via Application Access settings. This prevents unauthorized applications from reading, modifying, or deleting sensitive CSM data (like customer accounts, contacts, or cases).
+
+A. Prevents third party integrations (Incorrect)
+
+Scoped applications do not prevent third-party integrations; in fact, they fully support them. You can easily build REST/SOAP integrations, utilize IntegrationHub spokes, or expose scripted REST APIs within a scoped application to connect CSM with external CRM or billing systems. Scoping simply controls internal access between applications residing on the same instance.
+
+B. Prevents changes to tables without explicit permission from IT (Incorrect)
+
+Application scoping enforces programmatic access and architectural boundaries at the system level, not human workflows or IT approval gates. While it restricts scripts in other scopes from altering the application’s tables, it does not manage or enforce internal administrative change management processes or formal IT approvals.
+
+D. Limits the number of update sets that can be applied (Incorrect)
+
+There is no platform limitation on the number of update sets you can create, retrieve, or commit based on whether an application is scoped or global. Application scoping changes how changes are packaged (often using Application Repository or source control integrations like Git instead of traditional update sets), but it does not impose a numeric limit on deployment files.
+
+15. Question
+What does the Agent Whisper function do?
+
+Lets agents and requesters have a conversation without the chat supervisor knowing
+Lets agents and chat supervisors have a conversation without the requester knowing
+Lets agents have chat conversations with other agents without the requester knowing
+Lets the chat supervisors have a conversation with the requester without the agent knowing
+ Unattempted
+B. Lets agents and chat supervisors have a conversation without the requester knowing (Correct)
+
+The Agent Whisper function allows a chat supervisor to join an active interaction between an agent and a customer (requester). The supervisor can type messages directly into the chat interface that are visible only to the agent. This allows the supervisor to provide guidance, suggest knowledge articles, or coach the agent through a difficult case in real time, completely hidden from the customer’s view.
+
+A. Lets agents and requesters have a conversation without the chat supervisor knowing (Incorrect)
+
+Supervisors have visibility into active chat queues and transcripts based on their role permissions. Agent Whisper is specifically a tool for the supervisor to intervene, not a mechanism for agents to hide customer conversations from management.
+
+C. Lets agents have chat conversations with other agents without the requester knowing (Incorrect)
+
+While ServiceNow supports agent-to-agent transfers or internal consultations, the specific feature named Agent Whisper is architected natively for the supervisor-to-agent coaching dynamic within the workspace during a live interaction.
+
+D. Lets the chat supervisors have a conversation with the requester without the agent knowing (Incorrect)
+
+The agent is always aware when a supervisor joins the chat or uses the whisper function. If a supervisor needs to take over a conversation entirely and speak directly to the customer, they would use the Join/Take Over function, which alerts the agent and changes the active ownership of the interaction.
+
+16. Question
+In Advanced Work Assignment, what does the overflow assignment capability do, if defined?
+
+Uses matching and assignment rules to send work items to the agent with the most capacity
+Routes cases to different groups based on their skill set and availability
+When one support group reaches capacity the work item is automatically routed to another group
+Uses matching and assignment rules to send work items to the agent with the highest availability
+ Unattempted
+C. When one support group reaches capacity the work item is automatically routed to another group (Correct)
+
+In AWA, queues use assignment eligibility rules to determine which group of agents receives work items. The overflow assignment capability allows you to define a secondary (or backup) assignment group and set timeout or capacity conditions. If the primary group is entirely at maximum capacity or fails to accept the work item within a specified time frame, AWA automatically routes the work item to the designated overflow group to ensure customer cases do not sit unassigned.
+
+A. Uses matching and assignment rules to send work items to the agent with the most capacity (Incorrect)
+
+This describes the standard baseline behavior of AWA’s assignment mechanisms (such as the Most Capacity or Awake Agents utilization strategies) used to select individual agents within a group. It is not what the overflow capability itself does. Overflow changes the target group entirely when the primary group cannot handle the load.
+
+B. Routes cases to different groups based on their skill set and availability (Incorrect)
+
+This describes the foundational purpose of Omni-Channel Routing and basic queue routing criteria using agent skills, layout conditions, and availability. It defines standard primary routing rather than the exception-handling mechanics of overflow routing.
+
+D. Uses matching and assignment rules to send work items to the agent with the highest availability (Incorrect)
+
+Similar to option A, this refers to agent-level selection criteria (like routing based on availability status or agent presence) within a specific assignment rule. It does not represent the group-to-group fallback logic that defines overflow behavior.
+
+17. Question
+When the virtual agent plugin is installed NLU is activated but is not available for use until what two configurations are completed? (Choose two.)
+
+Choose the NLU service provider
+In the NLU Settings configure the Entity confidence threshold
+Enable NLU in Virtual Agent
+In the NLU Settings configure the Intent confidence threshold
+ Unattempted
+A. Choose the NLU service provider (Correct): Before the Virtual Agent can accurately parse and process user utterances, you must specify which NLU engine will interpret the input (e.g., ServiceNow NLU, Google Dialogflow, or Microsoft LUIS). The system needs this selection to know where to route the text string for intent matching.
+
+C. Enable NLU in Virtual Agent (Correct): Even if the Virtual Agent plugin is active, NLU capability remains globally switched off within Virtual Agent by default. You must navigate to Collaboration > Virtual Agent > General Settings and explicitly toggle Enable NLU in Virtual Agent to switch the bot behavior from rigid keyword matching to conversational NLU topic discovery.
+
+B. In the NLU Settings configure the Entity confidence threshold (Incorrect): While confidence thresholds matter for model precision, you do not need to customize the Entity threshold just to make NLU available for basic use. The system functions immediately with platform default limits.
+
+D. In the NLU Settings configure the Intent confidence threshold (Incorrect): Similar to option B, setting an exact intent threshold is a performance tuning step rather than a functional prerequisite. ServiceNow applies a built-in default intent threshold out of the box so that the engine operates immediately upon activation.
+
+18. Question
+What does viewing a customers install base enable customer service agents to do? (Choose two.)
+
+Close an upsell of related products and services not yet purchased by a customer
+Monitor alerts for operational services and configuration items that affect service health
+Trace information provided m a case to the right product or service to which it relates
+See the detailed configurations of the products and services deployed for a customer to determine me action needed
+ Unattempted
+C. Trace information provided in a case to the right product or service to which it relates (Correct)
+
+When an agent opens a case, having visibility into the customer’s install base allows them to accurately link the customer’s specific issue to the exact entity experiencing the problem (e.g., matching a software glitch to the specific instance or license version the customer owns). This ensures data integrity and helps apply the correct service level agreements (SLAs).
+
+D. See the detailed configurations of the products and services deployed for a customer to determine the action needed (Correct)
+
+The install base item details (often linked directly to Configuration Items (CIs) in the CMDB) provide the agent with crucial context, such as serial numbers, installation dates, components, and current status. This structural visibility allows the agent to diagnose issues faster and determine the next logical troubleshooting step or resolution path.
+
+A. Close an upsell of related products and services not yet purchased by a customer (Incorrect)
+
+The install base tracking mechanism explicitly documents products and services that have already been purchased, installed, or deployed by the customer. While an agent might use this context to identify gaps for future sales conversations, closing upsells for unpurchased items is a function of sales/opportunity pipelines, not the operational purpose of checking the install base.
+
+B. Monitor alerts for operational services and configuration items that affect service health (Incorrect)
+
+Monitoring active infrastructure alerts and tracking overall service health is the primary responsibility of IT Operations Management (ITOM) and Event Management. While CSM agents can see impacted install base items when an issue is proactively communicated, the act of actively monitoring live health alerts happens in ITOM consoles rather than standard customer install base views.
+
+19. Question
+What feature does the Product Model and Catalog Items Relationship plugin enable?
+
+Consumers can track what products they have purchased via the catalog
+Agents are automatically proposed catalog items related to the chosen product on the case form
+It provides a contextual service catalog based on the customers subscribed services
+Customer service managers can track the financial cost of customers subscribed services and the related requests
+ Unattempted
+C. It provides a contextual service catalog based on the customer’s subscribed services (Correct)
+
+The Product Model and Catalog Items Relationship feature (often leveraging the com.snc.csm_product_model_item plugin) enables companies to bind specific service catalog items directly to product models. When a customer logs into the Customer Service Portal, the catalog becomes contextual. Instead of seeing a massive, generic list of services, the portal dynamically filters and presents only the catalog items and requests that directly correspond to the specific product models or services that the customer has actually purchased or subscribed to.
+
+A. Consumers can track what products they have purchased via the catalog (Incorrect)
+
+Tracking previously purchased products, assets, or licenses is the distinct operational purpose of the Install Base and Sold Products lists visible on the portal or workspace. The Service Catalog is used to request new items or services, not to act as a historical system of record for past asset purchases.
+
+B. Agents are automatically proposed catalog items related to the chosen product on the case form (Incorrect)
+
+While ServiceNow Workspaces use Agent Assist and predictive intelligence to propose Knowledge Articles or similar Major Cases on the case form, this specific plugin targets the end-user / customer self-service journey in the Service Catalog, rather than pushing catalog generation pop-ups natively into the agent’s case management view.
+
+D. Customer service managers can track the financial cost of customer’s subscribed services and the related requests (Incorrect)
+
+Financial modeling, cost tracking, and chargebacks for requests are managed via specialized platform components such as Financial Management or the Cost Transparency applications. This plugin simply builds the structural metadata relationship mapping between a conceptual Product Model and an orderable Catalog Item.
+
+20. Question
+What action can be performed by a Partner Admin (sn_customerservice.partner_admin) and NOT by a Partner (sn_customerservice partner) in the Customer Service Portal?
+
+Can view assets belonging to their partner accounts
+Can create, view, and edit cases for their partner accounts
+Can create and update contacts for their partner accounts
+Can resolve cases reported by their partner accounts
+ Unattempted
+C. Can create and update contacts for their partner accounts (Correct)
+
+The Partner Admin (sn_customerservice.partner_admin) role is specifically granted administrative control over the partner’s account infrastructure and user base via the Customer Service Portal. They are responsible for managing the personnel within their own organization and sub-accounts. Therefore, the Partner Admin can explicitly create, update, and manage the contact records for their partner accounts, a structural user-administration privilege that a standard Partner (sn_customerservice.partner) does not possess.
+
+A. Can view assets belonging to their partner accounts (Incorrect)
+
+Both the Partner and the Partner Admin roles have visibility into the assets linked to their assigned accounts. Viewing assets is a baseline capability necessary for standard partner agents to verify entitlements and install bases when troubleshooting or reporting issues.
+
+B. Can create, view, and edit cases for their partner accounts (Incorrect)
+
+The primary day-to-day operational task of a regular Partner role is to log and manage cases on behalf of their customers or partner accounts. Since both roles can perform these actions, it does not represent a differentiator that belongs only to the Partner Admin.
+
+D. Can resolve cases reported by their partner accounts (Incorrect)
+
+Case resolution capabilities on the portal are generally determined by case ownership and standard partner permissions. A regular Partner actively working on a collaborative case can interact with it and move it along the lifecycle, meaning this capability is not exclusively restricted to the administrative role.
+
+21. Question
+Who can create a customer service case from a community discussion? (Choose two.)
+
+Proxy case creator (sn_customerservice.proxy_case_creator)
+Partner (sn_customerservice.partner)
+Customer service agent (sn_customerservice_agent)
+Case Viewer (sn_customerservice.case_viewer)
+ Unattempted
+A. Proxy case creator (sn_customerservice.proxy_case_creator) (Correct)
+
+The Proxy Case Creator role is specifically designed to allow internal users or managers to create cases on behalf of customers or partners who cannot do it themselves. In a community ecosystem, a community manager or moderator assigned this role can review a community thread and log a proxy case to ensure the customer’s issue gets formal attention.
+
+C. Customer service agent (sn_customerservice_agent) (Correct)
+
+Customer Service Agents have core case management write-privileges across the CSM platform. When viewing integrated community feeds or discussions, an agent has the direct ability to convert a public forum post into a formal customer service case to track complex technical troubleshooting to resolution.
+
+B. Partner (sn_customerservice.partner) (Incorrect)
+
+The Partner role is an external-facing role designed for business partners to view accounts and log standard cases through the Customer Service Portal. While they can participate in community discussions, they do not possess the internal administrative or agent privileges required to initiate the specific “create case from discussion” escalation workflow.
+
+D. Case Viewer (sn_customerservice.case_viewer) (Incorrect)
+
+As the name implies, the Case Viewer role provides read-only permission to inspect case records. It explicitly lacks the write or create privileges needed to generate new cases from any source, including community threads.
+
+22. Question
+In Agent Workspace Chat, Agents have the ability to use quick actions to work more efficiently. What action does the /r quick action perform?
+
+Rolls up the current chat history towards an existing case
+Uses response templates to insert as text in a conversation
+Routes the chat towards another group
+Rejects an incoming chat and moves it automatically to the General queue
+ Unattempted
+B. Uses response templates to insert as text in a conversation (Correct)
+
+The /r (or /response) quick action opens the Response Templates (formerly known as Quick Messages) menu. This allows the customer service agent to quickly search for, select, and insert pre-written, standardized text blocks—such as greetings, standard troubleshooting steps, or closing remarks—directly into the chat text box to maintain consistent and efficient communication.
+
+A. Rolls up the current chat history towards an existing case (Incorrect)
+
+While agents can link a chat interaction to an existing case or create a new case from a chat session using the workspace action buttons, there is no /r quick action designed to “roll up” or merge history via the chat input bar.
+
+C. Routes the chat towards another group (Incorrect)
+
+To transfer a chat to another assignment group or a specific agent within Advanced Work Assignment (AWA), agents use the native Transfer button located in the workspace interaction panel, or they utilize the specific /t (transfer) quick action command if configured.
+
+D. Rejects an incoming chat and moves it automatically to the “General” queue (Incorrect)
+
+Incoming chats are presented to agents via the AWA Inbox card pop-up where they can click “Accept” or “Reject”. If an agent rejects a work item, AWA automatically routes it to the next available agent in that specific queue based on assignment eligibility, not via a slash command in an open chat window.
+
+23. Question
+An entitlement defines the types of support a customer receives. Entitlements are based on a number of standard fields such as product and asset. When Proactive Customer Service Operations is implemented which additional fields could be used? (Choose two.)
+
+Configuration Item
+Install base item
+Sold product
+Contact
+Business Service
+ Unattempted
+Correct
+Option B. Install base item Correct. With Proactive Customer Service Operations, entitlements can leverage install base items, which represent the physical or logical items installed at a customer site. This allows entitlements to be tied to specific deployed assets.
+Option C. Sold product Correct. Another additional field is sold product, which links entitlements to the actual product sold to the customer. This ensures support is aligned with the customer’s purchase history.
+Incorrect
+Option A. Configuration Item Incorrect because configuration items are part of CMDB and standard entitlement fields, not specifically added by Proactive Customer Service Operations.
+Option D. Contact Incorrect because contacts are linked to customers but are not entitlement fields added by Proactive Customer Service Operations.
+Option E. Business Service Incorrect because business services are part of service mapping and service portfolio management, not entitlement extensions under Proactive Customer Service Operations.
+24. Question
+Upon self-registration through the Consumer Service Portal, a record is created in: (Choose two.)
+
+Consumer User (csm_consumer-user)
+CSM User (csm_user)
+Consumer (csm_consumer)
+Contact (customer_contact)
+ Unattempted
+Correct
+
+Option A) Consumer User (csm_consumer_user) This is correct because when a consumer self‑registers, a Consumer User record is created. This represents the user account that allows the consumer to log in and interact with the portal.
+
+Option C) Consumer (csm_consumer) This is also correct because a Consumer record is created to represent the individual customer entity in the CSM application. This record links the consumer to their cases, entitlements, and other service management data.
+
+Incorrect
+
+Option B) CSM User (csm_user) Incorrect because CSM User is not a valid table for consumer self‑registration. The system creates a consumer user record, not a generic CSM user record.
+
+Option D) Contact (customer_contact) Incorrect because Contact records are associated with B2B customer accounts and are not automatically created during consumer self‑registration. The process specifically creates Consumer User and Consumer records.
+
+25. Question
+What are some of the influencing factors that will help determine the type of customer support desk structure required? (Choose four.)
+
+Number of agents required
+Number of customer service portals used
+Languages spoken by agents
+Geographical location of customer
+Knowledge and skills required for agents
+Number and type of support tools available
+ Unattempted
+Correct Answers:
+Number of agents required
+Languages spoken by agents
+Geographical location of customer
+Knowledge and skills required for agents
+These factors directly influence the structure of a customer support desk, determining factors such as team size, skill sets, coverage hours, and support channels.
+
+26. Question
+Based on which out-of-box attributes can Special handling Notes be applied to cases? (Choose three.)
+
+Product
+Install Base Item
+Service Contract
+Contact
+Account
+ Unattempted
+Correct Answer:
+Product
+Contact
+Account
+These are the out-of-the-box attributes that can be used to apply Special Handling Notes to cases. This allows for more granular control and ensures relevant information is highlighted for agents working on specific cases.
+
+27. Question
+The CSM application has a feature that can be used to filter records in CSM-related tables which are accessible by users with CSM roles. This feature makes it unnecessary to create business logic for those persona access the data. What is this feature?
+
+Access Types
+Data Policies
+Filtered Lists
+CSM Query Rules
+ Unattempted
+CSM Query Rules
+CSM Query Rules is the correct answer.
+
+This feature allows administrators to define specific query conditions that filter data accessible to users with CSM roles. By using CSM Query Rules, you can control which records users can see without needing to create custom business logic for each role. This simplifies access control and improves system performance.
+
+28. Question
+Which knowledge records can be configured with User Criteria?
+
+Knowledge Base and Category
+Knowledge Base and Article
+Knowledge Base, Category and Article
+Knowledge Base
+ Unattempted
+B. Knowledge Base and Article
+
+User Criteria can be configured at both the Knowledge Base level and the individual Knowledge Article level. This allows for granular control over who can view and contribute to specific knowledge resources.
+
+29. Question
+What is the purpose of the Guided Decisions capability?
+
+Dynamically guide agents to help resolve complex cases
+Guide agents through account management
+Provide agents with an escalation guide
+Provide agents with a knowledge guide
+ Unattempted
+Dynamically guide agents to help resolve complex cases is the correct answer.
+
+Guided Decisions is a feature designed to assist agents in making informed decisions by providing step-by-step guidance based on specific case information. It‘s a valuable tool for handling complex or less common customer issues.
+
+30. Question
+Asset classes are defined to allow for logical grouping of assets. There are five asset classes provided to group assets, each Asset class provides unique functionality for that group of Assets in the platform. Which of the following are the asset classes used? (Choose five.)
+
+Enterprise Software assets
+Consumables assets
+Facility assets
+Network assets
+Hardware assets
+Software licenses assets
+ Unattempted
+Correct Answer:
+Enterprise Software assets
+Consumables assets
+Facility assets
+Hardware assets
+Software licenses assets
+These are the five standard asset classes provided out-of-the-box in ServiceNow‘s Asset Management module. Each class offers specific functionalities to manage different types of assets within the organization.
+
+31. Question
+Using the out-of-the-box major issue management process flow, a consumer service agent proposes an existing case in the Open state as a major case candidate. The major case candidate has a consumer defined and is approved by the customer service manager What happens to the major case candidate?
+
+The major case candidate requires an approval from the major issue manager
+The major case candidate becomes a major case
+A new major case is created and the major case candidate is added as a child to the major case
+The major case candidate is closed and a new major case is created
+ Unattempted
+A new major case is created and the major case candidate is added as a child to the major case
+This is the correct answer. When a case is approved as a major case candidate, a new major case is created, and the original case becomes a child case under the newly created major case. This structure helps in managing and tracking related cases under a single umbrella.
+
+32. Question
+Proactive Customer Service Operations works Event Management to proactively monitor and fix issues affecting customers. It can also trigger case workflows and enable organizations to notify customers whose services or products are impacted by an outage or issue. What are the three main components that make up Proactive Customer Service Operations? (Choose three.)
+
+Service-Aware Install Base
+Service-Aware CMDB
+Proactive Prevention
+Service Monitoring
+Proactive Case
+Service Reporting
+ Unattempted
+Correct Answer:
+Service-Aware Install Base
+Service Monitoring
+Proactive Case
+These three components form the core of Proactive Customer Service Operations in ServiceNow.
+
+Service-Aware Install Base provides the foundation by linking customers to the services and products they consume.
+Service Monitoring actively tracks the health and performance of these services.
+Proactive Case enables the creation of cases based on service disruptions, allowing for proactive issue resolution and customer communication.
+
+33. Question
+During which Now Create stage are workshops conducted?
+
+Execute
+Close
+Plan
+Initiate
+Deliver
+ Unattempted
+During the Now Create stage, workshops are conducted in the Plan phase. This stage focuses on gathering requirements and aligning stakeholders, making it essential for conducting workshops to ensure a successful project outcome.
+
+34. Question
+Cost Information on cases is available as part of the Performance Analytics Content Pack for Customer Service.
+
+False
+TRUE
+ Unattempted
+False
+
+Cost information on cases is not available as part of the Performance Analytics Content Pack for Customer Service. To access cost information related to cases, you would typically need to integrate with a financial management system or use a specific Performance Analytics content pack designed for financial data.
+
+35. Question
+What is the default value in the Channel field when a new case is opened by a customer in the Service Catalog, using the Customer Service Portal?
+
+Web
+Virtual Agent
+Catalog
+Portal
+ Unattempted
+A. Web
+
+When a new case is opened by a customer in the Service Catalog using the Customer Service Portal, the default value in the Channel field is Web. This indicates that the case originated from a web-based interaction.
+
+36. Question
+What criteria can be used to determine when a new inbound case should be opened?
+
+When a new customer is created
+When a customer has a question or issue to resolve
+When we have new marketing material for a customer
+When an internal problem occurs
+ Unattempted
+When a customer has a question or issue to resolve is the correct answer.
+
+This is the primary reason for opening a new inbound case. It signifies a need for customer support or assistance.
+
+37. Question
+What do blue circles in the timeline of a case form represent?
+
+State changes
+Activity updates
+Customer comments
+Triggered SLAs
+ Unattempted
+State changes are represented by blue circles in the timeline of a case form. These circles indicate when the case moved from one state to another (e.g., New to Open, Open to Resolved).
+
+38. Question
+Which roles are considered external? (Choose two.)
+
+Customer Admin (sn_customerservice.customer_admin)
+Customer Service Agent (sn_customerservice_agent)
+Partner Admin (sn_customerservice.partner_admin)
+Consumer Support Agent (sn_customerservice.consumer_agent)
+ Unattempted
+Correct Answer:
+Customer Admin (sn_customerservice.customer_admin)
+Partner Admin (sn_customerservice.partner_admin)
+Explanation:
+These roles represent external entities interacting with the ServiceNow platform.
+
+Customer Admin manages the account and its associated data on behalf of the customer.
+Partner Admin manages the partner‘s account and its associated data.
+Both roles operate outside the internal organization that owns the ServiceNow instance.
+
+39. Question
+What are common types of application record data that are imported during a CSM data migration? (Choose two.)
+
+Knowledge Article
+Accounts
+Chat
+Case
+ Unattempted
+A. Knowledge Article and B. Accounts are the correct answers.
+
+These are foundational records for a Customer Service Management (CSM) system and typically form the core of a data migration project.
+
+40. Question
+Playbooks for CSM provide step-by-step guidance for resolving specific types of customer service cases. What are the three out-of-the-box playbooks for CSM? (Choose three.)
+
+Case playbook for Product Support
+Case playbook for Onboarding
+Case playbook for Complaints
+Case playbook for Services
+Case playbook for Billing
+ Unattempted
+A. Case playbook for Product SupportB. Case playbook for OnboardingC. Case playbook for Complaints
+
+These are the three out-of-the-box playbooks provided by ServiceNow for Customer Service Management.
+
+41. Question
+Which of the following best describes how the CSM application uses the Asset table?
+
+ServiceNow uses the same Asset table for both CSM and ITSM, however CSM has a different subset of fields
+Because CSM Assets are managed differently from ITSM Assets ServiceNow uses different Asset Tables for CSM than it does for ITSM
+CSM uses the Product Model table instead of the ITSM Asset table
+CSM uses the Product table instead of the ITSM Asset table
+ Unattempted
+A. ServiceNow uses the same Asset table for both CSM and ITSM, however CSM has a different subset of fields
+
+This is the correct answer. While CSM and ITSM share the same Asset table, the specific fields used and data managed within that table differ based on the needs of each module. This allows for efficient data management and sharing between the two modules while maintaining specific functionalities for each.
+
+42. Question
+Which Flow Designer flow can be used to automatically close resolved cases if customers do not respond within a specified time?
+
+Resolved to Close State
+Auto Close Resolved Cases
+Close Cases in Resolved state
+Move Resolved Cases to Closed
+ Unattempted
+Auto Close Resolved Cases is the correct Flow Designer flow.
+
+This flow is specifically designed to automatically close resolved cases that have been waiting for a customer response for a predefined period.
+
+43. Question
+What benefits does scoping an application bring? (Choose three.)
+
+CSM application data and business logic is protected from changes by other applications
+Provides CSM teams autonomy and control
+Changes in different scopes can be addressed in a single update set
+Account records can be changed only while in the CSM scope
+CSM teams can move at their desired pace, independent of IT
+ Unattempted
+A. CSM application data and business logic is protected from changes by other applicationsB. Provides CSM teams autonomy and controlE. CSM teams can move at their desired pace, independent of IT
+
+These are the correct answers.
+
+Scoping an application provides clear boundaries for development and maintenance, ensuring that changes made in one scope do not unintentionally impact other areas of the platform. It also empowers teams to work independently and manage their application‘s lifecycle effectively.
+
+44. Question
+Out-of-the-box, the consumer support portal (/csp) CANNOT be used for which one of the following actions?
+
+Consumer self-registration
+Open an incident
+Live chat
+Viewing knowledge articles
+ Unattempted
+Open an incident
+
+Out-of-the-box, the consumer support portal (/csp) is primarily designed for consumers to interact with cases, knowledge articles, and potentially live chat. While it allows for consumer self-registration and provides access to knowledge articles and live chat, it does not have the functionality to open an incident. Incidents are typically managed within the internal ServiceNow instance by agents and IT support teams.
+
+45. Question
+Which of the following are true regarding the Community Portal application? (Choose two.)
+
+It is available to any customer with a Community license
+It is only available to CSM license holders
+It is available by default with the Support and Service portals
+Most of the configuration does not require System Administrator role
+ Unattempted
+A. It is available to any customer with a Community license and D. Most of the configuration does not require System Administrator role are correct.
+
+The Community Portal is a flexible platform that can be customized to fit the needs of different organizations without extensive technical expertise.
+
+46. Question
+A consumer service agent receives and accepts a case which was created by a consumer. The agent needs and requests more information from the consumer. After receiving the information, the agent proposes a solution that is accepted by the consumer. Given this scenario, what is the chronological order of case states used to manage this case?
+
+New > Open > Work in Progress > Solution Proposed > Closed
+New > Open > Awaiting Info > Open > Resolved > Closed
+New > Work in Progress > On Hold > Work in Progress > Resolved > Closed
+Open > Pending > Work in Progress > Resolved > Closed
+ Unattempted
+B. New > Open > Awaiting Info > Open > Resolved > Closed
+
+This is the correct chronological order of case states for the given scenario.
+
+New: The case is initially created by the consumer.
+Open: The agent accepts the case and begins working on it.
+Awaiting Info: When the agent needs more information from the consumer, the case is put on hold.
+Open: Once the agent receives the necessary information, the case is reopened to continue processing.
+Resolved: The agent proposes a solution, and the consumer accepts it.
+Closed: The case is successfully closed after the solution is implemented.
+
+47. Question
+External customers can view the problem, change, and request records associated with their customer service cases from the Customer and Consumer Service Portals. Which of the following can they approve in relation to cases via the portals?
+
+Problem Records and Incident Records
+Problem Records and Escalations
+Change Records and Request Records
+Request Records and Escalations
+ Unattempted
+C. Change Records and Request Records
+
+External customers can typically approve Change Records and Request Records related to their cases through the Customer and Consumer Service Portals. This empowers them to participate in the change and request processes that impact their services.
+
+While they can view Problem Records, they usually don‘t have approval authority over them.
+
+48. Question
+External content integration is important for agents to be able to access knowledge articles from external sources. ALL external sources must be:
+
+WebDAV-versioned
+Web-based
+Web-configurable
+WebDAV-compliant
+ Unattempted
+D. WebDAV-compliant is the correct answer.
+
+WebDAV (Web Distributed Authoring and Versioning) is a protocol that allows users to directly create, modify, and delete files on remote servers. ServiceNow utilizes WebDAV to integrate external knowledge sources, ensuring compatibility and seamless data transfer.
+
+While the content might be web-based, the specific protocol required for integration is WebDAV.
+
+Use Last Page number to navigate to Master Cheat Sheet
+
+Pages: 1 2 3 4 5 6 7 8 9 10
+We help you to succeed in your certification exams
+We have helped over thousands of working professionals to achieve their certification goals with our practice tests.
+
+Skillcertpro
+Instagram Twitter Linkedin-in Facebook-f
+Quick Links
+About us
+FAQ
+Browse All practice tests
+Contact Form
+Important Links
+Refund Policy
+Refund Request
+Terms & Conditions
+Privacy Policy
+
+Privacy Policy
+

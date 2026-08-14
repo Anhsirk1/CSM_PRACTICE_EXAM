@@ -1,0 +1,894 @@
+Skip to content
+Skillcertpro Logo
+Products search
+Search for products...
+All Courses
+Contact Us
+MY ACCOUNT
+/ ServiceNow / By SkillCertPro
+Practice Set 7 
+
+Your results are here!! for" ServiceNow CIS CSM - Customer Service Management Practice Test 7 "
+0 of 60 questions answered correctly
+
+Your time: 00:00:03
+
+Your Final Score is : 0
+You have attempted : 0
+Number of Correct Questions : 0 and scored 0
+Number of Incorrect Questions : 0 and Negative marks 0
+
+Average score	  71.47%
+Your score	  0%
+You can review your answers by clicking on “View Answers” option.
+Important Note : Open Reference Documentation Links in New Tab (Right Click and Open in New Tab).
+ 
+Answer Review
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+ Correct
+ Incorrect
+ Unattempted
+Focus: incorrect & unattempted
+1. Question
+What does Major issue Management use to identify all other customers impacted by a major case?
+
+Recipient lists
+Notify lists
+Account lists
+Customer Product lists
+ Unattempted
+A. Recipient lists is correct.
+
+Major Issue Management utilizes recipient lists to efficiently identify and manage a group of customers impacted by a significant issue. These lists can be created and managed using the Targeted Communications application.
+
+2. Question
+Which service catalogs are available out-of-the-box in the customer portals? (Choose two.)
+
+Product Service
+Partner Service
+Customer Service
+Consumer Service
+ Unattempted
+C. Customer Service and D. Consumer Service are the correct options.
+
+These are the two primary service catalogs available out-of-the-box in customer portals. They cater to different customer segments and offer tailored services.
+
+3. Question
+Depending on which CSM workspace you are operating within, certain steps can be applied to configure the form header. Which of the following is correct regarding form headers in the CSM Configurable workspace?
+
+The form header‘s secondary values can be displayed in the contextual side panel instead of above the ribbon components
+The form header‘s primary values can be displayed in the contextual side panes instead of above the ribbon components
+The form header for the case form can display five levels of field values from the case table
+The form header‘s secondary values can only he displayed above the ribbon components
+ Unattempted
+Regarding form headers in the CSM Configurable workspace, the correct statement is: the form header‘s secondary values can be displayed in the contextual side panel instead of above the ribbon components. This configuration allows for a more organized view of information, enhancing the user experience by utilizing available screen space effectively.
+
+4. Question
+What are the types of units used to measure entitlements? (Choose two.)
+
+Cost
+Hours
+Contract
+Case
+ Unattempted
+B. Hours and D. Case are the correct options.
+
+These are common units used to measure entitlements, representing the amount of support a customer is entitled to in terms of time (hours) or number of cases.
+
+5. Question
+Which solution must be implemented to let a breakdown dashboard appear as a pop-up window on the case form?
+
+Service Analytics
+CSM Prediction Results
+In-form Analytics
+Case Spotlight
+ Unattempted
+In-form Analytics is the correct solution. It allows you to embed interactive dashboards directly within forms, providing valuable insights and context without leaving the current page. This enhances user experience and productivity.
+
+6. Question
+From a security perspective, scoping brings several benefits: (Choose two.)
+
+IT can manage and control the pace of the CSM teams because dependencies have been put in place
+Improves instance security by limiting accessibility to other applications on the instance
+Provides CSM teams the autonomy and control needed to configure and manage the CSM application, but not the CSM Service Portals
+The scope holds the records and acts as a container for the desired Customer Service Management Applications
+ Unattempted
+B. Improves instance security by limiting accessibility to other applications on the instance and D. The scope holds the records and acts as a container for the desired Customer Service Management Applications are correct.
+
+These two options accurately highlight the security benefits of application scoping in ServiceNow. By isolating applications within scopes, organizations can enhance security, control access, and streamline management.
+
+7. Question
+When are any changes to the platform considered a customization?
+
+When there are business demands for custom functionality that is not offered out-of-the-box
+If they are NOT applied through the usage of built-in tools on the Now Platform
+When they are solely implemented for a custom application
+When they require an implementation spread across all project phases
+ Unattempted
+A. When there are business demands for custom functionality that is not offered out-of-the-box is correct.
+
+A customization occurs when the desired functionality cannot be achieved through the platform‘s standard configuration options. It typically involves modifying existing code or creating new code to meet specific business requirements.
+
+8. Question
+What is the primary output from the Requirements Gathering workshop?
+
+Stories
+Use Cases
+Personas
+Schedules
+ Unattempted
+A. Stories is correct.
+
+Stories are the primary output of a requirements gathering workshop. They provide a concise and user-centric representation of desired features or functionalities. These stories serve as the foundation for further development and prioritization.
+
+9. Question
+What is the purpose of the sidebar feature in CSM Configurable Workspace?
+
+Enables agents to keep information regarding details of the case visible at all times
+Enables agents to access response templates to help them resolve cases faster and more efficiently
+To enable agents to collaborate with other agents or Subject Matter Experts (SMEs) in real-time for faster case resolution
+Enables managers to discreetly monitor chats between agents and customers
+ Unattempted
+C. To enable agents to collaborate with other agents or Subject Matter Experts (SMEs) in real-time for faster case resolution is correct.
+
+The sidebar feature in the CSM Configurable Workspace is primarily designed for real-time collaboration among agents and subject matter experts. It facilitates quick information sharing, knowledge transfer, and problem-solving, leading to faster case resolution.
+
+10. Question
+Which capabilities does the integration with Microsoft Outlook add-in offer? (Choose two.)
+
+Escalate a case on the add-m panel of Outlook
+Register the sender of an email as contact
+Create cases using email content in Outlook for the customer contact
+As the Microsoft Outlook user, register yourself as self-contributor
+ Unattempted
+Correct Answers:
+B. Register the sender of an email as a contact: This helps in maintaining a comprehensive customer database.
+C. Create cases using email content in Outlook for the customer contact: This streamlines case creation and reduces manual data entry.
+These two options accurately reflect the capabilities of the Microsoft Outlook add-in for ServiceNow CSM.
+
+11. Question
+Customer service agents can use Agent Assist to search for information from an interaction. BY DEFAULT, what are the available search sources? (Choose three.)
+
+Consumer service portal
+Communities
+Knowledge articles
+Service catalog
+Customer service portal
+ Unattempted
+Correct Answers:
+B. Communities: Agent Assist can search for relevant discussions or posts within communities.
+C. Knowledge articles: Agents can find relevant knowledge articles to assist with case resolution.
+D. Service catalog: Information about available services and offerings can be accessed through Agent Assist.
+These are the default search sources available within Agent Assist to help agents quickly find the information they need.
+
+12. Question
+Which of the following statements is correct when the ‘Contact Local Time‘ field is enabled in a case form?
+
+The field is always based on the system time zone
+The field is not based of the customers profile time zone
+Agents can use the field to identify if it is the right time to contact customer
+The field is active in the base form
+ Unattempted
+C. Agents can use the field to identify if it is the right time to contact customer is correct.
+
+The “Contact Local Time“ field displays the time in the customer‘s local time zone, helping agents determine the appropriate time to contact them based on their geographical location.
+
+13. Question
+When integrating Customer Service Management with IT Service management what separate action is required for Request Management?
+
+Activation of the Customer Service Case Action Status plugin (com.snc.csm_action_status)
+Activation of the Customer Service with Request Management plugin (com.sn_cs_sm_request)
+Activation of the Customer Service with Service Management plugin (com.sn_cs_sm)
+Activation of the Customer Service plugin (com.sn_customerservice)
+ Unattempted
+B. Activation of the Customer Service with Request Management plugin (com.sn_cs_sm_request) is correct.
+
+This specific plugin establishes the integration between Customer Service Management and Request Management, enabling seamless interaction and data flow between the two modules.
+
+14. Question
+Depending on the CSM application configurations, cases can be assigned to agents manually or by using auto-assignment. Which routing and assignment features leverage matching rules? (Choose two.)
+
+Assignment Workbench
+State Flows
+Assignment Rules
+CSM Workspace
+ Unattempted
+A. Assignment Workbench and C. Assignment Rules are correct.
+
+Assignment Workbench leverages matching rules to evaluate agents based on various criteria and provide an overall ranking for case assignment.
+Assignment Rules define the conditions for automatically assigning cases to specific agents or groups based on case attributes and matching rules.
+These two features utilize matching rules to optimize case routing and assignment processes.
+
+15. Question
+When are child cases updated from the parent case?
+
+Clicking on the Child Sync UI
+When the Sync scheduled job runs
+Scheduled Job
+Automatically upon update of parent
+ Unattempted
+D. Automatically upon update of parent is correct.
+
+Child cases are typically designed to inherit or reflect information from the parent case. Therefore, updates made to the parent case are automatically synchronized to the child cases to maintain data consistency.
+
+16. Question
+In the Customer Service Management space what defines the term asset?
+
+A resource that allows a business service
+A physical item
+A product that a company supports
+A specific product instance supported for a customer
+ Unattempted
+D. A specific product instance supported for a customer is correct.
+
+In the context of Customer Service Management (CSM), an asset represents a specific product or service that a customer is using. It‘s a tangible item that can be tracked and managed to provide better support and service to the customer.
+
+17. Question
+User criteria records may be applied to which knowledge items?
+
+Knowledge Base
+Knowledge Base Category and Article
+Knowledge Base and Category
+Knowledge Base and Article
+ Unattempted
+D. Knowledge Base and Article is correct.
+
+User criteria can be applied to both a Knowledge Base and specific Knowledge Articles within that knowledge base. This allows for granular control over who can access and contribute to different knowledge resources.
+
+18. Question
+Once a major case candidate is approved a major case is created. What then happens to the customer case?
+
+The customer case will be automatically closed
+The customer case will automatically be related to a problem
+The customer case becomes a child case of the major case
+The customer case becomes the parent case of the major case
+ Unattempted
+C. The customer case becomes a child case of the major case is correct.
+
+When a major case is created from a major case candidate, the original customer case becomes a child case associated with the newly created major case. This allows for centralized management of related cases and tracking of the overall impact of the issue.
+
+19. Question
+How are ServiceNows out-of-the-box Customer Service Management applications packaged? (Choose two.)
+
+Through private scopes
+Update Sets
+Store Apps
+Plugins
+ Unattempted
+A. Store Apps and D. Plugins
+Store Apps and Plugins are the correct options.
+
+Store Apps provide access to a marketplace of pre-built applications that can be directly installed.
+Plugins are smaller, focused components that can be added to extend existing functionality.
+These methods allow organizations to quickly deploy and utilize pre-configured applications to enhance their customer service capabilities.
+
+20. Question
+Which of the following statements is correct regarding product models in CSM?
+
+Product models can contain both physical items and digital (logical) items in the same mode
+Product models can contain either physical items or digital (logical) items but not both in the same model
+Product models can only contain physical items
+Products models can only contain digital (logical) items
+ Unattempted
+A. Product models can contain both physical items and digital (logical) items in the same mode is correct.
+
+Product models in CSM are designed to be flexible and accommodate both physical and digital product components. This allows for comprehensive management of various product types within a single model.
+
+21. Question
+What are the three out-of-the-box playbooks for CSM? (Choose three.)
+
+Case playbook for Product Support
+Case playbook for Accounts
+Case playbook for Billing
+Case playbook for Complaints
+Case playbook for Onboarding
+ Unattempted
+Correct Answers:
+A. Case playbook for Product Support: Guides agents through common product-related issues.
+D. Case playbook for Complaints: Provides a structured approach to handling customer complaints.
+E. Case playbook for Onboarding: Assists in managing new customer relationships and setups.
+These are the three out-of-the-box playbooks that ServiceNow offers to streamline case management processes.
+
+22. Question
+Which feature sends an email notification containing a list of relevant knowledge articles to the case submitter and watchlist users associated with the case whenever a case is created?
+
+Trending Topics
+Proactive Customer Service Operations
+Self-Service Analytics
+Auto-Responder
+ Unattempted
+Auto-Responder is the correct answer.
+
+It automatically sends out email notifications, including relevant knowledge articles, to the case submitter and watchlist users upon case creation. This helps in promoting self-service and reducing case resolution time.
+
+23. Question
+What is a household entity?
+
+Group of users that usually share a common address and use services as a group
+Group of people that usually share a common address and use services as a group
+Group of customers that usually share a common address and use services as a group
+Group of consumers that usually share a common address and use services as a group
+ Unattempted
+D. Group of consumers that usually share a common address and use services as a group is correct.
+
+A household entity represents a group of individuals, typically residing at the same address, who share common consumption needs and often make joint decisions about purchasing goods and services.
+
+24. Question
+Partner admin (sn_customerservice.partner_admin) contacts have access to:
+
+Both
+Their customer account
+Their partner accounts
+Neither
+ Unattempted
+A. Both is correct.
+
+A Partner Admin (sn_customerservice.partner_admin) has access to both their partner account and their customer accounts. They have administrative privileges over both, allowing them to manage users, cases, and other aspects of both accounts.
+
+25. Question
+With the Auto Close Resolved Cases flow enabled, and using its default settings, when will a reminder be sent to a non-responsive customer0
+
+After 7 days
+After 1 day
+After 5 days
+After 3 days
+ Unattempted
+Correct:
+Option C. After 5 days
+With the Auto Close Resolved Cases flow enabled and using default settings in ServiceNow CSM, a reminder is automatically sent to a non-responsive customer 5 days after the case is moved to the Resolved state. This reminder prompts the customer to respond before the case is automatically closed.
+
+Incorrect:
+Option A. After 7 days
+Seven days is not the default reminder interval. By default, the reminder is sent earlier, before the auto-close action occurs.
+
+Option B. After 1 day
+One day is too short and does not align with the default Auto Close Resolved Cases flow configuration.
+
+Option D. After 3 days
+Three days is not the default reminder timing; the standard configuration sends the reminder after five days of customer inactivity.
+
+26. Question
+By default, what can customers with the customer (sn_customerservice.customer) role see on the customer service portal? (Choose three.)
+
+Contacts
+Publications
+Products
+Assets
+ Unattempted
+Correct
+Option B. Publications
+
+Customers can view knowledge articles and publications that are shared with them through the portal.
+This helps them self‑serve by accessing documentation, FAQs, and guides.
+Option C. Products
+
+Customers can see products they own or are entitled to.
+This allows them to associate cases or requests with specific products.
+Option E. Assets
+
+Customers can view their assets (such as devices, equipment, or services) linked to their account.
+This is important for case creation and entitlement validation.
+Incorrect
+Option A. Contacts
+
+Customers cannot see contacts by default.
+Contacts are managed internally by agents and linked to accounts, not exposed directly to customers on the portal.
+ 
+
+27. Question
+Which of the following allows you to install out‑of‑the‑box Customer Service Management applications within your ServiceNow instance? (Choose two.)
+
+Store Apps
+XML unloads
+Plugins
+Update Sets
+ Unattempted
+Correct
+Option A. Store Apps
+
+Correct because ServiceNow Store provides packaged applications, including Customer Service Management apps, that can be installed directly into an instance.
+These are out‑of‑the‑box solutions maintained by ServiceNow or partners.
+Option C. Plugins
+
+Correct because plugins enable and install out‑of‑the‑box functionality in ServiceNow, including Customer Service Management features.
+Activating the CSM plugin provisions the necessary tables, roles, and configurations.
+Incorrect
+Option B. XML unloads
+
+Incorrect because XML unloads are used for exporting/importing customizations or configurations between instances.
+They are not used to install out‑of‑the‑box applications.
+Option D. Update Sets
+
+Incorrect because update sets capture and move customizations between instances.
+They do not install out‑of‑the‑box applications; they are for migrating custom work.
+28. Question
+When configuring email in Communication Channels, how many outgoing email addresses are supported?
+
+Unlimited
+Three
+Two
+One
+ Unattempted
+Correct
+Option D. One
+
+By default, ServiceNow supports only one outgoing email address for communication channels.
+This is the address used for sending notifications, case updates, and other outbound communications from the instance.
+If multiple outgoing addresses are needed, customization or advanced configuration is required, but out‑of‑the‑box it is limited to one.
+Incorrect
+Option A. Unlimited
+
+Incorrect because ServiceNow does not allow unlimited outgoing email addresses by default.
+Outbound email is restricted to a single configured address.
+Option B. Three
+
+Incorrect because there is no default support for three outgoing addresses.
+This is a distractor option.
+Option C. Two
+
+Incorrect because ServiceNow does not support two outgoing addresses by default.
+Only one outgoing email address is allowed.
+29. Question
+Entitlements are counted using two types of units:
+
+Days and assets
+SLAs and contracts
+Hours and cases
+Cases and products
+ Unattempted
+Correct
+Option C. Hours and cases
+
+In ServiceNow CSM, entitlements define the level of support a customer is entitled to.
+They are measured using two unit types:
+Hours → The amount of support time a customer is entitled to.
+Cases → The number of support cases a customer can open.
+These units allow organizations to track and enforce customer support limits.
+Incorrect
+Option A. Days and assets
+
+Incorrect because entitlements are not measured in days or assets.
+Assets are linked to customers but do not define entitlement units.
+Option B. SLAs and contracts
+
+Incorrect because SLAs and contracts define service levels and agreements, not entitlement units.
+They are related but not the mechanism for counting entitlements.
+Option D. Cases and products
+
+Incorrect because while cases are valid, products are not used as entitlement units.
+Products are linked to entitlements but do not serve as the counting mechanism.
+30. Question
+Customer Service Trending Topics is a capability that enables companies to use Predictive Intelligence to quickly pinpoint factors driving up case volume and act to mitigate them. Which of the following would be a benefit of using Predictive Intelligence Customer Service Trending Topics?
+
+Create root cause solutions for similar cases
+A guaranteed reduction in call volume per month
+Eliminate the need for more traditional performance analytics
+Auto-generate clusters of cases that point to similar underlying issues
+ Unattempted
+Correct
+Option D. Auto-generate clusters of cases that point to similar underlying issues
+
+Correct because Predictive Intelligence in ServiceNow CSM uses machine learning to automatically group similar cases into clusters.
+These clusters highlight trending topics and underlying issues driving case volume, enabling proactive resolution strategies.
+This is the key benefit of the Customer Service Trending Topics capability.
+Incorrect
+Option A. Create root cause solutions for similar cases
+
+Incorrect because while clustering helps identify issues, Predictive Intelligence does not directly create root cause solutions.
+It provides insights, but the actual solution design must be done by service teams.
+Option B. A guaranteed reduction in call volume per month
+
+Incorrect because Predictive Intelligence provides insights but cannot guarantee a specific reduction in call volume.
+Outcomes depend on how the organization acts on the insights.
+Option C. Eliminate the need for more traditional performance analytics
+
+Incorrect because Predictive Intelligence complements performance analytics, not replaces it.
+Organizations still need dashboards and KPIs for broader operational visibility.
+31. Question
+The default configuration automatically closes resolved Cases after how many days?
+
+Cases are not automatically closed by default
+10 days
+3 days
+5 days
+ Unattempted
+Cases are not automatically closed by default is correct.
+
+ServiceNow does not have a default setting to automatically close cases after a specific number of days. This functionality can be configured through workflows or business rules if needed.
+
+32. Question
+Which of the following are benefits that may be gained from using communities? (Choose three.)
+
+Increase marketing effectiveness
+Reduce support costs
+Reduce cost per sales
+Engagement with Customers
+Get product feedback
+ Unattempted
+Correct Answers:
+B. Reduce support costs: Communities can empower customers to self-serve, reducing the volume of support tickets.
+D. Engagement with Customers: Communities foster interaction and build relationships with customers.
+E. Get product feedback: Customers can provide valuable input on products and services through community forums.
+These are key benefits that organizations can achieve by leveraging communities.
+
+33. Question
+Benefits of Proactive Customer Service Operations include: (Choose two.)
+
+Reduction in staff turnover
+Major cases can be eliminated as there will be no Impact to customers
+Reduced Mean Time To Resolve (MTTR)
+Reduced inbound calls from customers
+Guaranteed increase in customer satisfaction
+ Unattempted
+Correct Answers:
+C. Reduced Mean Time To Resolve (MTTR): By identifying and addressing issues before they impact customers, Proactive Customer Service Operations can significantly reduce resolution times.
+D. Reduced inbound calls from customers: By proactively addressing potential problems, the number of customer inquiries can be reduced.
+These are two key benefits of implementing Proactive Customer Service Operations.
+
+34. Question
+What is a supported external customer that, in turn, sells to and supports one or more customers?
+
+Contact
+Partner
+Consumer
+Account
+ Unattempted
+B. Partner is correct.
+
+A partner is an external organization that has a business relationship with the service provider. They often resell or distribute products or services to end customers.
+
+35. Question
+What is a case?
+
+An individual record that handles and resolves incidents for external customers
+An individual record that is used to identify and create automation opportunities
+An individual record that handles and routes issues for internal users
+An individual record that is used to identify and resolve a question or issue for an external customer
+ Unattempted
+A case is an individual record that is used to identify and resolve a question or issue for an external customer.
+Cases are the fundamental work unit in customer service, allowing customers to ask questions, submit requests, and report issues.
+Agents track these inquiries to resolution, and the speed at which they are closed impacts customer satisfaction.
+
+36. Question
+When creating or importing assets for CSM, model categories are used to: (Choose three.)
+
+Model the configuration options for each product model being sold to customers
+Build a classification structure for product models
+Define whether a Configuration Item (CI) is created when an Asset record is created or vice versa
+Define a link between Asset classes and Configuration Item (CI) classes
+Group assets together
+ Unattempted
+Correct Answers:
+C. Define whether a Configuration Item (CI) is created when an Asset record is created or vice versa: This determines the relationship between assets and configuration items.
+D. Define a link between Asset classes and Configuration Item (CI) classes: This establishes the connection between asset and CI classifications.
+E. Group assets together: Model categories help in organizing and categorizing assets for better management.
+These options accurately describe the purposes of model categories in asset management.
+
+37. Question
+Which ServiceNow applications can be integrated out-of-the-box with CSM? (Choose three.)
+
+DevOps
+Risk Management
+Project Management
+ITOM Event Management
+Service Portfolio Management
+ Unattempted
+Correct Answers:
+C. Project Management: Integration with Project Management allows for tracking project-related cases and issues.
+D. ITOM Event Management: Enables correlation of IT incidents with customer impacts.
+E. Service Portfolio Management: Provides visibility into service offerings and entitlements.
+These integrations enhance the overall customer service experience by providing a comprehensive view of the customer journey and enabling proactive issue resolution.
+
+38. Question
+From which one of the following can an agent create a CSM Case:
+
+Human Resource Application
+Chat
+Special Handling Note
+Incident Management
+ Unattempted
+B. Chat is correct.
+
+An agent can create a CSM Case from a chat conversation. This allows for seamless conversion of customer inquiries from chat to a formal case for tracking and resolution.
+
+39. Question
+How can multiple service catalogs be made available on the Customer Service Portal?
+
+Add them to the list of service catalogs in the Customer Service Portal header widget options
+Only the Customer Service service catalog can be used on the Customer Service Portal
+Include them in the list of service catalogs on the Customer Service Portal record
+Create user criteria for each of the applicable service catalogs
+ Unattempted
+C. Include them in the list of service catalogs on the Customer Service Portal record is correct.
+
+To make multiple service catalogs available on the Customer Service Portal, you need to add them to the list of service catalogs on the Customer Service Portal record itself. This allows customers to access and browse different catalogs through a single portal.
+
+40. Question
+What features are included with the Customer Service Portal? (Choose three.)
+
+Header with links for different customer activities such as creating a case
+The ability to create new accounts
+Links to marketing promotions and product coupons
+Search feature to get information from several repositories
+Links to information sources such as the knowledge base, community and customer support
+ Unattempted
+Correct Answers:
+A. Header with links for different customer activities such as creating a case: This provides easy access to common actions.
+D. Search feature to get information from several repositories: Enables customers to find information quickly.
+E. Links to information sources such as the knowledge base, community and customer support: Offers various channels for self-service and support.
+These features are essential components of a Customer Service Portal, enhancing the customer experience and providing easy access to information and support.
+
+41. Question
+What happens to a case whenever the state of one of the associated IT Service Management records (incident, problem, change) is updated?
+
+The case action status changes to Related Task Updated
+The case displays a special handling note highlighting the update
+The case work notes are updated automatically
+The case escalates to an assignment group as defined in the default escalation template
+ Unattempted
+C. The case work notes are updated automatically
+When the state of an associated IT Service Management record (incident, problem, or change) is updated, the case work notes are automatically updated to reflect this change. This provides a clear audit trail and keeps the case record up-to-date with the latest information.
+
+42. Question
+What role can be assigned to employees who are not fulfillers, such as those in sales and services, or do not have other CSM-specific roles, but have a need to create cases on behalf of customers?
+
+Customer (sn_suctomservice.customer)
+External (snc_external)
+Consumer (sn_customservice.consumer)
+Proxy Contact (sn_customservice.proxy_contact)
+ Unattempted
+D. Proxy Contact (sn_customservice.proxy_contact) is correct.
+
+The Proxy Contact role is specifically designed for employees who need to create cases on behalf of customers but don‘t have full agent privileges. This role is ideal for those in sales and service roles who interact with customers but aren‘t directly responsible for case resolution.
+
+43. Question
+Application Scoping from a security perspective brings the following benefits: (Choose two.)
+
+Scoped applications prevent versioning for complex instances
+Scoping hold the records and acts as a container for the desired CSM applications
+Scoped applications limits autonomy and control of all aspects of the CSM application
+Improves instance security by limiting access to other applications on the instance
+ Unattempted
+Correct Answers:
+B. Scoping hold the records and acts as a container for the desired CSM applications: This accurately describes the core function of application scoping.
+D. Improves instance security by limiting access to other applications on the instance: This highlights the security benefits of scoping, as it creates isolated environments for applications.
+By isolating applications within scopes, organizations can enhance security, control access, and streamline management.
+
+44. Question
+What are the advantages of leading indicators over lagging indicators? (Choose two.)
+
+Retrospective
+Prospective
+Easy to influence
+Hard to influence
+ Unattempted
+B. Prospective and C. Easy to influence are the correct answers.
+
+Prospective: Leading indicators predict future performance by looking at current trends and conditions.
+Easy to influence: Leading indicators can be directly impacted by actions taken, allowing for proactive measures.
+These characteristics distinguish leading indicators from lagging indicators, which are historical and harder to influence directly.
+
+45. Question
+What is knowledge article versioning?
+
+A knowledge article publishing guide
+A content tracker for knowledge articles
+A knowledge article numbering guide
+The ability to manage and track article updates
+ Unattempted
+The ability to manage and track article updates is correct.
+
+Knowledge article versioning allows you to create and maintain multiple versions of a knowledge article. This means you can track changes, revert to previous versions if needed, and ensure that the most up-to-date information is always available to users.
+
+46. Question
+What are the types of matching criteria for Customer Service? (Choose four.)
+
+Partner Hours
+Assigned Cases
+Availability Today
+Last Assigned
+Matching Skills
+Certifications
+ Unattempted
+Correct Answers:
+B. Assigned Cases: This considers the number of cases an agent is currently handling.
+C. Availability Today: Evaluates the agent‘s availability for the current day.
+D. Last Assigned: Takes into account when a case was last assigned to an agent.
+E. Matching Skills: Assesses the agent‘s skills against the case requirements.
+These are key matching criteria used in ServiceNow to optimize case assignment based on agent capabilities and workload.
+
+47. Question
+What types of escalation templates can be created? (Choose two.)
+
+Account
+Consumer
+Case
+Sold Product
+ Unattempted
+Case and Account are the correct options.
+
+You can create escalation templates for both cases and accounts to define the escalation process based on specific criteria like severity, age, or other relevant factors.
+
+48. Question
+In CSM Asset Management has a different meaning than in ITSM or Corporate Finance Which of the following defines Asset Management in CSM?
+
+Asset management has different use cases for tracking specific products or services customers are using
+A generic activity or process responsible for tracking and reporting the value and ownership of assets throughout their lifecycle
+It includes all of the data crucial to support customers as efficiently as possible
+The process of developing, operating, maintaining, upgrading, and disposing of assets in me most cost-effective manner
+ Unattempted
+A. Asset management has different use cases for tracking specific products or services customers are using
+This is the correct answer.
+
+In CSM, asset management primarily focuses on tracking the specific products or services that customers are using. This information is crucial for providing effective support, understanding customer needs, and managing service entitlements.
+
+The other options describe asset management in a broader context, which is not specific to CSM.
+
+49. Question
+What are the three main components that make up Proactive Customer Service Operations? (Choose three.)
+
+Proactive Case
+Service Monitoring
+Proactive Prevention
+Service-Aware CMDB
+Service-Aware Install Base
+Service Reporting
+ Unattempted
+Correct Answers:
+A. Proactive Case: A case created proactively based on potential issues or events.
+B. Service Monitoring: Continuously monitors the health and performance of services to identify potential issues before they impact customers.
+E. Service-Aware Install Base: Links customers to the services they consume, enabling proactive monitoring and intervention.
+These three components form the core of Proactive Customer Service Operations, allowing organizations to anticipate and address customer issues before they escalate.
+
+50. Question
+Which feature allows an agent to copy reusable messages to case or task forms to provide quick and consistent messages to users?
+
+Quick Messages
+Templates
+Response Templates
+Quick Actions
+ Unattempted
+Response Templates is correct.
+
+Response templates allow agents to quickly insert pre-written, standardized messages into case or task forms, ensuring consistent communication and improving efficiency.
+
+51. Question
+What is a limitation regarding synchronization between a case and its associated work order?
+
+If information changes on the Case form it is not updated on the Work Order form
+The data copied over to the Work Order form when creating a work order from a case cannot be configured or customized
+Updates on a case or work order will only synchronize after the work order is approved
+When creating a work order from a case only the Account field on the work order form is filed in but not the Company field
+ Unattempted
+A. If information changes on the Case form it is not updated on the Work Order form is correct.
+
+This is a common limitation in the synchronization between cases and work orders. While information can be copied from the case to the work order when it‘s created, subsequent changes to the case are not automatically reflected in the work order. This can lead to inconsistencies between the two records if not managed carefully.
+
+52. Question
+Why does the implementation team need to deliver core functionality to the customer as quickly as possible?
+
+To facilitate the requirement gathering during the workshops
+To realize near-term ROI (Return on Investment)
+To complete any complex customizations early enough
+To expand the technical reach
+ Unattempted
+B. To realize near-term ROI (Return on Investment) is correct.
+
+Delivering core functionality quickly allows the customer to start benefiting from the system sooner, generating value and demonstrating the investment‘s worth. This is crucial for maintaining customer satisfaction and ensuring continued project support.
+
+53. Question
+Which CSM Configurable Workspace feature enables agents to quickly view records in the contextual side panel without switching tabs?
+
+Contextual Search
+Agent Assist
+Dynamic Related Records
+Record Information
+ Unattempted
+C. Dynamic Related Records is correct.
+
+This feature allows agents to view relevant records directly within the contextual side panel, improving efficiency and reducing the need to switch between tabs.
+
+54. Question
+The self-registration feature enables new customer contacts to submit registration requests from the customer portal. Which role is responsible for creating the unique registration code for each account?
+
+Customer Service Manager (sn_customerservice_manager)
+System administrator (admin)
+Service organization administrator (sn_customerservice.service_organization_admin)
+Customer admin (sn_customerservice.customer_admin)
+ Unattempted
+B. System administrator (admin) is correct.
+
+The system administrator has the highest level of permissions and is responsible for configuring system-wide settings, including generating unique registration codes for self-registration.
+
+55. Question
+Which of the following features are specific to CSM Workspaces and will not be found in the Platform UI view? (Choose two.)
+
+Agent assist
+Lookup and verify
+Related search
+Special handing notes
+ Unattempted
+A. Agent assist and B. Lookup and verify
+Agent assist and Lookup and verify are the correct options. These features are specifically designed for the CSM Workspace and are not available in the standard Platform UI view. They provide enhanced functionality for agents to efficiently handle cases.
+
+56. Question
+The case digests feature includes which types of case communication? (Choose two.)
+
+Case Post Mortem
+Case Lifecycle Reports
+Post Case Reviews
+Case Action Summaries
+ Unattempted
+Correct Answers:
+C. Post Case Reviews: This summarizes the case‘s resolution and outcomes.
+D. Case Action Summaries: This provides a chronological record of actions taken on the case.
+These two options accurately represent the types of case communication included in case digests.
+
+57. Question
+Which of the following is correct regarding the social med a channel?
+
+Cases can be created automatically depending on which social channel is used
+Cases are created automatically from all of the social channels
+Cases cannot be created from any of the social channels
+Cases are NOT created automatically from any of the social channels
+ Unattempted
+A. Cases can be created automatically depending on which social channel is used is correct.
+
+ServiceNow can be configured to automatically create cases based on specific criteria from social media channels. This allows for efficient management of customer inquiries and issues originating from these platforms.
+
+58. Question
+Which of the following roles can update a consumer‘s record? (Choose two.)
+
+Customer (sn_customerservice.customer)
+Customer Service Agent (sn_customerservice_agent)
+Customer Service Manager (sn_customerservice_manager)
+Consumer Support Agent {sn_customerservice.consumer_agent)
+ Unattempted
+C. Customer Service Manager (sn_customerservice_manager) and D. Consumer Support Agent (sn_customerservice.consumer_agent) are correct.
+
+Both of these roles have the necessary permissions to update a consumer‘s record.
+
+59. Question
+Which of the following is correct regarding the create contact (consumer) feature in CSM Workspaces?
+
+The create contact (consumer) feature is available in all CSM Workspaces
+The create contact (consumer) feature is only available in the CSM Configurable Workspace
+The create contact (consumer) feature is not available in any of the CSM Workspaces
+The create contact (consumer) feature is only available in the Agent Workspace
+ Unattempted
+B. The create contact (consumer) feature is only available in the CSM Configurable Workspace is correct.
+
+This feature provides flexibility in customizing the workspace to meet specific business needs.
+
+60. Question
+Which of the following are correct for parent/child synchronization? (Choose two.)
+
+The Administrator can choose which fields to synchronize from parent to child cases
+Multiple child cases can be managed from a parent case as in Major Issue Management
+The property to synchronize parent to child cases is automatically enabled
+Parent to child cases can be synchronized regardless of which state the case is in
+ Unattempted
+Correct Answers:
+A. The Administrator can choose which fields to synchronize from parent to child cases: This provides flexibility in determining which information is shared between parent and child cases.
+B. Multiple child cases can be managed from a parent case as in Major Issue Management: This demonstrates the hierarchical structure and management capabilities of parent-child relationships.
+These two options accurately describe key aspects of parent/child synchronization in ServiceNow CSM.
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10
+
+Skillcertpro
+Instagram Twitter Linkedin-in Facebook-f
+Quick Links
+About us
+FAQ
+Browse All practice tests
+Contact Form
+Important Links
+Refund Policy
+Refund Request
+Terms & Conditions
+Privacy Policy
+
+Privacy Policy
+

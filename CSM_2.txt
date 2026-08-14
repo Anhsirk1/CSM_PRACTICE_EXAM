@@ -1,0 +1,1308 @@
+Skip to content
+Skillcertpro Logo
+Products search
+Search for products...
+All Courses
+Contact Us
+MY ACCOUNT
+/ ServiceNow / By SkillCertPro
+Practice Set 2 
+
+Your results are here!! for" ServiceNow CIS CSM - Customer Service Management Practice Test 2 "
+0 of 57 questions answered correctly
+
+Your time: 00:00:04
+
+Your Final Score is : 0
+You have attempted : 0
+Number of Correct Questions : 0 and scored 0
+Number of Incorrect Questions : 0 and Negative marks 0
+
+Average score	  66.32%
+Your score	  0%
+You can review your answers by clicking on “View Answers” option.
+Important Note : Open Reference Documentation Links in New Tab (Right Click and Open in New Tab).
+ 
+Answer Review
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+ Correct
+ Incorrect
+ Unattempted
+Focus: incorrect & unattempted
+1. Question
+On the Customer Service Portal, which personas can see work orders from their company hierarchy? Choose 2 answers
+
+Customer case admin
+Partner admin
+Partner contact
+Customer admin
+ Unattempted
+Correct
+Option A. Customer case admin This is correct because the Customer case admin persona has visibility into work orders across their company hierarchy. They are responsible for managing cases and can view related work orders to ensure proper resolution.
+
+Option D. Customer admin This is also correct because the Customer admin persona has broader administrative rights. They can see work orders tied to their company hierarchy, enabling them to oversee service delivery and manage escalations.
+
+Incorrect
+Option B. Partner admin Incorrect because the Partner admin persona is associated with partner organizations, not customer hierarchies. They do not have visibility into customer work orders unless explicitly granted.
+
+Option C. Partner contact Incorrect because Partner contacts are external users tied to partner accounts. They cannot see customer hierarchy work orders by default. Their visibility is limited to partner‑related activities.
+
+2. Question
+Service-aware Install Base consists of which entities?
+Choose 3 answers:
+
+Configuration Items
+Install Base Items
+Assets
+Sold Products
+Installed Products
+ Unattempted
+Correct:
+
+Option B. Install Base Items
+Install Base Items are the core records in Service-aware Install Base. They represent the specific products or services that are installed for a customer and are directly used for service entitlement and case management.
+
+Option D. Sold Products
+Sold Products capture what was sold to the customer and form the basis for creating Install Base Items. They are a key entity in linking customer purchases to service delivery.
+
+Option E. Installed Products
+Installed Products represent products that have been deployed or installed at the customer location. These are essential for tracking service coverage and support relationships in Service-aware Install Base.
+
+Incorrect:
+
+Option A. Configuration Items
+Configuration Items belong to the CMDB and are used for IT service management. They are not a core entity of the Service-aware Install Base in CSM.
+
+Option C. Assets
+Assets are used for financial and lifecycle tracking, such as depreciation and ownership. While related, they are not a primary component of the Service-aware Install Base model.
+
+3. Question
+Which feature sends an email notification containing a list of relevant knowledge articles to the case submitter and watchlist users associated with the case, whenever a case is created?
+
+Auto-Responder
+Self-Service Analytics
+Proactive Customer Service Operations
+Trending Topics
+ Unattempted
+Correct
+Option A. Auto‑Responder
+
+Correct because the Auto‑Responder feature in ServiceNow CSM automatically sends an email notification when a case is created.
+This email includes a list of relevant knowledge articles that may help the case submitter or watchlist users resolve the issue without further escalation.
+It is specifically designed to improve self‑service and reduce case volume by providing immediate knowledge suggestions.
+Incorrect
+Option B. Self‑Service Analytics
+
+Incorrect because this feature is used for analyzing self‑service usage and performance metrics.
+It does not send notifications or knowledge articles to case submitters.
+Option C. Proactive Customer Service Operations
+
+Incorrect because this feature focuses on monitoring and addressing issues before they impact customers (e.g., proactive case creation from events).
+It is not related to sending knowledge article notifications when a case is created.
+Option D. Trending Topics
+
+Incorrect because this feature identifies frequently reported issues or topics across cases.
+It helps in spotting patterns but does not send knowledge article notifications to case submitters.
+4. Question
+Which of these is a CSM topic out-of-the-box for Virtual Agent?
+
+Create an Order
+Create Contacts
+Help with an Order
+Access Knowledge
+ Unattempted
+Correct
+Option C. Help with an Order ✅
+
+Correct because Virtual Agent in ServiceNow CSM comes with preconfigured, out-of-the-box topics such as Help with an Order.
+This allows customers to interact with the Virtual Agent to check order status, resolve issues, or get assistance without requiring custom development.
+It is part of the standard set of CSM topics designed to streamline customer support.
+Incorrect
+Option A. Create an Order ❌
+
+Incorrect because creating an order is not provided as an out-of-the-box Virtual Agent topic in CSM.
+Order creation typically requires customization or integration with order management systems.
+Option B. Create Contacts ❌
+
+Incorrect because Virtual Agent does not provide a default topic for creating contacts.
+Contact management is handled through CSM records and workflows, not via prebuilt Virtual Agent topics.
+Option D. Access Knowledge ❌
+
+Incorrect because while Virtual Agent can integrate with the Knowledge Base, “Access Knowledge” is not an out-of-the-box CSM topic.
+Knowledge search is a general Virtual Agent capability but not specifically listed as a CSM topic.
+5. Question
+What is the purpose of a Catalog Item variable?
+
+Guides a customer by providing hints on a case form
+Opens a wizard to help a customer fill in a case form
+Allows the customer or consumer to qualify their answer
+Grants the customer the opportunity to ask a question
+ Unattempted
+Correct
+Option C. Allows the customer or consumer to qualify their answer
+Correct. Catalog Item variables are used to capture input from the customer when ordering a catalog item. They allow the customer to provide specific details or qualify their request so the item can be fulfilled accurately.
+Incorrect
+Option A. Guides a customer by providing hints on a case form
+Incorrect. Variables do not provide hints; they are fields for input. Guidance would be handled through help text or UI policies.
+Option B. Opens a wizard to help a customer fill in a case form
+Incorrect. A wizard is not the function of a catalog item variable. Variables are simply input fields, not multi-step guidance tools.
+Option D. Grants the customer the opportunity to ask a question
+Incorrect. While variables collect input, they are not designed as open-ended question fields. They are structured inputs tied to catalog items.
+6. Question
+What are some of the benefits of the CSM Mobile Application? (Choose 3 answers)
+
+Enable agents to track important case updates with native mobile experience
+Faster resolution of issues and faster response to inquiries
+Enable agents to update cases on a mobile device
+Enable customers to create cases via mobile app
+ Unattempted
+Correct
+Option A. Enable agents to track important case updates with native mobile experience
+
+The CSM Mobile App provides agents with real‑time notifications and updates.
+This ensures they can track case progress anytime, anywhere, improving responsiveness.
+Option C. Enable agents to update cases on a mobile device
+
+Agents can directly update case details from their mobile devices.
+This increases efficiency and reduces delays in case handling.
+Option D. Enable customers to create cases via mobile app
+
+Customers can log cases through the mobile app, improving accessibility and convenience.
+This reduces dependency on traditional channels and enhances customer satisfaction.
+Incorrect
+Option B. Faster resolution of issues and faster response to inquiries
+
+While the mobile app indirectly contributes to faster resolution, this is not listed as a direct benefit of the CSM Mobile Application in exam context.
+The exam focuses on specific functional benefits (tracking, updating, creating cases), not generalized outcomes like “faster resolution.”
+7. Question
+Which routing and assignment features leverage matching rules? (Choose 2 answers)
+
+Assignment Workbench
+Advanced Work Assignment
+State Flows
+Assignment Rules
+ Unattempted
+Correct
+Option A. Assignment Workbench
+
+Assignment Workbench uses matching rules to recommend the best agent or team for a case.
+It evaluates case attributes against agent skills, availability, and capacity to ensure optimal routing.
+Option B. Advanced Work Assignment
+
+Advanced Work Assignment (AWA) also leverages matching rules to automatically route work items (cases, chats, tasks) to the most suitable agent.
+It ensures intelligent distribution of workload based on defined criteria.
+Incorrect
+Option C. State Flows
+
+State Flows manage case lifecycle transitions (e.g., New → In Progress → Resolved).
+They do not use matching rules for routing or assignment.
+Option D. Assignment Rules
+
+Assignment Rules are older, static mechanisms for routing cases.
+They do not leverage matching rules; instead, they rely on predefined conditions and logic.
+8. Question
+From what places in SN can an agent create a case?
+(Choose three)
+
+Customer Service Application
+Chat
+Contact
+Account
+ Unattempted
+Correct
+Option A. Customer Service Application
+
+Correct because agents can directly create cases from the Customer Service application interface.
+This is the primary workspace where agents manage and create cases.
+Option C. Contact
+
+Correct because cases can be created directly from a Contact record.
+This allows agents to quickly associate a case with a specific customer contact.
+Option D. Account
+
+Correct because cases can also be created from an Account record.
+This is useful when the case relates to the overall customer account rather than an individual contact.
+Incorrect
+Option B. Chat
+
+Incorrect because while agents can interact with customers via chat, cases are not directly created from chat sessions.
+Chat can be linked to case creation workflows, but it is not considered a direct place where agents create cases in ServiceNow.
+9. Question
+Which role is required to approve new customer contacts that self register on the Customer Service Portal?
+
+Customer case manager (sn_customerservice.customer_case_manager)
+Customer administrator (sn_customerservice.customer
+Customer service manager (sn_customerservice_manager)
+Customer service administrator (sn_customerservice.admin)
+ Unattempted
+Correct
+Option B. Customer administrator (sn_customerservice.customer)
+
+Correct because the Customer Administrator role is responsible for managing customer accounts and approving new contacts who self‑register on the Customer Service Portal.
+This ensures that only authorized administrators can validate and approve new users, maintaining control and security over customer data.
+Incorrect
+Option A. Customer case manager (sn_customerservice.customer_case_manager)
+
+Incorrect because the Customer Case Manager role focuses on managing and resolving customer cases.
+It does not have the responsibility or permissions to approve new customer contacts.
+Option C. Customer service manager (sn_customerservice_manager)
+
+Incorrect because the Customer Service Manager oversees case management and service delivery.
+They do not handle the approval of self‑registered contacts.
+Option D. Customer service administrator (sn_customerservice.admin)
+
+Incorrect because the Customer Service Administrator manages configuration and administrative tasks for the CSM application.
+They are not responsible for approving new customer contacts.
+10. Question
+What do blue circles in the timeline of a case form represent?
+
+Triggered SLAs
+Customer comments
+Activity updates
+State Changes
+ Unattempted
+Correct
+Option D. State Changes
+
+Correct because in ServiceNow case timelines, blue circles specifically indicate state changes (e.g., from New → In Progress → Resolved).
+This helps agents and managers quickly visualize how the case has progressed through its lifecycle.
+It is a key feature for tracking case history and ensuring SLA compliance.
+Incorrect
+Option A. Triggered SLAs
+
+Incorrect because triggered SLAs are represented differently in ServiceNow (often shown as SLA indicators or progress bars).
+Blue circles are not used for SLA events.
+Option B. Customer Comments
+
+Incorrect because customer comments appear as activity entries in the case activity stream, not as blue circles in the timeline.
+Option C. Activity Updates
+
+Incorrect because activity updates (like work notes or comments) are logged in the activity section, not marked with blue circles in the timeline.
+11. Question
+Who can propose a Major Case?
+
+Customer case manager (sn_customerservice.customer_case_manager)
+Proxy contact (sn_customerservice.proxy_contact)
+Major issue manager (sn_majorissue_mgt.major_issue_manager)
+Customer (sn_customerservice.customer)
+Customer service agent (sn_customerservice_agent)
+ Unattempted
+Correct
+Option C. Major issue manager (sn_majorissue_mgt.major_issue_manager)
+
+Correct because the Major Issue Manager role is specifically responsible for proposing and managing Major Cases in ServiceNow CSM.
+This role ensures that significant, widespread customer issues are escalated and tracked properly.
+The Major Issue Manager has the authority to initiate a Major Case so that multiple related cases can be grouped and handled efficiently.
+Incorrect
+Option A. Customer case manager (sn_customerservice.customer_case_manager)
+
+Incorrect because while the Customer Case Manager oversees customer cases, they do not have the authority to propose a Major Case.
+Their role is more focused on managing individual customer cases rather than escalating them to Major Case status.
+Option B. Proxy contact (sn_customerservice.proxy_contact)
+
+Incorrect because a Proxy Contact represents customers but does not have permissions to propose Major Cases.
+Their role is limited to interacting with cases on behalf of customers.
+Option D. Customer (sn_customerservice.customer)
+
+Incorrect because customers can raise cases but cannot propose Major Cases.
+Major Cases are an internal escalation mechanism managed by ServiceNow roles, not external customers.
+Option E. Customer service agent (sn_customerservice_agent)
+
+Incorrect because agents handle and resolve customer cases but do not have the authority to propose Major Cases.
+They may escalate issues internally, but only the Major Issue Manager can formally propose a Major Case.
+ 
+
+12. Question
+Which roles are considered external?
+Choose 2 answers
+
+Customer Service Agent (sn_customerservice_agent)
+Customer Admin (sn_customerservice.customer_admin)
+Consumer Support Agent (sn_customerservice.consumer_agent)
+Partner Admin (sn_customerservice.partner_admin)
+ Unattempted
+Correct Option B. Customer Admin (sn_customerservice.customer_admin)
+
+Correct because the Customer Admin role is external, assigned to customer contacts outside the organization.
+They manage their own company’s users and accounts within the Customer Service Portal.
+Option D. Partner Admin (sn_customerservice.partner_admin)
+
+Correct because the Partner Admin role is also external.
+It is used by partner organizations to manage their own contacts and accounts, making it external to the service provider.
+Incorrect Option A. Customer Service Agent (sn_customerservice_agent)
+
+Incorrect because this role is internal.
+Agents belong to the service provider organization and handle customer cases, not external contacts.
+Option C. Consumer Support Agent (sn_customerservice.consumer_agent)
+
+Incorrect because this role is also internal.
+Consumer Support Agents work within the provider organization to support consumer cases, not external customers or partners.
+13. Question
+In the Action Status column on a case list, what does a blue indicator dot mean?
+
+Needs attention
+Awaiting information
+Blocked internally
+Blocked externally
+ Unattempted
+Correct
+Option A. Needs attention This is correct because in ServiceNow Customer Service Management (CSM), the blue indicator dot in the Action Status column signals that the case requires attention or follow‑up. It is a visual cue to agents that something important needs to be addressed on that case.
+
+Incorrect
+Option B. Awaiting information Incorrect because awaiting information is represented differently in ServiceNow. The blue dot does not indicate waiting for customer or internal input.
+
+Option C. Blocked internally Incorrect because blocked internally would typically be flagged with a different status indicator, not the blue dot.
+
+Option D. Blocked externally Incorrect because blocked externally also has its own distinct indicator. The blue dot specifically means needs attention, not a blocked state.
+
+14. Question
+With contributor user roles, companies can engage what types of users?
+
+Internal users only
+Internal users, external users, and outsourced service providers
+Internal and external users
+External users only
+ Unattempted
+Correct
+Option C. Internal and external users This is correct because contributor user roles in ServiceNow CSM are designed to allow both internal employees and external customers/partners to collaborate. Contributors can participate in case activities, knowledge sharing, and community discussions, making them suitable for engaging both internal and external audiences.
+
+Incorrect
+Option A. Internal users only Incorrect because contributor roles are not limited to internal employees. They extend to external users as well, which is a key feature of CSM engagement.
+
+Option B. Internal users, external users, and outsourced service providers Incorrect because contributor roles do not explicitly cover outsourced service providers. Those typically require different licensing and role assignments beyond contributor.
+
+Option D. External users only Incorrect because contributor roles are not restricted to external users. They include internal users too, enabling collaboration across both groups.
+
+15. Question
+Which of the following is true regarding creating a Work Notes List?
+
+Only internal users can be chosen
+It makes Work Notes visible on the portal
+Emails of internal users cannot be added
+Work Notes can be sent repeatedly to every person in the Work Notes List
+ Unattempted
+Correct
+Option A. Only internal users can be chosen This is correct because Work Notes in ServiceNow are intended strictly for internal communication. When creating a Work Notes List, only internal users can be added. External users (such as customers) cannot be included, since Work Notes are not visible to them and are meant for internal collaboration among support staff.
+
+Incorrect
+Option B. It makes Work Notes visible on the portal Incorrect because Work Notes are never visible on the customer portal. They are internal-only notes, unlike Additional Comments which are visible to external users.
+
+Option C. Emails of internal users cannot be added Incorrect because internal users can indeed be added to the Work Notes List, and their emails can be included for notifications.
+
+Option D. Work Notes can be sent repeatedly to every person in the Work Notes List Incorrect because Work Notes are not designed to be broadcast repeatedly. They are logged
+
+16. Question
+Which of the following is a condition for matching rules?
+
+Assignment
+Agent domain
+Switching
+Specific case atributes
+ Unattempted
+The correct answer is:
+
+Specific case attributes
+
+Here’s why:
+
+Specific case attributes are the criteria that are used to match cases to rules. These attributes can include case fields, variables, and other relevant data.
+Assignment is the process of assigning cases to agents based on rules and other factors.
+Agent domain is the area of expertise or responsibility of an agent.
+Switching refers to the process of transferring cases between agents or teams.
+Therefore, specific case attributes are the key factor in matching rules to cases.
+
+17. Question
+When implementing Knowledge Product Entitlements, what is enabled when activating the Enable access control of Knowledge Articles system property?
+
+Allows access to multi-product line knowledge articles
+Allows access to knowledge articles that are related to entitlements owned by a customer
+Allows access to knowledge articles based on customers security access
+Allows access to knowledge articles that are related to products owned by a customer
+ Unattempted
+Correct
+Option B. Allows access to knowledge articles that are related to entitlements owned by a customer This is correct because enabling the Enable access control of Knowledge Articles property enforces entitlement-based access. Customers can only view knowledge articles if they have the appropriate product entitlements, ensuring controlled and secure access to relevant information.
+
+Incorrect
+Option A. Allows access to multi-product line knowledge articles Incorrect because this property does not enable multi-product line access. It specifically enforces entitlement-based restrictions, not broad product line visibility.
+
+Option C. Allows access to knowledge articles based on customer’s security access Incorrect because access is not determined by general security roles or access levels. It is tied directly to entitlements associated with the customer.
+
+Option D. Allows access to knowledge articles that are related to products owned by a customer Incorrect because product ownership alone does not grant access. Entitlements must be explicitly defined and linked to the customer for article access.
+
+18. Question
+Which routing and assignment features leverage matching rules?
+Choose 2 answers
+
+State Flows
+Advanced Work Assignment
+Assignment Rules
+Assignment Workbench
+ Unattempted
+Correct
+Option B. Advanced Work Assignment This is correct because Advanced Work Assignment (AWA) uses matching rules to intelligently route work items (such as cases, chats, or tasks) to the most suitable agent. Matching rules evaluate agent skills, availability, and other configurable criteria to ensure optimal assignment.
+
+Option D. Assignment Workbench This is also correct because the Assignment Workbench leverages matching rules to suggest the best agent or group for a case. It provides a guided interface for supervisors or agents to manually assign tasks based on rule-driven recommendations.
+
+Incorrect
+Option A. State Flows Incorrect because State Flows are used to manage case state transitions and automate workflows, but they do not rely on matching rules for routing or assignment.
+
+Option C. Assignment Rules Incorrect because Assignment Rules are legacy mechanisms that assign tasks based on conditions, but they do not use the matching rules framework. Matching rules are specific to AWA and Assignment Workbench.
+
+19. Question
+What do the Product Support Complaints and Onboarding case playbooks have in common?
+
+The are built on the CSM data model and case management features
+The solutions are shipped with the Playbooks for CSM SKU
+The become available when activating the Playbooks Automation application
+Activation is done via plugins by a system administrator
+ Unattempted
+Correct
+
+Option D. Activation is done via plugins by a system administrator
+
+Correct because both Product Support Complaints and Onboarding case playbooks are activated in ServiceNow through plugins.
+A system administrator is responsible for enabling these plugins, which makes the playbooks available for use in Customer Service Management.
+This is the commonality between the two playbooks.
+Incorrect
+
+Option A. They are built on the CSM data model and case management features
+
+Incorrect because while both playbooks leverage the CSM data model, this is not the specific commonality being tested in this exam question.
+The key similarity is activation via plugins, not just the underlying data model.
+Option B. The solutions are shipped with the Playbooks for CSM SKU
+
+Incorrect because these playbooks are not tied to a separate SKU.
+They are delivered as part of ServiceNow CSM functionality and activated via plugins.
+Option C. They become available when activating the Playbooks Automation application
+
+Incorrect because availability is not tied to the Playbooks Automation application.
+Instead, they are enabled through plugins, which is the precise mechanism.
+20. Question
+When implementing Knowledge Product Entitlements, what is enabled when activating the Enable access control of Knowledge Articles system property?
+
+Allows access to knowledge articles that are related to products owned by a customer
+Allows access to knowledge articles based on customers security access
+Allows access to knowledge articles that are related to entitlements owned by a customer
+Allows access to multi-product line knowledge articles
+ Unattempted
+Correct
+
+Option C. Allows access to knowledge articles that are related to entitlements owned by a customer
+
+Correct because enabling the access control system property ties knowledge article visibility to customer entitlements.
+This ensures that customers only see knowledge articles relevant to the products or services they are entitled to, aligning with entitlement-based access in CSM.
+It enforces a controlled, secure, and personalized knowledge experience.
+Incorrect
+
+Option A. Allows access to knowledge articles that are related to products owned by a customer
+
+Incorrect because ownership of a product alone does not determine entitlement.
+Entitlements are more granular and define the actual support rights, not just product ownership.
+Option B. Allows access to knowledge articles based on customer’s security access
+
+Incorrect because security roles or access levels are not the mechanism here.
+The property specifically enforces entitlement-based access, not general security role access.
+Option D. Allows access to multi-product line knowledge articles
+
+Incorrect because multi-product line articles are not tied to entitlement enforcement.
+The property does not enable broad product-line access but restricts access based on entitlements.
+21. Question
+The default configuration automatically closes resolved Cases after how many days?
+
+3 days
+10 days
+5 days
+Cases are not automatically closed by default
+ Unattempted
+Correct
+
+Option D. Cases are not automatically closed by default
+
+Correct because in ServiceNow Customer Service Management (CSM), resolved cases do not automatically close unless an administrator configures this behavior.
+By default, cases remain in the Resolved state until either the customer confirms closure or a manual/system process is set up to close them.
+This ensures flexibility for organizations to define their own case lifecycle policies.
+Incorrect
+
+Option A. 3 days
+
+Incorrect because ServiceNow does not automatically close resolved cases after 3 days.
+This would require a custom business rule or scheduled job to enforce.
+Option B. 10 days
+
+Incorrect because 10 days is not a default configuration.
+Again, closure timing must be explicitly configured by the system administrator.
+Option C. 5 days
+
+Incorrect because 5 days is not the default either.
+Any automatic closure period must be set up manually through plugins or business rules.
+22. Question
+What are some of the benefits of the CSM Mobile Application? (Choose 3 answers)
+
+Enable agents to update cases on a mobile device
+Enable agents to track important case updates with native mobile experience
+Faster implementation of CSM application solutions
+Enable customers to create cases via mobile app
+Faster resolution of issues and faster response to inquiries
+ Unattempted
+Correct
+
+Option A. Enable agents to update cases on a mobile device
+
+Correct because the CSM Mobile App allows agents to manage and update cases directly from their mobile devices.
+This improves productivity and ensures case updates can be made in real time, even when agents are away from their desks.
+Option B. Enable agents to track important case updates with native mobile experience
+
+Correct because the app provides a native mobile experience, enabling agents to receive notifications and track critical case updates.
+This ensures faster response times and better customer service.
+Option D. Enable customers to create cases via mobile app
+
+Correct because the CSM Mobile App also empowers customers to create and submit cases directly from their mobile devices.
+This improves accessibility and enhances customer engagement by providing a convenient self-service option.
+Incorrect
+
+Option C. Faster implementation of CSM application solutions
+
+Incorrect because the mobile app does not affect the implementation speed of CSM solutions.
+Implementation is a separate process handled by administrators and developers, not by mobile app functionality.
+Option E. Faster resolution of issues and faster response to inquiries
+
+Incorrect because while the app supports quicker updates and case creation, resolution speed depends on processes and workflows, not solely on the app.
+The app facilitates communication but does not guarantee faster resolution by itself.
+23. Question
+Which roles are considered external? (Choose 2 answers)
+
+Consumer Support Agent (sn_customerservice.consumer_agent)
+Customer Service Agent (sn_customerservice_agent)
+Customer Admin (sn_customerservice.customer_admin)
+Partner Admin (sn_customerservice.partner_admin)
+ Unattempted
+Correct
+
+Option C. Customer Admin (sn_customerservice.customer_admin)
+
+Correct because the Customer Admin role is external, assigned to customer contacts outside the organization.
+It allows external customers to manage their own accounts, contacts, and cases within the Service Portal.
+Option D. Partner Admin (sn_customerservice.partner_admin)
+
+Correct because the Partner Admin role is also external.
+It is designed for partner contacts who interact with the organization, enabling them to manage partner-related cases and accounts.
+Incorrect
+
+Option A. Consumer Support Agent (sn_customerservice.consumer_agent)
+
+Incorrect because this is an internal agent role.
+It is assigned to support staff within the organization who handle consumer cases, not external customers.
+Option B. Customer Service Agent (sn_customerservice_agent)
+
+Incorrect because this is also an internal role.
+It is used by service agents inside the organization to manage and resolve customer cases.
+ 
+
+24. Question
+What benefits does scoping an application bring? (Choose 3 answers)
+
+Changes in different scopes can be addressed in a single update set
+Account records can be changed only while in the CSM scope
+CSM application data and business logic is protected from changes by other applications
+Provides and additional layer of control over CSM
+CSM teams can move their desired pace, independent of IT
+ Unattempted
+Correct
+
+Option C. CSM application data and business logic is protected from changes by other applications
+
+Correct because scoping ensures that data, scripts, and logic within the CSM application are isolated.
+This prevents accidental overwrites or conflicts from other applications in the same instance.
+Option D. Provides an additional layer of control over CSM
+
+Correct because scoping adds administrative control, allowing developers and admins to manage permissions, visibility, and access specific to the scoped application.
+This helps enforce governance and security.
+Option E. CSM teams can move at their desired pace, independent of IT
+
+Correct because scoping allows CSM teams to develop and deploy features without being slowed down by dependencies on other applications or IT teams.
+It enables autonomy and faster innovation.
+Incorrect
+
+Option A. Changes in different scopes can be addressed in a single update set
+
+Incorrect because update sets are scope-specific.
+Changes made in different scopes require separate update sets; they cannot be merged into one automatically.
+Option B. Account records can be changed only while in the CSM scope
+
+Incorrect because scoping does not restrict record-level changes like account records.
+Scoping applies to application logic and configuration, not to basic record updates.
+25. Question
+What allows the implementation of phases and tasks to meet performance goals, track progress, and measure success?
+
+Performance Analytics Sportlight
+Scheduled Reporting
+Service Level Agreement Tasks
+Continual Improvement Management
+ Unattempted
+Correct
+
+Option D. Continual Improvement Management
+
+Correct because Continual Improvement Management (CIM) in ServiceNow provides a structured framework to define phases, tasks, goals, and KPIs.
+It enables organizations to track progress, measure success, and align improvements with strategic objectives.
+CIM is specifically designed to support performance management and ongoing service enhancements.
+Incorrect
+
+Option A. Performance Analytics Spotlight
+
+Incorrect because Performance Analytics Spotlight highlights records that need attention based on analytics, but it does not provide a framework for implementing phases and tasks.
+It is more of a monitoring tool than a structured improvement methodology.
+Option B. Scheduled Reporting
+
+Incorrect because scheduled reporting simply automates the delivery of reports at defined intervals.
+While useful for visibility, it does not enable structured phases or task management for performance goals.
+Option C. Service Level Agreement Tasks
+
+Incorrect because SLA tasks track compliance with service commitments (like response and resolution times).
+They measure service performance but do not provide a framework for phased improvement initiatives.
+26. Question
+Installing the Customer Service Management plugin activates: (Choose one)
+
+Only one other plugin  Field Service Management Plugin
+Many other plugins at the same time
+Only two other plugins  Portal and Case Management
+No other Plugins
+ Unattempted
+Correct
+
+Option B. Many other plugins at the same time This is correct because when the Customer Service Management (CSM) plugin is installed, it automatically activates multiple dependent plugins. These include case management, account/consumer management, communities, portals, and other supporting features required for the CSM suite to function properly. It is not limited to just one or two plugins.
+
+Incorrect
+
+Option A. Only one other plugin – Field Service Management Plugin Incorrect because the CSM plugin does not only activate the Field Service Management plugin. FSM is a separate plugin that can be integrated, but it is not automatically activated by CSM installation.
+
+Option C. Only two other plugins – Portal and Case Management Incorrect because while Portal and Case Management are indeed part of the dependencies, they are not the only ones. The installation triggers several plugins, not just two.
+
+Option D. No other Plugins Incorrect because installing the CSM plugin does activate multiple dependent plugins. Saying “no other plugins” is inaccurate.
+
+ 
+
+27. Question
+What is the benefit of phased release approach? (Choose one)
+
+Working across multiple systems of records
+More time to develop stories
+Delivery of core functionality quickly
+Team members schedules are able to synchronize
+ Unattempted
+Correct
+
+Option C. Delivery of core functionality quickly This is correct because a phased release approach allows organizations to deliver the most critical and core functionality early. By breaking the implementation into phases, customers can start realizing value sooner while additional features and enhancements are rolled out in subsequent phases. This reduces risk and accelerates adoption.
+
+Incorrect
+
+Option A. Working across multiple systems of records Incorrect because phased release is not about working across multiple systems of records. It is about delivering functionality in manageable stages, not integrating disparate systems.
+
+Option B. More time to develop stories Incorrect because while phased releases may give teams structured timelines, the primary benefit is not about extending time for story development. The focus is on delivering value quickly, not delaying work.
+
+Option D. Team members schedules are able to synchronize Incorrect because synchronization of schedules is not the main benefit of phased release. While planning phases may help coordination, the key benefit is rapid delivery of core functionality, not schedule alignment.
+
+28. Question
+Which role must B2B and B2C customers obtain, at a MINIMUM, to have access to a ServiceNow instance? (Choose one)
+
+Account Contact (sn_customerservice.account_contact)
+External (snc_external)
+Customer (sn_customerservice.customer)
+Case Creator (sn_customerservice.case_creator)
+ Unattempted
+Correct
+
+Option B. External (snc_external) This is correct because the External role (snc_external) is the minimum required role for both B2B and B2C customers to gain access to a ServiceNow instance. It provides the baseline permissions needed for external users to log in and interact with the system. Without this role, customers cannot access the instance at all.
+
+Incorrect
+
+Option A. Account Contact (sn_customerservice.account_contact) Incorrect because while Account Contact is a role used in B2B scenarios to manage account-related activities, it is not the minimum required role for access. It builds on top of the external role but cannot substitute it.
+
+Option C. Customer (sn_customerservice.customer) Incorrect because the Customer role is specific to customer-related activities in CSM. It allows interaction with cases and services but still requires the external role as the baseline for access.
+
+Option D. Case Creator (sn_customerservice.case_creator) Incorrect because the Case Creator role allows users to create cases, but it is not the minimum access role. Like the others, it depends on the external role to provide basic login and access rights.
+
+29. Question
+During which Now Create stage are workshops conducted?
+
+Initiate
+Close
+Plan
+Execute
+Deliver
+ Unattempted
+Correct
+
+Option C. Plan This is correct because in the Plan stage of the Now Create methodology, workshops are conducted to gather requirements, validate business processes, and align stakeholders. These workshops help define scope, prioritize use cases, and ensure that the implementation roadmap is clear before execution begins.
+
+Incorrect
+
+Option A. Initiate Incorrect because the Initiate stage focuses on project setup, governance, and initial planning activities. Workshops are not typically conducted here; instead, this stage sets the foundation for the project.
+
+Option B. Close Incorrect because the Close stage is about project closure, handover, and lessons learned. Workshops are not conducted at this point, as the implementation is already complete.
+
+Option D. Execute Incorrect because the Execute stage involves building, configuring, and testing the solution. Workshops are not conducted here; they should have already been completed during planning.
+
+Option E. Deliver Incorrect because the Deliver stage focuses on deployment, training, and go-live activities. Workshops are not part of this stage, as requirements and scope should already be finalized.
+
+ 
+
+30. Question
+When creating a knowledge article from a case with the KCS (Knowledge-Centered Services), what creates the mapping between the case and the knowledge article tables?
+
+The Create KCS Article Business Rule
+The KCSCaseMapping Script Include
+The CSM to KB Article Transform Map
+The CSM Table Map (csm_table_map) table
+ Unattempted
+The correct answer is:
+
+CSM Table Map (csm_table_map) table
+Here‘s why:
+
+Business Rule: A business rule defines actions or logic to be executed in certain situations. It wouldn‘t directly create a mapping between tables.
+Script Include: A script include is a reusable piece of code. While it could potentially be used to create the mapping, the csm_table_map table is a more established and dedicated solution.
+Transform Map: Transform maps are used to transform data between different formats. They wouldn‘t directly create a relationship between tables.
+CSM Table Map (csm_table_map) table: This table is specifically designed to store mappings between tables in the Customer Service Management (CSM) application and the Knowledge Base (KB). It‘s the most logical choice for creating the link between the case and knowledge article tables within the KCS framework.
+The csm_table_map table likely contains fields that identify the corresponding records in each table (case and knowledge article) to establish the relationship. This allows the system to link the knowledge article back to the original case it was created from for future reference and potential updates.
+
+31. Question
+A customer service agent creates which record from the case form to have work performed at the customers premises:
+
+Work Order
+Case Task
+Incident
+Work Order Task
+ Unattempted
+A customer service agent would create a Work Order from the case form to have work performed at the customer‘s premises.
+
+Here‘s why:
+
+Work Orders: These records are specifically designed to initiate and manage tasks that require physical work to be done at a customer location. They typically involve assigning technicians, scheduling appointments, and tracking the completion of the work.
+Case Tasks: While case tasks represent actions or steps within a case, they wouldn‘t directly translate to physical work at the customer‘s site. They might involve internal actions, communication steps, or research activities undertaken by agents or other internal teams.
+Incident: An incident is a broader category that might encompass the case itself, but it wouldn‘t be the specific record used to request on-site work.
+Work Order Task: Work order tasks are sub-tasks associated with a larger work order. While they contribute to the overall work effort, creating a work order itself is the first step to initiate the process of sending a technician to the customer‘s location.
+In essence, work orders serve as the primary mechanism within ServiceNow for coordinating and managing work requests that require a physical presence at the customer‘s premises.
+
+32. Question
+What are the recommended guidelines for a customer during the scoping of data migration for a CSM project?
+Choose 3 answers
+
+Custom integrations should not be considered for phase
+The need for historic data does not mean it has to be in ServiceNow
+Current data ready to be migrated may only contain values not to be stored into custom created fields
+Ensure the Statement of Work is specific in both details and scope
+Recommended only current data for phase
+Migration is preferred over integration
+ Unattempted
+Some key points for customer guidelines during CSM data migration scoping! Here‘s a breakdown of the recommended options:
+
+Recommended Guidelines (Choose 3):
+
+The need for historic data does not mean it has to be in ServiceNow : While historical data might be valuable, a critical consideration during scoping is whether all of it needs to be migrated into ServiceNow. Factors like cost, storage limitations, and data relevance should be weighed. Archiving or migrating to a separate historical data repository might be a more strategic approach for some data sets.
+Ensure the Statement of Work (SOW) is specific in both details and scope : A well-defined SOW is crucial for a successful data migration project. The SOW should clearly outline the specific data elements to be migrated, the timeframe, and any assumptions or limitations. This clarity helps avoid misunderstandings and ensures everyone is aligned on project expectations.
+Recommended only current data for phase : Migrating current, active data is often the most practical approach for initial phases. This ensures a clean foundation for ongoing operations within ServiceNow. Historical data migration can be considered in a subsequent phase, if necessary.
+Options that are not necessarily recommended:
+
+Custom integrations should not be considered for phase: While the focus might be on migrating existing data, custom integrations might be necessary to connect ServiceNow with other systems for ongoing data exchange. Considering potential integration needs during scoping can help ensure a more comprehensive solution.
+Current data ready to be migrated may only contain values not to be stored into custom created fields: The data being migrated might not perfectly align with existing ServiceNow fields. However, this shouldn‘t necessarily preclude migration. Data mapping techniques can be used to transform data during migration to populate relevant fields or potentially identify the need for creating new custom fields within ServiceNow.
+Migration is preferred over integration: Migration and integration are not necessarily competing options. Data migration is used to populate ServiceNow with initial data, while integrations can facilitate ongoing data exchange with other systems. Both approaches might be necessary for a successful CSM implementation.
+By following these guidelines, customers can participate effectively in the scoping process for their CSM data migration project and ensure a smooth transition to the ServiceNow platform.
+
+33. Question
+What is the name of the scheduled job that sets Special Handling Notes to Expired?
+
+Deactivate special Handling Notes
+Deactivate
+Check Expired Special Handling Notes
+Stop Expired Special Handling Notes
+ Unattempted
+The most likely name for the scheduled job that sets Special Handling Notes to Expired in ServiceNow is:
+
+Deactivate Special Handling Notes
+Here‘s why this option is the most suitable:
+
+Clear and Actionable: The term “Deactivate“ clearly conveys the action taken by the job, which is to deactivate or mark the special handling notes as expired.
+ServiceNow Terminology: “Deactivate“ is a commonly used verb within ServiceNow to indicate stopping or disabling functionalities.
+The other options are less likely choices:
+
+Deactivate: This could be a shorter version but might be less informative compared to “Deactivate Special Handling Notes.“
+Check Expired Special Handling Notes: This term describes an action, but it wouldn‘t necessarily reflect the actual job function of deactivating them.
+Stop Expired Special Handling Notes: “Stop“ might be used in some contexts within ServiceNow, but “Deactivate“ is generally the preferred term for this specific action.
+While the exact name of the scheduled job might vary depending on specific configurations, “Deactivate Special Handling Notes“ best captures the intended functionality based on ServiceNow terminology and conventions.
+
+34. Question
+ACME corporation wants to use ServiceNow CSM for supporting their customers through Twitter. What CSM entity would you recommend ACME to store the customer‘s Twitter profile details?
+
+Account
+Personnel File
+Consumer
+Social Profile
+Not supported
+ Unattempted
+https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-serv ice-management/task/create-social-profile.html
+
+35. Question
+Which case field allows to associate a change request with a case?
+
+Requested Change
+Fixed by Change
+Caused by Change
+Planned Change
+ Unattempted
+In ServiceNow, the case field that allows you to associate a change request with a case is:
+
+Caused by Change
+Here‘s why:
+
+Caused by Change: This field establishes a link between a case and a change request that potentially caused the issue the case represents. This association helps track the root cause of the problem and potentially identify trends or areas for improvement in change management processes.
+The other options wouldn‘t be used for associating a change request with a case:
+
+Requested Change: This field might be used to capture a change request initiated as a result of the case, but it wouldn‘t indicate a change that caused the original issue.
+Fixed by Change: This field is used to link a case to a change request that successfully resolved the issue. It reflects the solution, not the cause.
+Planned Change: This field might be used for informational purposes to indicate a planned change that might be relevant to the case, but it wouldn‘t directly associate a specific change request as the cause of the issue.
+By utilizing the “Caused by Change“ field, case managers and other stakeholders can gain valuable insights into the root causes of incidents and potentially prevent similar issues from recurring in the future.
+
+36. Question
+Which of the following functions can be completed when using the Field Service Management Application on a mobile device offline?
+Choose 3 answers
+
+Manage cases
+Manage requests
+Manage assets
+Close work orders
+Execute assigned tasks
+ Unattempted
+The Field Service Management (FSM) mobile app in ServiceNow offers several functionalities even when working offline on a mobile device. Here are the three key capabilities you can leverage:
+
+Manage Assets : The mobile app allows you to view and update information about assets associated with work orders. This could involve tasks like checking asset details, verifying serial numbers, or updating asset status even without an internet connection.
+Close Work Orders : Once a technician has completed the work on-site, they can utilize the mobile app to close the work order offline. This might involve capturing completion details, adding notes, or even obtaining customer signatures (if possible through the app‘s functionalities). The closed work order would then be synchronized with the ServiceNow instance once the device regains internet connectivity.
+Execute Assigned Tasks : Technicians can access assigned tasks within the mobile app and perform the necessary work even in offline mode. This could involve viewing task instructions, updating task status, or logging time spent on each task. The app would store this information locally, and it would be synchronized with the ServiceNow instance when the device goes back online.
+Here are some functionalities that wouldn‘t be available offline:
+
+Manage Cases: Managing cases often involves broader interactions with case data, communication with customers, and potential updates to various case fields. These activities typically require an internet connection to access the ServiceNow instance.
+Manage Requests: Similar to case management, managing requests often involves interacting with request data and potentially communicating with users through the platform. An internet connection would be necessary for these functionalities.
+By providing offline access to these essential features, the FSM mobile app empowers technicians to remain productive even in situations with limited or no internet connectivity. This can significantly improve field service efficiency and ensure timely completion of work orders.
+
+37. Question
+What are some benefits that Knowledge Product Entitlement provides?
+Choose 3 answers
+
+Focused product marketing
+Allows access to knowledge articles that are related to products owned by a customer
+Makes it easier for agents to manage case volume
+Reduce call volume
+Information about customers service contract
+ Unattempted
+Some key benefits of Knowledge Product Entitlement in ServiceNow:
+
+Correct Answers (Choose 3):
+
+Allows access to knowledge articles that are related to products owned by a customer : Knowledge Product Entitlement enables a targeted approach to knowledge management. Customers only see articles relevant to the products they own or subscribe to, reducing information overload and improving their self-service experience.
+Makes it easier for agents to manage case volume : By empowering customers to find solutions through relevant knowledge articles, Knowledge Product Entitlement can potentially deflect cases from reaching support agents. This allows agents to focus on more complex issues that require their direct assistance.
+Reduces call volume : Similar to reducing case volume, providing customers with easy access to helpful knowledge articles can empower them to resolve issues independently. This can lead to fewer calls being directed to the support center.
+Option not directly related to Knowledge Product Entitlement:
+
+Information about customer‘s service contract: While knowledge articles might indirectly provide information about service contract details or covered functionalities, Knowledge Product Entitlement itself wouldn‘t be the primary source for this type of information. ServiceNow offers other functionalities like the Contract Management application for managing and tracking service contract details.
+In essence, Knowledge Product Entitlement personalizes the knowledge base for customers, reduces support agent workload, and empowers users to find solutions independently, ultimately improving the overall customer service experience.
+
+38. Question
+What action can be performed by a Customer Admin (sn_customerservice.customer_admin) and NOT by a Customer (sn_customerservice.customer) in the Customer Service Portal?
+
+Can create and update contacts for their accounts
+Can create, view, and edit cases for their account
+Can view assests belonging to their account
+Can resolve cases reported by themselves
+ Unattempted
+Out of the options you‘ve listed, the action that can be performed by a Customer Admin (sn_customerservice.customer_admin) but NOT by a Customer (sn_customerservice.customer) in the Customer Service Portal is:
+
+Can create and update contacts for their accounts
+Here‘s why:
+
+Customer Admin Role: The Customer Admin role grants broader permissions within the Customer Service Portal compared to the standard Customer role. This includes the ability to manage user accounts associated with their organization, such as creating or updating contact information for those users.
+Customer Role: The Customer role typically focuses on self-service capabilities like viewing assets, creating cases for their own use, and potentially resolving cases they themselves reported. They wouldn‘t have permissions to modify user account information for others within the organization.
+The other options you mentioned are actions that might be possible for both Customer Admins and Customers, depending on specific portal configurations:
+
+Can create, view, and edit cases for their account: Both Customer Admins and Customers might be able to create, view, and edit cases related to their account, although Customer Admins might have additional permissions related to case ownership or priority.
+Can view assets belonging to their account: Customers are often granted visibility into assets associated with their account, allowing them to track relevant equipment or software. Customer Admins might have a broader view of assets or potentially additional management permissions.
+Can resolve cases reported by themselves: Assuming the portal configuration allows self-service resolution, both Customer Admins and Customers might be able to resolve cases they themselves reported.
+In essence, the ability to create and update contacts for their accounts is a key privilege reserved for Customer Admins within the Customer Service Portal. This ensures that user account management within the portal is controlled and allows for designated administrators within the customer organization to handle these tasks.
+
+39. Question
+Which of the following is a required field in the Resolution information tab in order to close a case?
+
+Resolution notes
+Cause
+Closed
+Closed by
+ Unattempted
+Out of the choices you provided, the required field in the Resolution Information tab to close a case in ServiceNow is:
+
+Resolution Notes
+Here‘s why:
+
+Capturing Resolution Details: Resolution notes are crucial for documenting how the case was resolved. This information is valuable for future reference, knowledge sharing, and trend analysis. It helps other agents understand the solution implemented and provides context for future interactions with the customer.
+The other options wouldn‘t be mandatory for closing a case, although they might be valuable depending on the situation:
+
+Cause: Identifying the root cause of the issue can be helpful, but it wouldn‘t necessarily be a mandatory field for every case closure.
+Closed: The “Closed“ field is typically a state or checkbox that reflects the case closure status, not a user-populated field.
+Closed By: The system might automatically populate the “Closed By“ field with the name of the agent who closes the case, but it wouldn‘t be a user-editable field required for closure.
+By enforcing the requirement for resolution notes, ServiceNow encourages agents to document their problem-solving process and ensures valuable knowledge capture within the system. This benefits future support interactions and contributes to a more comprehensive case resolution history.
+
+40. Question
+What is used by Major Issue Management to create child cases for a major case?
+
+Recipient lists
+Notify lists
+Customer Product lists
+Account lists
+ Unattempted
+In ServiceNow, Recipient lists are indeed used by Major Issue Management to create child cases for a major case .
+
+Here‘s why:
+
+Recipient lists are pre-defined groups of users or roles within ServiceNow. They provide a streamlined way to assign tasks or notifications to multiple people at once.
+Major Issue Management (MIM) often involves coordinating efforts across various teams or individuals. Recipient lists can be configured to include relevant stakeholders like support specialists, developers, or account managers.
+When creating child cases from a major case, MIM can leverage recipient lists to automatically assign ownership or notification responsibilities to the appropriate teams or individuals within those lists. This ensures efficient communication and collaboration throughout the issue resolution process.
+The other options you mentioned are not typically used in this context:
+
+Notify lists: Notify lists might be used to send informational updates about the major case, but they wouldn‘t directly create child cases.
+Customer Product lists: These lists might be relevant for identifying impacted customers or products related to the major case, but they wouldn‘t be used for creating child cases.
+Account lists: Similar to customer product lists, account lists might be used for identifying affected accounts, but they wouldn‘t directly create child cases.
+In essence, recipient lists provide a powerful mechanism within MIM to automate case creation and task assignment for child cases associated with a major incident. This streamlines the process and ensures that the right people are informed and involved in resolving the issue effectively.
+
+41. Question
+Which services does a Customer (sn_customerservice.customer) has access to?
+Choose 2 answers
+
+Can view assets belonging to their account
+Can edit information or roles for existing contacts
+Can research questions, issues, or problems and create, view and edit cases for only their own accounts
+Can assign Customer Case Manager Role
+ Unattempted
+Here‘s a breakdown of the functionalities accessible to a Customer (sn_customerservice.customer) role in the Customer Service Portal:
+
+Customer (sn_customerservice.customer) Access:
+
+Can view assets belonging to their account : Customers often have visibility into assets associated with their account. This allows them to track equipment, software, or other relevant resources.
+Can research questions, issues, or problems and create, view and edit cases for only their own accounts : This is a core capability of the Customer Service Portal. Customers can submit new cases to report issues, track existing cases, and potentially update information within those cases pertaining to their own accounts.
+Customer (sn_customerservice.customer) Limitations:
+
+Can edit information or roles for existing contacts: Customers typically wouldn‘t have permissions to modify user account information or roles within the portal. This functionality might be reserved for Customer Admins (sn_customerservice.customer_admin) or other designated user roles.
+Can assign Customer Case Manager Role: Assigning user roles is typically a privilege reserved for administrators or HR personnel within an organization. Customers wouldn‘t have the ability to assign roles like “Customer Case Manager“ through the Customer Service Portal.
+In essence, the Customer role empowers users to independently submit and manage cases related to their accounts, while also providing visibility into relevant assets. It promotes self-service and reduces the burden on support agents by allowing customers to resolve issues independently whenever possible.
+
+42. Question
+Predictive Intelligence improves triage quality by eliminating the guesswork. Predictive Intelligence supports
+which of the following decisions? (Choose two.)
+
+Case Categorization
+Case Prioritization
+Case Escalation
+Case State
+ Unattempted
+Predictive Intelligence (PI) in ServiceNow is designed to leverage machine learning to automate tasks and improve decision-making within the platform. Here‘s why two of the options you provided are directly supported by PI:
+
+Supported Decisions (Choose Two):
+
+Case Categorization : PI can analyze historical data and identify patterns that help categorize incoming cases accurately. By suggesting or even automatically assigning categories based on keywords, descriptions, or other relevant factors, PI can significantly reduce manual effort and improve the accuracy of case categorization.
+Case Prioritization : PI can analyze various case attributes like impact, urgency, or historical resolution times to predict the potential severity or effort required for case resolution. This information can be used to prioritize cases effectively, ensuring that critical issues are addressed first.
+Option not directly supported by PI:
+
+Case Escalation: While PI might indirectly influence case escalation decisions by providing insights into case complexity or potential impact, it wouldn‘t directly automate the escalation process itself. Escalation often involves human judgment and consideration of additional factors beyond the data that PI analyzes.
+Case State: Case state refers to the current status of a case (e.g., New, Open, Resolved). PI wouldn‘t directly manipulate the case state, but it might influence how quickly a case progresses through different states based on its predictions about resolution time or required actions.
+In essence, PI empowers agents by automating repetitive tasks like case categorization and prioritization. This allows them to focus on more complex issues and contribute to faster and more efficient case resolution.
+
+43. Question
+Entitlements are counted using two types of units:
+
+Cases and products
+SLA and contracts
+Hours and cases
+Days and assets
+ Unattempted
+https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-service-management/concept/c_ContractsAndEntitlements.html
+
+44. Question
+What is a limitation regarding synchronization between a case and its associated work order?
+
+Updates on a case or work order will only synchronize after the work order is approved
+When creating a work order from a case, only the Account field on the work order form is filled in but not the Company field
+If information changes on the Case form, it is not updated on the Work Order form
+The data copied over to the Work Order form when creating a work order from a case, cannot be configured or customized
+ Unattempted
+Out of the limitations you‘ve mentioned regarding synchronization between a case and its associated work order in ServiceNow, the most significant one is:
+
+If information changes on the Case form, it is not updated on the Work Order form
+Here‘s why this is a limitation:
+
+Lack of two-way synchronization between case and work order updates can lead to data inconsistencies. If information on the case is modified after creating a work order, the work order won‘t automatically reflect those changes. This can create confusion and require manual updates to ensure both records are aligned.
+The other limitations you mentioned are not entirely accurate:
+
+Updates on a case or work order will only synchronize after the work order is approved: While approval workflows might exist, synchronization of updates typically doesn‘t hinge solely on approval status. Updates made to either the case or work order should ideally reflect in the other record based on the configured settings.
+When creating a work order from a case, only the Account field on the work order form is filled in but not the Company field: While some fields might require manual population during work order creation, depending on your configuration, ServiceNow typically copies over relevant data like account and company information from the case to the work order.
+Here‘s an additional point to consider:
+
+The data copied over to the Work Order form when creating a work order from a case, cannot be configured or customized: This limitation might be relevant in some older versions of ServiceNow. Currently, there are options to configure field mapping between cases and work orders, allowing you to specify which fields are copied and how the data is synchronized.
+In conclusion, the one-way update limitation is a key point to remember regarding case-work order synchronization in ServiceNow. By understanding this limitation, you can take steps to mitigate its impact, such as enforcing data entry accuracy during initial work order creation or implementing manual update processes to ensure both case and work order data remain consistent.
+
+45. Question
+What types of data migrations are common with a CSM implementation?
+Choose 4 answers
+
+Attachments for Case and Knowledge Records
+Core Master Data
+Cases
+Knowledge Articles
+Audit Logs
+Incidents
+ Unattempted
+The four common data migrations with a CSM implementation are:
+
+Core Master Data: This includes essential information like customer details, contacts, products, and service catalogs. Migrating this data ensures the CSM system has a solid foundation for managing customer interactions.
+Cases: Past customer cases containing details like issue descriptions, resolutions, and communication history are valuable for understanding customer trends and informing future support strategies.
+Knowledge Articles: Existing knowledge base articles with solutions and troubleshooting steps can be migrated to the CSM system, providing a readily available resource for customer self-service and agent reference.
+Attachments for Case and Knowledge Records: Documents, screenshots, and other files associated with cases and knowledge articles can be crucial for context and reference. Migrating these attachments ensures a complete picture of past interactions.
+Here‘s why the other options are less likely to be commonly migrated:
+
+Audit Logs: While audit logs can be helpful for historical reference, they typically aren‘t essential for day-to-day CSM operations. Migrating them can be a complex task with limited ongoing value.
+Incidents: “Incident“ is often used interchangeably with “Case“ in CSM. If your system uses the term “case,“ migrating incidents would essentially be the same as migrating cases.
+
+46. Question
+Agent Workspace has the following features:
+Choose 2 answers:
+
+A Multi-tab interface for agents to effectively manage multiple cases or incidents
+Task resolution assistance via Live Feed and Visual Task boards
+Real-time handling of calls and chats via an Interaction Management System
+Mini-report building capabilities with Agent specific configuration
+ Unattempted
+The two most likely features of Agent Workspace are:
+
+A Multi-tab interface for agents to effectively manage multiple cases or incidents
+Real-time handling of calls and chats via an Interaction Management System
+Here‘s why these features are strong contenders for Agent Workspace:
+
+Multi-tab interface: Agent Workspace is designed to streamline agent workflow. Having a multi-tab interface allows agents to juggle multiple cases or incidents simultaneously, improving efficiency.
+Real-time interaction management: Agent Workspace often integrates various communication channels (calls, chats) into a single platform. An Interaction Management System facilitates real-time handling of these interactions within the Agent Workspace.
+Let‘s explore why the other options are less likely:
+
+Task resolution assistance: While Agent Workspace might offer features to assist with tasks (e.g., pre-populated information, knowledge base integration), it wouldn‘t necessarily involve a “Live Feed“ or a prominent “Visual Task Board.“
+Mini-report building: While some Agent Workspace solutions might offer basic reporting functionalities, “mini-report building“ isn‘t a core feature and might be limited in scope.
+
+47. Question
+Which roles can specify both skills and mandatory skills for cases and tasks?
+Choose 2 answers
+
+Customer service manager (sn_customerservice_manager)
+Customer service agent (sn_customerservice_agent)
+Partner(sn_customerservice.partner)
+Customer administrator (sn_customerservice.customer_admin)
+ Unattempted
+Customer service manager (sn_customerservice_manager) and customer service agent (sn_customerservice_agent) are the two roles that can specify both skills and mandatory skills for cases and tasks.
+
+These roles are responsible for managing the day-to-day operations of a customer service team. They ensure that customer service representatives (CSRs) have the necessary skills and knowledge to resolve customer issues effectively.
+
+Here‘s a breakdown of why the other options are incorrect:
+
+Partner (sn_customerservice.partner): Partners typically don‘t have the same level of access to manage internal user roles and permissions.
+Customer administrator (sn_customerservice.customer_admin): Customer administrators are usually focused on managing customer accounts and access, not specifying skills for cases and tasks.
+
+48. Question
+Parent Child Synchronization allows for:
+
+Synchronization of all child cases as well as children of child cases on all levels
+Parent cases to automatically generate child cases when all fields are filled out thus, synchronized auto-population
+Child cases to be separate from Parent cases and will not be synchronized automatically.
+Enabling the Customer Service agent to create cases so that all the children cases can be managed by managing the parent case
+ Unattempted
+The correct answer is: Enabling the Customer Service agent to create cases so that all the children cases can be managed by managing the parent case
+
+Parent-Child Synchronization in Zendesk focuses on improving the management of related cases, not automatic generation or complete data mirroring. Let‘s break down why the other options are incorrect:
+
+Synchronization of all child cases as well as children of child cases on all levels: While some third-party apps might offer this functionality, native Zendesk Parent-Child relationships typically only go two levels deep (parent and child).
+Parent cases to automatically generate child cases when all fields are filled out thus, synchronized auto-population: Parent-Child relationships are usually established manually by agents, not through automatic generation based on field completion.
+Child cases to be separate from Parent cases and will not be synchronized automatically: This defeats the purpose of Parent-Child Synchronization. The feature aims to connect related cases for better management.
+By establishing a Parent-Child relationship, agents can manage a complex issue with multiple aspects by focusing on the main (parent) case. Updates, notes, and certain actions on the parent case can be reflected in child cases, depending on the specific configuration. This provides a central point to see the bigger picture and ensures all relevant information is easily accessible.
+
+49. Question
+A customer service manager would like to limit the reading and creation of knowledge articles within a specific Knowledge Base to the Customer Support group only. Which features should be used to accomplish this?
+Choose 2 answers
+
+Cannot Contribute user criteria
+Can Read user criteria
+Whitelist all other groups from the Knowledge Base
+Hide the Knowledge Base from the Knowledge Base Portal
+ Unattempted
+The two correct answers to limit reading and creation of knowledge articles to the Customer Support group are:
+
+Cannot Contribute user criteria: This restricts users from creating or editing knowledge base articles.
+Can Read user criteria: This limits who can view the articles within the specific Knowledge Base.
+Here‘s why the other options wouldn‘t work:
+
+Whitelist all other groups from the Knowledge Base: While this might seem like a solution, managing a whitelist for every group except Customer Support can be cumbersome and error-prone.
+Hide the Knowledge Base from the Knowledge Base Portal: This would completely hide the Knowledge Base from everyone, including the Customer Support group, defeating the purpose of having a knowledge base for them.
+
+50. Question
+Customer Service Agents (sn_customerservice_agent) are responsible for which tasks?
+Choose 4 answers
+
+Create, view, edit, and work on cases
+Propose major cases
+Approves customer contacts
+Escalate cases
+Assist customers with questions, issues and problems
+Assists consumers with issues
+ Unattempted
+Create, view, edit, and work on cases: CSAs are the primary point of contact for customer issues. They create cases to document and track these issues, view and edit them as needed throughout the resolution process, and actively work on resolving them.
+
+Assist customers with questions, issues and problems: This is the core responsibility of CSAs. They listen to customers, understand their problems, and provide solutions or guidance.
+
+Escalate cases: When a case requires intervention beyond the CSA‘s expertise or resources, they can escalate it to a supervisor or specialist for further handling.
+
+Propose major cases (may vary): While proposing major cases might not be a universal responsibility, it‘s a possibility depending on your specific ServiceNow setup. Major cases could signify issues with high impact or complexity, and CSAs might need to propose them for special attention or resource allocation.
+
+51. Question
+What benefits does scoping an application bring? Choose 3 answers
+
+Changes in different scopes can be addressed in a single update set
+CSM teams can move their desired pace, independent of IT
+Account records can be changed only while in the CSM scope
+Provides and additional layer of control over CSM
+CSM application data and business logic is protected from changes by other applications
+ Unattempted
+Scoping an application offers several advantages, and three key benefits are:
+
+Provides an additional layer of control over CSM : Scoping allows you to restrict access and modifications to the CSM application and its data. This ensures that only authorized users can make changes, reducing the risk of unintended consequences.
+
+CSM teams can move at their desired pace, independent of IT : With a scoped CSM application, CSM teams can make changes and deploy updates within their own scope without relying on IT for every modification. This fosters agility and allows CSM teams to adapt to their specific needs.
+
+CSM application data and business logic is protected from changes by other applications : Scoping prevents conflicts and unexpected behavior by isolating the CSM application from other systems. This ensures the integrity of your CSM data and business processes.
+
+The other answer choices you mentioned are not directly related to the benefits of application scoping.
+
+52. Question
+After installing the Performance Analytics Content Pack for Customer Service, which job must be run to retrieve daily case data from previous months?
+
+Customer Service Daily Data Collection
+Customer Service Initial Data Collection
+Customer Service Historic Data Collection
+Customer Service Case Data Collection
+ Unattempted
+Out of the options presented, the most likely job to retrieve daily case data from previous months after installing the Performance Analytics Content Pack for Customer Service is:
+
+C. Customer Service Historic Data Collection
+
+Here‘s why the other options are less likely:
+
+Customer Service Daily Data Collection: This likely focuses on collecting ongoing daily data, not historical data from previous months.
+Customer Service Initial Data Collection: This might be used for the initial population of the data warehouse after installing the content pack, but wouldn‘t be ideal for retrieving historical data on a recurring basis.
+Customer Service Case Data Collection: This could be a broader term encompassing both daily and historical data collection, but “Historic“ is a more specific term that indicates retrieving past data.
+Therefore, Customer Service Historic Data Collection is the most suitable option for your scenario.
+
+53. Question
+What is the primary output from the Requirements Gathering workshop?
+
+Use Cases
+Personas
+Stories
+Schedules
+ Unattempted
+The primary output from a Requirements Gathering workshop is typically Stories .
+
+Requirements Gathering workshops aim to capture the needs and functionalities of a project from stakeholders. While other deliverables might be produced, user stories are the core output that translates these needs into actionable steps.
+
+Here‘s a breakdown of the other options and why they are not the primary output:
+
+Use Cases: These are broader descriptions of functionalities from a user‘s perspective. While valuable, they are often broken down into more specific user stories during the workshop.
+Personas: These are fictional representations of target users, helping to understand their needs and behaviors. They inform user stories but are not the primary output.
+Schedules: While timelines might be discussed or refined during the workshop, they are not the central focus. The workshop aims to understand requirements, and the schedule is built around those requirements.
+
+54. Question
+Which table must be extended when creating a new case type?
+
+Case Task (sn_customerservice_case_task)
+Case (sn_customerservice_case)
+Case Type (sn_case_type)
+Task (task)
+ Unattempted
+When creating a new case type, you extend the Case (sn_customerservice_case) table.
+
+Here‘s why:
+
+Case Task (sn_customerservice_case_task): This table likely stores tasks associated with existing cases. Extending it wouldn‘t create a new case type for handling different categories of cases.
+Case Type (sn_case_type): This table might not exist in all systems, but extending the core Case table allows you to define specific attributes and workflows for different case types.
+Task (task): This table is likely a more generic task table used across various applications. Extending it wouldn‘t be specific to creating new case types within the Customer Service Management (CSM) context.
+By extending the Case table, you create a new child record that inherits core case functionalities while allowing you to customize fields, workflows, and behaviors specific to your new case type.
+
+55. Question
+As an agent you can report a knowledge gap, if you cannot find relevant articles that could help resolve a case. Which action is required to create a knowledge gap?
+
+Post a question in one of the various Customer Service Management knowledge bases
+Use Related Links on the case form to report a knowledge gap
+Document the knowledge gap in the case work notes and escalate the case
+Use the Create Knowledge button on the case form to report a knowledge gap
+ Unattempted
+The most appropriate action to report a knowledge gap as an agent is to Use Related Links on the case form to report a knowledge gap .
+
+Here‘s why the other options are less likely the best course of action:
+
+Post a question in one of the various Customer Service Management knowledge bases: While this might help you find an answer for the specific case, it doesn‘t necessarily create a formal record of the knowledge gap for future reference.
+Document the knowledge gap in the case work notes and escalate the case: Documenting it in the notes is a good practice, but escalation might not be necessary if simply reporting the gap is sufficient.
+Use the Create Knowledge button on the case form: This option sounds logical, but it might be for creating new knowledge articles, not reporting missing ones.
+By using the Related Links and selecting the option to report a knowledge gap, you‘re following the designated channel for flagging this issue to the appropriate team within your organization. This ensures they are aware of the missing information and can take steps to create a knowledge article to address it.
+
+56. Question
+What allows the implementation of phases and tasks to meet performance goals, track progress, and measure success?
+
+Service Level Agreement Tasks
+Continual Improvement Management
+Performance Analytics Sportlight
+Scheduled Reporting
+ Unattempted
+The most fitting answer for what allows phases and tasks to meet performance goals, track progress, and measure success is Continual Improvement Management .
+
+Here‘s why Continual Improvement Management aligns well with these objectives:
+
+Phases and Tasks: Continual Improvement methodologies often involve breaking down projects into phases and defining specific tasks within each phase.
+Track Progress: Monitoring progress towards goals is a core aspect of Continual Improvement. By tracking the completion of phases and tasks, you can gauge how well you‘re adhering to the plan.
+Measure Success: Continual Improvement emphasizes measuring outcomes and using data to identify areas for improvement. By measuring the effectiveness of each phase and task in achieving goals, you can determine success and identify opportunities for optimization.
+The other answer choices, while potentially related to performance management, don‘t directly address the concept of using phases and tasks:
+
+Service Level Agreement (SLA) Tasks: SLAs set specific targets for service delivery, but don‘t inherently involve phases and tasks for broader project management.
+Performance Analytics Spotlight: This might be a feature within a specific performance management software, but wouldn‘t encompass the entire process of managing phases and tasks.
+Scheduled Reporting: Regular reports are valuable for tracking progress, but don‘t address the planning and execution aspects enabled by phases and tasks.
+Continual Improvement Management provides a structured framework for leveraging phases and tasks to achieve your performance goals.
+
+57. Question
+What is the default days for auto closure?
+
+2
+10
+Not set by default
+5
+1
+ Unattempted
+For more information about this topic, please follow the official documentation found here: https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-service-management/concept/auto-close-customer-service-case.html
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10
+We help you to succeed in your certification exams
+We have helped over thousands of working professionals to achieve their certification goals with our practice tests.
+
+Skillcertpro
+Instagram Twitter Linkedin-in Facebook-f
+Quick Links
+About us
+FAQ
+Browse All practice tests
+Contact Form
+Important Links
+Refund Policy
+Refund Request
+Terms & Conditions
+Privacy Policy
+
+Privacy Policy
+

@@ -1,0 +1,968 @@
+Skip to content
+Skillcertpro Logo
+Products search
+Search for products...
+All Courses
+Contact Us
+MY ACCOUNT
+/ ServiceNow / By SkillCertPro
+Practice Set 5
+
+Your results are here!! for" ServiceNow CIS CSM - Customer Service Management Practice Test 5 "
+0 of 47 questions answered correctly
+
+Your time: 00:00:05
+
+Your Final Score is : 0
+You have attempted : 0
+Number of Correct Questions : 0 and scored 0
+Number of Incorrect Questions : 0 and Negative marks 0
+
+Average score	  64.99%
+Your score	  0%
+You can review your answers by clicking on “View Answers” option.
+Important Note : Open Reference Documentation Links in New Tab (Right Click and Open in New Tab).
+ 
+Answer Review
+1234567891011121314151617181920212223242526272829303132333435363738394041424344454647
+ Correct
+ Incorrect
+ Unattempted
+Focus: incorrect & unattempted
+1. Question
+From where can customer service agents view the service offerings associated to sold products? (Select 2)
+
+Account
+Asset
+Install Base Item
+Product Model
+Cases
+ Unattempted
+Correct
+Option A. Account
+
+Correct because in ServiceNow CSM, the Account record provides visibility into the customer’s purchased products and associated service offerings.
+Agents can quickly see what services are tied to the account’s sold products, helping them provide accurate support.
+Option E. Cases
+
+Correct because when working on a Case, agents can view the related product and its associated service offerings.
+This ensures that support is contextualized to the specific product/service the customer is raising an issue about.
+Incorrect
+Option B. Asset
+
+Incorrect because Assets represent tangible items (hardware, software, etc.) but do not directly show service offerings tied to sold products.
+Assets are more focused on lifecycle management rather than service offering visibility.
+Option C. Install Base Item
+
+Incorrect because Install Base Items track what products have been installed or delivered to a customer.
+While useful for tracking deployments, they do not directly display service offerings associated with sold products.
+Option D. Product Model
+
+Incorrect because Product Models define the characteristics of products but are not the place where agents view service offerings tied to customer purchases.
+They are more about product catalog structure than customer-specific service visibility.
+2. Question
+The product backlog is sorted into
+
+Stories
+Epics
+Sprints
+Releases
+ Unattempted
+✅ C. Sprints
+
+In the context of Agile methodologies, which ServiceNow CSM leverages, the product backlog is prioritized based on value, risk, dependencies, and other factors to determine what work will be undertaken in future sprints.
+While the entire backlog isn’t strictly “sorted into” sprints in a persistent, fixed manner, the planning process involves selecting and organizing items from the prioritized backlog into specific sprints for development and delivery. This is the most direct relationship to how the backlog is organized for action.
+The sprint backlog, a subset of the product backlog, is what is committed to for a specific sprint. The product backlog itself informs the content of these sprint backlogs.
+❌ A. Stories
+
+Stories are individual units of work or requirements within the product backlog. The backlog is composed of stories (and potentially other item types like epics and tasks), but it is not sorted into them.
+Stories themselves have attributes like priority, but the backlog’s sorting mechanism is based on these attributes, not by grouping the entire backlog into categories of “stories.”
+❌ B. Epics
+
+Epics are larger bodies of work that are typically broken down into smaller stories. While epics help to organize the backlog conceptually, the backlog isn’t fundamentally sorted into epics as the primary sorting mechanism for day-to-day planning and execution.
+Epics might span multiple sprints and contain numerous stories, but the backlog’s actionable order is driven by the prioritization of the individual items within it.
+❌ D. Releases
+
+Releases are deployments of a set of completed features or functionalities. The product backlog contains the work that will eventually be part of releases, but the backlog itself isn’t sorted into releases as its primary organizational structure.
+Release planning happens based on the prioritized items in the backlog and the capacity of development teams over time, potentially spanning multiple sprints.
+3. Question
+Which of the below best applies to any customer that wants to make significant changes to the base instance (large employee populations, varied business units) with custom integrations or language translations?
+
+Low Configuration
+Major Configuration
+Normal Configuration
+Drastic Configuration
+ Unattempted
+✅ B. Major Configuration
+
+When a customer, especially one with large employee populations and varied business units, plans to implement custom integrations and language translations in ServiceNow, it signifies a substantial level of modification to the out-of-the-box platform.
+This level of effort and change goes beyond simple adjustments and enters the realm of a major configuration. It implies a more complex implementation requiring significant planning, development, and testing.
+❌ A. Low Configuration
+
+Low Configuration would typically apply to customers who primarily utilize the standard features and functionalities of ServiceNow with minimal or no custom code, integrations, or significant structural changes. The scenario described, with large populations, varied units, integrations, and translations, clearly exceeds this level.
+❌ C. Normal Configuration
+
+Normal Configuration suggests a moderate level of customization, likely involving some tailored workflows, business rules, and potentially a few integrations. However, the scale implied by “large employee populations, varied business units” coupled with “custom integrations or language translations” points to a more extensive undertaking than what would typically be considered a normal configuration.
+❌ D. Drastic Configuration
+
+While the changes described are significant, the term “Drastic Configuration” might imply an unnecessary or overly disruptive level of alteration to the base instance. “Major Configuration” is a more accurate and commonly used term within the ServiceNow ecosystem to describe substantial and complex customizations that are still within the bounds of best practices for tailoring the platform to specific organizational needs.
+4. Question
+Customers can submit requests for themselves from the Customer Service Portal. The request process is integrated with Service Catalog. What is the state mapping for the “contact“ field on the Request form?
+
+Caller
+Contact
+Affected by
+Requester
+Requested for
+ Unattempted
+✅ E. Requested for
+
+When a customer submits a request through the Customer Service Portal, and this process is integrated with the Service Catalog, the field that captures who the request is being made on behalf of is typically mapped to the “Requested for” field on the resulting Request (sc_request) record.
+Since the question specifies that customers are submitting requests for themselves, the “Requested for” field will hold the information of the customer who is logged in and submitting the request.
+❌ A. Caller
+
+The “Caller” field is traditionally used in the Incident Management module to identify the user who reported the incident. While there might be some overlap in who initiates contact, in the context of a Service Catalog request submitted via the portal, “Requested for” is the more precise mapping for the customer making the request for themselves.
+❌ B. Contact
+
+While “Contact” might seem like a logical option, in the standard ServiceNow Service Catalog and CSM setup, the field that directly links to the user who the request is for is “Requested for“. The “Contact” field might exist on other tables or forms but isn’t the standard mapping for the submitting customer in this specific scenario.
+❌ C. Affected by
+
+The “Affected by” field is generally used to indicate the user or service that is impacted by an incident or problem. It’s not the primary field to identify the person making a service request through the portal for themselves.
+❌ D. Requester
+
+While “Requester” is a conceptually similar term, the standard field name used in the ServiceNow Service Catalog and the associated Request form to identify the person for whom the request is being made is “Requested for“.
+5. Question
+What can a field agent NOT do from mobile?
+
+Manage Tasks
+Call Customers
+Navigate to task locations
+Track parts and inventory
+Approve Contracts
+ Unattempted
+✅ E. Approve Contracts
+
+While the ServiceNow mobile app for Field Service Management empowers field agents with numerous capabilities to manage their tasks and customer interactions on the go, approving contracts is typically a function handled by roles with higher levels of authorization, often performed within the main ServiceNow instance on a desktop or laptop.
+Field agents primarily focus on completing work orders, managing tasks related to those orders, communicating with customers about the service, navigating to service locations, and potentially tracking parts used during their work. Contract approvals usually involve a review process that might require access to detailed contract terms and conditions, which is better suited for a larger screen interface.
+❌ A. Manage Tasks
+
+The ServiceNow mobile app for Field Service Management is specifically designed to allow field agents to manage their assigned tasks. This includes viewing task details, updating status, adding notes, completing checklists, and managing work order flows.
+❌ B. Call Customers
+
+Mobile devices inherently have calling capabilities. The ServiceNow mobile app often integrates with these features, allowing field agents to call customers directly from the app for updates, clarifications, or to inform them of their arrival.
+❌ C. Navigate to task locations
+
+Location services and mapping integrations are crucial for field agents. The ServiceNow mobile app typically provides features to navigate to the locations where their service tasks are scheduled, often integrating with map applications on the mobile device.
+❌ D. Track parts and inventory
+
+For field service operations, tracking parts and inventory used during service calls is essential. The ServiceNow mobile app often allows field agents to record the parts they use, check inventory levels (if integrated), and manage parts requests.
+Ref:
+
+https://docs.servicenow.com/bundle/orlando-field-service-management/page/product/planning-and-policy/concept/c_FieldServiceManagement.html
+
+6. Question
+If associated with a case, which of the below can create/cause a blocking task?
+
+Demand
+Incident
+Problem
+Change
+SLA
+Case Task
+ Unattempted
+✅ B. Incident
+
+When a case requires technical investigation or resolution that falls under the scope of IT, an incident record can be created and linked to the case. This related incident can often block the resolution of the parent case until the underlying technical issue is resolved. The case agent might need to wait for the incident to be closed before they can provide a final resolution to the customer.
+✅ C. Problem
+
+If a case is identified as part of a larger, recurring issue, a problem record might be created to investigate the root cause. This related problem can block the case if the resolution for the individual case depends on the findings and fixes implemented through the problem management process. Case agents might be instructed to hold off on resolving the case until the underlying problem is addressed to prevent recurrence.
+✅ D. Change
+
+In situations where resolving a case requires a modification to the IT infrastructure or services, a change request might be initiated and linked to the case. This related change can block the case if the case resolution is dependent on the successful implementation of the change. The case cannot be fully resolved until the necessary changes are made.
+✅ F. Case Task
+
+A case task is a sub-task directly related to the case and is used to break down the work required to resolve the case. A case task can be marked as blocking, meaning the parent case cannot be closed until all blocking case tasks are completed. This ensures all necessary steps within the case resolution process are finished.
+❌ A. Demand
+
+A demand in ServiceNow typically relates to a request for a new product, service, or enhancement. While a case might lead to the creation of a demand, the demand itself, once created and potentially linked, does not inherently function as a blocking task for the original case in the same way that incidents, problems, or changes do. The progress of the demand is usually tracked separately from the case resolution.
+❌ E. SLA
+
+An SLA (Service Level Agreement) defines the expected timelines and quality of service. While an SLA can define deadlines for case resolution and might be impacted by delays caused by related records, the SLA itself does not create or cause a blocking task. It’s a metric against which the case resolution process is measured, not a task that can block it.
+7. Question
+While working on a case, the search does not find related cases that are useful to solve the issue. What are the steps to report a knowledge gap?
+
+Create a community question
+Something else
+Go to the related list for Knowledge Gaps and add an entry
+Click Create Knowledge button
+ Unattempted
+Correct:
+
+Option C. Go to the related list for Knowledge Gaps and add an entry
+In ServiceNow CSM, when agents cannot find relevant knowledge to resolve a case, the correct way to report this is by logging a Knowledge Gap directly from the case record. Adding an entry in the Knowledge Gaps related list formally captures missing or insufficient knowledge so it can be reviewed and addressed by knowledge managers.
+
+Incorrect:
+
+Option A. Create a community question
+Community questions are intended for customer or user collaboration in communities, not for internally reporting missing or inadequate knowledge while working on a case. This does not formally track a knowledge gap.
+
+Option B. Something else
+This option is vague and does not represent a defined or supported process in ServiceNow CSM for identifying or tracking missing knowledge content.
+
+Option D. Click Create Knowledge button
+Creating a knowledge article is not the correct action when a relevant article does not exist. The proper process is to first report a knowledge gap, which signals the need for new or improved content, rather than directly creating an article during case resolution.
+
+8. Question
+What are the features of Customer Service Management? (Choose four.)
+
+Demand Management
+Service entitlements
+Real-time SLAs
+Service Prospecting
+Service contracts
+Skills-based routing
+ Unattempted
+Options
+
+Option B. Service Entitlements
+
+Correct because Service Entitlements define what level of service customers are entitled to, based on contracts or agreements.
+They ensure cases are handled according to agreed terms.
+Option C. Real‑time SLAs
+
+Correct because SLAs (Service Level Agreements) in CSM are tracked in real time to measure case resolution performance.
+This helps ensure compliance with customer commitments.
+Option E. Service Contracts
+
+Correct because Service Contracts are a core feature of CSM, allowing organizations to manage contractual obligations with customers.
+They tie directly into entitlements and SLAs.
+Option F. Skills‑based Routing
+
+Correct because Skills‑based Routing ensures cases are automatically assigned to agents with the right expertise.
+This improves efficiency and customer satisfaction.
+Incorrect
+Option A. Demand Management
+
+Incorrect because Demand Management is part of ITBM (IT Business Management), not CSM.
+It focuses on managing project and portfolio demands, not customer service cases.
+Option D. Service Prospecting
+
+Incorrect because Service Prospecting is not a feature of CSM.
+Prospecting relates to sales and marketing activities, not case or service management.
+ 
+
+9. Question
+Select the features which are included in the Unified Theme?
+
+Deahult Header
+Unified Footer
+Unified Header
+Unified Menu
+Default Footer
+ Unattempted
+Correct
+
+Option B. “Unified Footer” This is correct because the Unified Theme in ServiceNow includes a Unified Footer as part of its consistent design elements across portals.
+
+Option C. “Unified Header” This is correct because the Unified Theme provides a Unified Header, ensuring a standardized look and feel across customer service portals.
+
+Option D. “Unified Menu” This is correct because the Unified Theme also includes a Unified Menu, which delivers consistent navigation across the portal experience.
+
+Incorrect
+
+Option A. “Default Header” Incorrect because the Unified Theme does not use a “Default Header.” Instead, it specifically provides a Unified Header for consistency.
+
+Option E. “Default Footer” Incorrect because the Unified Theme does not use a “Default Footer.” Instead, it provides a Unified Footer as part of its standardized design.
+
+10. Question
+When a consumer registers on the portal, records are created in what tables?
+
+sys_user
+Csm_consumer_user
+Customer
+Customer_contact
+Csm_consumer
+ Unattempted
+Correct
+Option A. sys_user
+
+Correct because every consumer who registers is represented as a user in the sys_user table.
+This ensures they can authenticate and interact with the ServiceNow portal.
+Option B. csm_consumer_user
+
+Correct because this table links the consumer record to the sys_user record.
+It establishes the relationship between the consumer entity and the user account.
+Option E. csm_consumer
+
+Correct because the consumer entity itself is stored in the csm_consumer table.
+This table holds consumer‑specific details used in Customer Service Management.
+Incorrect
+Option C. customer
+
+Incorrect because the customer table is used for business customers (accounts/organizations), not individual consumers registering on the portal.
+Consumer registration does not automatically create a record here.
+Option D. customer_contact
+
+Incorrect because customer_contact is used for contacts associated with business customers.
+A consumer registering independently does not generate a record in this table.
+11. Question
+What should be emphasized when designing a solution? Select 3
+
+Scalability
+Focus out of the box
+Costs
+Mobile Friendly
+Return of Investment
+ Unattempted
+Correct
+Option A. Scalability
+
+Correct because solutions in ServiceNow CSM must be designed to scale with business growth.
+Scalability ensures that as transaction volumes, customer interactions, and data increase, the solution continues to perform efficiently.
+Option B. Focus out of the box
+
+Correct because leveraging out-of-the-box (OOB) functionality reduces customization, lowers maintenance overhead, and aligns with best practices.
+This approach ensures faster implementation and easier upgrades.
+Option D. Mobile Friendly
+
+Correct because modern CSM solutions must be accessible on mobile devices.
+A mobile-friendly design improves customer and agent experience, enabling service delivery anywhere.
+Incorrect
+Option C. Costs
+
+Incorrect because while costs are always a consideration, they are not a design emphasis in ServiceNow solution architecture.
+The exam focuses on technical and functional design priorities (scalability, OOB, mobile), not financial management.
+Option E. Return on Investment (ROI)
+
+Incorrect because ROI is a business outcome metric, not a design principle.
+ROI is measured after implementation, not emphasized during solution design.
+12. Question
+Which social media channels are available as out-of-box?
+
+Facebook
+LinkedIn
+None of the above
+Reddit
+Twitter
+ Unattempted
+Correct
+Option C. None of the above
+
+Correct because ServiceNow CSM does not provide out‑of‑box integrations with social media channels like Facebook, LinkedIn, Reddit, or Twitter.
+Any social media integration must be implemented through custom connectors, third‑party integrations, or APIs, not OOB functionality.
+The exam emphasizes knowing the difference between OOB features (like case management, knowledge management, portals) and integrations that require customization.
+Incorrect
+Option A. Facebook
+
+Incorrect because ServiceNow does not ship with a native Facebook connector OOB.
+Integration with Facebook requires custom development or third‑party apps.
+Option B. LinkedIn
+
+Incorrect because LinkedIn is not available OOB.
+Any LinkedIn integration (for customer engagement or recruiting) must be custom‑built.
+Option D. Reddit
+
+Incorrect because Reddit is not supported OOB.
+Reddit data ingestion would require APIs or external connectors.
+Option E. Twitter
+
+Incorrect because Twitter is not available OOB either.
+Historically, some organizations have built custom connectors for Twitter feeds, but this is not part of ServiceNow’s standard CSM package.
+13. Question
+T/F The ServiceNow Communities feature is only available for customers with ServiceNow Customer Services Management licenses.
+
+FALSE
+True
+ Unattempted
+False.
+
+ServiceNow Communities is not exclusively tied to the Customer Service Management (CSM) license. It’s a feature that can be implemented across various ServiceNow applications and is not limited to just CSM.
+
+https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/communities-rn.html
+
+14. Question
+As a customer, what options/items/actions would you be able to see in the portal?
+
+CIs
+Publications
+Orders
+Create case
+Cases
+Live Chat
+ Unattempted
+Correct
+Option B. Publications
+
+Correct because customers can access knowledge articles, FAQs, and publications through the portal.
+This helps them self‑serve and resolve issues without raising a case.
+Option C. Orders
+
+Correct because customers can view their orders (products or services purchased) directly in the portal.
+This provides transparency into what has been sold or delivered.
+Option D. Create Case
+
+Correct because customers can create new cases from the portal when they need support.
+This is a core function of the CSM portal.
+Option E. Cases
+
+Correct because customers can view their existing cases to track progress, updates, and resolutions.
+This ensures visibility into ongoing support interactions.
+Option F. Live Chat
+
+Correct because Live Chat is available OOB in the portal, allowing customers to interact with agents in real time.
+Incorrect
+Option A. CIs
+
+Incorrect because Configuration Items (CIs) are part of IT Service Management (ITSM) and are not typically exposed to customers in the CSM portal.
+Customers see products, orders, and cases, but not backend CIs.
+15. Question
+T/F Agents and managers cannot create knowledge articles from Community questions.
+
+False
+TRUE
+ Unattempted
+Correct
+Option A. False
+
+Correct because in ServiceNow CSM, agents and managers can create knowledge articles directly from Community questions.
+This feature allows organizations to capture valuable customer insights and frequently asked questions, turning them into reusable knowledge content.
+It improves self‑service and reduces case volume by making answers available in the knowledge base.
+Incorrect
+Option B. True
+
+Incorrect because it suggests that agents and managers cannot create knowledge articles from Community questions.
+This is wrong: ServiceNow explicitly supports this functionality to encourage knowledge sharing and continuous improvement of the knowledge base.
+16. Question
+Which of the following widgets are part of the CSM Unified Theme package? (Select two)
+
+CSM Unified Navigation widget
+CSM Unified Portal Footer
+CSM Style Guide
+CSM Portal widget
+ Unattempted
+Correct
+Option B. CSM Unified Portal Footer
+
+Correct because the Unified Portal Footer widget is part of the CSM Unified Theme package.
+It provides a consistent footer across the customer portal, aligning with the unified design standards.
+Option C. CSM Style Guide
+
+Correct because the CSM Style Guide widget is included in the Unified Theme package.
+It ensures consistent branding, styling, and layout across the portal, helping maintain a unified customer experience.
+Incorrect
+Option A. CSM Unified Navigation widget
+
+Incorrect because while navigation is important, the Unified Navigation widget is not part of the standard Unified Theme package.
+Navigation is handled differently and not bundled as a widget in this package.
+Option D. CSM Portal widget
+
+Incorrect because the Portal widget is a generic concept and not specifically part of the Unified Theme package.
+The Unified Theme focuses on styling and consistency, not generic portal widgets.
+17. Question
+Which of the following actions can‘t be used in CSM as an OOTB feature?
+
+Live Chat
+Open an incident
+Consumer self-registration
+Viewing knowledge articles
+ Unattempted
+Correct
+Option B. Open an incident
+
+Correct. In Customer Service Management (CSM), the OOTB focus is on cases, not incidents.
+Incidents are part of IT Service Management (ITSM), not CSM.
+Therefore, “Open an incident” is not available as an OOTB feature in CSM.
+Incorrect
+Option A. Live Chat
+
+Incorrect. Live Chat is available OOTB in CSM, enabling customers to interact with agents in real time.
+Option C. Consumer self‑registration
+
+Incorrect. Consumer self‑registration is supported OOTB, allowing external users to register and access the customer portal.
+Option D. Viewing knowledge articles
+
+Incorrect. Knowledge article viewing is an OOTB feature in CSM, enabling customers to self‑serve by accessing published knowledge content
+18. Question
+When referring to Post case reviews, who is the persona responsible for copying the documents to the associated child cases?
+
+Customer service agent
+Customer service manager
+Customer
+Major issue manager
+MIM
+ Unattempted
+Correct
+Option D. Major issue manager
+
+Why correct: In ServiceNow CSM, the Major Issue Manager (MIM) persona is responsible for handling major issues and ensuring that documentation, such as post-case review documents, is copied to associated child cases. This ensures consistency and visibility across related cases.
+
+Incorrect
+Option A. Customer service agent Why incorrect: Agents handle day-to-day case resolution and customer interactions but are not responsible for copying post-case review documents to child cases.
+
+Option B. Customer service manager Why incorrect: Managers oversee performance and case handling but do not perform the operational task of copying documents to child cases.
+
+Option C. Customer Why incorrect: Customers interact with the portal and provide information but are not involved in internal case documentation processes.
+
+Option E. MIM Why incorrect: Although “MIM” is shorthand for Major Incident Manager in ITSM contexts, in CSM exam scenarios the correct persona is explicitly referred to as Major issue manager, not simply “MIM.”
+
+19. Question
+What are default channels from the portal? Select three apply.
+
+Social Media Integration
+Chat
+Web
+Email
+ Unattempted
+Correct
+Option B. Chat
+
+Correct because Chat is a default communication channel available from the Service Portal.
+It allows customers to interact directly with agents in real time.
+Option C. Web
+
+Correct because the Web channel (via the Service Portal itself) is a default channel.
+Customers can log cases, search knowledge, and interact with services directly through the portal.
+Option D. Email
+
+Correct because Email is a default channel integrated with ServiceNow CSM.
+Customers can send emails that automatically generate or update cases.
+Incorrect
+Option A. Social Media Integration
+
+Incorrect because social media (like Facebook, Twitter, etc.) is not a default channel in the Service Portal.
+ 
+20. Question
+Which isn‘t an option for determining entitlements?
+
+Account
+Product
+Asset
+Consumer
+Partner
+ Unattempted
+Correct
+Option E. Partner
+
+Correct because Partner is not a valid entitlement determination option in ServiceNow CSM.
+Entitlements are typically determined by Account, Product, Asset, or Consumer, but not by Partner.
+This makes Partner the right answer to the question.
+Incorrect
+Option A. Account
+
+Incorrect because entitlements can be determined at the account level.
+For example, a customer account may have specific support entitlements defined.
+Option B. Product
+
+Incorrect because entitlements can be tied to a specific product purchased by the customer.
+This ensures that only customers with valid product ownership receive entitled support.
+Option C. Asset
+
+Incorrect because entitlements can be linked to assets (such as hardware or software items).
+This allows support to be provided based on the asset’s warranty or service contract.
+Option D. Consumer
+
+Incorrect because entitlements can be determined at the consumer level.
+This is useful when support is tied directly to individual users rather than accounts or assets.
+21. Question
+After which stage in the Implementation process, the user stories should be created?
+
+Transition
+Close
+Create
+Initiate
+Prepare
+ Unattempted
+Correct
+Option D. Initiate
+
+Correct because user stories are created after the Initiate stage in the ServiceNow Implementation process.
+The Initiate stage focuses on understanding business objectives, defining scope, and preparing for execution.
+Once Initiate is complete, user stories are written to capture requirements in a structured, agile‑friendly format that guides configuration and development.
+Incorrect
+Option A. Transition
+
+Incorrect because Transition is the stage where the solution is moved into production and handed over to operations.
+User stories should already be defined much earlier, not at this late stage.
+Option B. Close
+
+Incorrect because Close is the final stage of the project lifecycle, focusing on wrap‑up, documentation, and lessons learned.
+Creating user stories here would be too late to influence implementation.
+Option C. Create
+
+Incorrect because “Create” is not a defined stage in the ServiceNow Implementation methodology.
+This option is a distractor.
+Option E. Prepare
+
+Incorrect because Prepare is about readiness activities (resources, environments, planning).
+User stories are not created here; they come after Initiate.
+22. Question
+T/F From a service provider’s perspective, is the following a product or an asset? A cable modem model that the service provider sells.
+
+True
+FALSE
+ Unattempted
+Correct
+Option A. True Correct because from the service provider’s perspective, a cable modem model that is sold is considered a product. In ServiceNow CSM, products are items or services offered to customers, while assets are items the provider owns and manages internally. Since the modem is being sold to customers, it is classified as a product, not an asset.
+
+Incorrect
+Option B. FALSE Incorrect because marking it as false would imply the modem is an asset. Assets are typically items the provider uses internally or leases to customers for service delivery. Since the modem is explicitly being sold, it does not fall under the asset category.
+
+ 
+
+23. Question
+What restrictions are in place on Knowledge for user criteria?
+
+Topic
+Category
+Forum
+Content
+Article
+ Unattempted
+Correct
+Option E. Article
+
+Correct because Knowledge user criteria restrictions apply at the article level.
+This means access to knowledge is controlled by user criteria defined for individual articles, ensuring that only authorized users can view or interact with specific knowledge content.
+This is the fundamental restriction mechanism in ServiceNow Knowledge Management.
+Incorrect
+Option A. Topic
+
+Incorrect because user criteria restrictions are not applied at the topic level.
+Topics are organizational groupings of articles, but access control is enforced at the article level.
+Option B. Category
+
+Incorrect because categories are used to classify knowledge articles, but restrictions are not applied at the category level.
+User criteria do not directly restrict access by category.
+Option C. Forum
+
+Incorrect because forums are separate from Knowledge Management in ServiceNow.
+User criteria restrictions do not apply to forums.
+Option D. Content
+
+Incorrect because “content” is too broad a term.
+Restrictions are specifically tied to knowledge articles, not general content.
+24. Question
+If an agent does not have access to report an outage, what could be a reason for it?
+
+Doesn‘t have correct security roles
+Plugin not enabled
+Doesn‘t have ITIL role
+Already associated with case
+ Unattempted
+Correct
+Option B. Plugin not enabled
+
+Correct because the ability to report outages in ServiceNow CSM depends on the Outage Management plugin being enabled.
+If the plugin is not activated, agents will not see the functionality to report outages, regardless of their roles or case associations.
+This is the most direct technical reason for the lack of access.
+Incorrect
+Option A. Doesn’t have correct security roles
+
+Incorrect because outage reporting is not controlled by general security roles.
+Roles matter for other CSM features, but the outage reporting capability specifically requires the plugin to be enabled first.
+Option C. Doesn’t have ITIL role
+
+Incorrect because the ITIL role is tied to incident management, not outage reporting in CSM.
+Outage reporting is a separate feature and does not depend on ITIL role assignment.
+Option D. Already associated with case
+
+Incorrect because being associated with a case does not block the ability to report an outage.
+Outage reporting is independent of case association.
+ 
+
+25. Question
+The system administrator can configure the Case form to display the Initiated as request field.
+When a request is created from the portal, which field is set to true by default by the system?
+
+Additional Comments
+Initiated as request
+Work Notes
+Request
+RITM
+ Unattempted
+The system administrator can configure the Case form to display the Initiated as request field. When a request is created from the portal, the system creates a case for the request and sets the Initiated as request field to true. This field is read-only for all users.
+For more information about this topic, please follow the official documentation found here
+
+26. Question
+What can you use for routing a case for assignment? (Select 2)
+
+Agent domain
+Specific case attributes
+Record Generator
+Agent resources
+ Unattempted
+Agent Resources & Case Attributes Create a matching rule for case routing that identifies the case attributes as well as the agent resources. For more information about this topic, please follow the official documentation found here
+
+27. Question
+What should be included in the Implementation Workshop? (select 3)
+
+Determine licensing changes
+Enforce customers to stick with OOB
+Encourage to use industry best practices
+Financial implications should be left with delivery and sales teams
+Provide as much data as possible so customers can make the best decision
+ Unattempted
+Now Platform Implementation Training enables attendees to successfully implement core ServiceNow functionality to meet customer business requirements and serves as foundational training for implementing line?of?business applications.
+For more information about this topic, please follow the official documentation found here.
+
+28. Question
+Which is default channel for created cases when they are raised through portal ?
+
+Email
+Chat
+Phone
+Web
+ Unattempted
+Customers interact with customer service agents using several different communication channels, including web, email, chat, phone, and social media. Each channel requires some setup and configuration.
+For more information about this topic, please follow the official documentation found here.
+
+29. Question
+What do blue circles in the timeline of a case form represent?
+
+Note
+Activity
+Comment
+State
+Design
+ Unattempted
+The timeline uses blue circles to represent case state changes and markers to represent case activities. The information included in the timeline is also shown on the Case form in the Activity history.
+For more information about this topic, please follow the official documentation found here.
+
+30. Question
+Which one of the following capabilities are used by MIM (Major Incident Management) ?
+
+Asset management
+Record Producer
+Governance Risk and Control
+Targeted Communications
+ Unattempted
+Major issue management enables customer communication for issues that impact a wider audience. Use this feature to proactively identify impacted customers, provide information to these customers, and manage the resolution process.
+This feature enables you to efficiently manage the communication and resolution process for issues that impact multiple customers. With major issue management, you can identify impacted customers who have not yet reported an issue and proactively create cases for these customers.
+Major issue management introduces the concept of a major case which contains the details about a particular issue. Child cases can easily be created for a major case, with one child case created for each customer affected by the issue. These child cases contain the customer-specific information.
+Identify affected customers by creating a recipients list of accounts or consumers and attaching it to the major case. Create this list using the Targeted Communications application. Build a recipients list by identifying dynamic conditions, running a script, or importing customer information into a template. Once attached to a major case, use the recipients list to create a child case for each customer included in the list.
+For more information about this topic, please follow the official documentation found here:
+
+31. Question
+What cannot be done from FSM mobile while offline?
+
+Manage Assets
+Close Work Orders
+Open Work Orders
+Complete Work Order Tasks
+Track Time Stamp of Updated Tasks
+ Unattempted
+When you are at a task site that does not have an Internet connection, you can work on field service tasks, record time worked on a task, track asset usage, and complete work order and work order tasks using the Field Service mobile application. For more information about this topic, please follow the official documentation found here.
+
+32. Question
+Proactive Customer Service Operations include which components? Select 4
+
+Service-Aware Install Base
+CMDB Service Aware
+Degradations
+Outages
+Event Management
+ Unattempted
+For more information about this topic, please follow the official documentation found here: https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-service-management/concept/proactive-service-operations.html
+
+33. Question
+Which workspace is visible for the agents?
+
+Workspace
+ITSM Workspace
+ITOL Workspace
+CSM Workspace
+ Unattempted
+more information about this topic, please follow the official documentation found here or here
+
+34. Question
+What is the path for creating a document template?
+
+Case Digest > Administration > Document Templates
+System > Administration > Document Templates
+Templates > Administration > Document Templates
+Case > Administration > Document Templates
+ Unattempted
+Create a template to use for generating case action summaries or post case review documents. Role required: admin Document templates identify the information to be included in case action summaries and post case review documents. Create a document template to select, organize, and format the content included in the generated documents. You can create a new template or modify an existing template. Two document templates, CAS Template and PCR Template, are included with the Case Digests plugin. 1. Navigate to Case Digest > Administration > Document Templates. 2. Click New to create a template. You can also modify an existing template by clicking the template name and opening the template form. 3. Fill in the following fields on the CS Document Template form.
+
+35. Question
+What can be customized within the Quick Setup tab of the Branding Editor?
+
+Text Colors
+Navigation Bar
+Theme Colors
+Portal Title
+ Unattempted
+Select the portal you want to customize the theme for from the portal list. Then use the options on the Quick Setup and Theme Colors tabs to customize your portal.
+For more information about this topic, please follow the official documentation found here
+
+36. Question
+In order to enable the Follow the sun field on the Customer Service Case form, what is required?
+
+The plugin ‘com.snc.csm_time_recording‘ needs to be activated
+The value property on the form must be set to true
+Nothing, it is a standard field
+The value property on the form must be set to true and the field should be added to the case form
+ Unattempted
+Enable the Follow the sun check box on the Customer Service case form by setting the value of the property sn_customerservice.FTS_flag_enabled to true. Configure the form layout to add this field to the Case form.
+For more information about this topic, please follow the official documentation found here.
+
+37. Question
+Benefits of proactive customer service operations include?
+
+Associate outage information to a case to improve customer visibility
+Proactively create a case after identifying service disruptions
+Resolve Issues Faster
+Lower Inbound Call Volume
+All options are correct
+ Unattempted
+Proactive customer service operations offer a range of benefits that can significantly improve the customer experience and streamline your support processes. Here‘s a breakdown of the advantages you mentioned:
+
+Associate outage information to a case to improve customer visibility: By proactively linking outage information to relevant cases, customers are kept informed about service disruptions and potential impacts. This transparency builds trust and reduces frustration.
+
+Proactively create a case after identifying service disruptions: Proactive case creation allows your team to get ahead of potential issues. By anticipating problems and creating cases before customers even contact you, you can begin working on solutions and minimize disruption for your customers.
+
+Resolve Issues Faster: Proactive measures can help you identify and address issues before they become major problems. This leads to faster resolution times and minimizes the overall impact on your customers.
+
+Lower Inbound Call Volume: By addressing issues proactively and empowering customers to self-serve through knowledge bases or FAQs, you can deflect inquiries that would otherwise require phone calls or other interactions with your support team. This frees up your agents to handle more complex issues and reduces wait times for customers.
+
+Incorporating these proactive strategies can give your customer service operation a significant edge, fostering better customer relationships and a more efficient support environment.
+
+38. Question
+In an account relationship record, which of the following is included? (select two)
+
+A contact, selected in the Contact Name field
+A location, selected in the Location field
+A source account, selected in the Account From field
+A target account, selected in the Account To field
+ Unattempted
+Once an account relationship type has been defined, users with the customer service manager role can use it to create relationship records between specific accounts or partners.
+For more information about this topic, please follow the official documentation found here.
+
+39. Question
+Can a contact submit a self-registration request on the Customer Portal?
+
+No
+Only from web
+Yes
+It has to be done by the eployee‘s manager
+ Unattempted
+Yes, with or without Registration code, it just needs an active account.
+Navigate to the customer portal login page.
+Request a login by clicking Register from the portal header.
+Fill in your First Name, Last Name, and Business Email.
+If you have a registration code, enter it in the Registration Code field.
+Enable the check box to agree to the privacy policy and to the community terms and conditions.
+Click the links to access more information about these policies.
+Enable the Security Code check box, complete the CAPTCHA validation, and click Verify.
+The Customer Service application uses the Google re-CAPTCHA service.
+For more information about this topic, please follow the official documentation found here.
+
+40. Question
+What is mainly utilize for sending updates on high priority cases for customers and internal stakeholders?
+
+Special handling notes
+Case Digest
+Post Case Review
+Case Analytics
+Case Summary
+ Unattempted
+Use the case digests feature to provide periodic updates and resolution information about high priority customer service cases to customers and internal stakeholders.
+With this feature, you can send periodic case updates while a case is in progress using a case action summary. Once a case has been resolved, you can provide a post case review document that captures details about the issue, root cause, resolution, and preventive measures.
+For more information about this topic, please follow the official documentation found here:
+
+41. Question
+What is the path for creating a case or account escalation template?
+
+Customer Service > Case Templates
+All > Customer Service > Templates
+Customer Service > Escalation Templates
+My templates> Customer Service > Case Templates
+ Unattempted
+Create a case or account escalation template Create a template for each type of case or account escalation. Role required: admin 1. Navigate to Customer Service > Escalation Templates. 2. Click New. 3. Fill in the fields on the Escalation Template form, as needed. Escalation Template form fields
+
+42. Question
+What role is required to activate customer service mobile?
+
+System Administrator
+IT Admin
+Security
+Mobile Administrator
+ Unattempted
+Configure the Customer Service mobile application and customize it for agents who use the application instance on their mobile devices.
+Before you begin
+Role required: admin
+About this task
+The Customer Service Mobile plugin (com.sn_csm_mobile) enables the Customer Service mobile application.
+For more information about this topic, please follow the official documentation found here:
+
+43. Question
+External users must maintain, at a MINIMUM, what role to access a ServiceNow instance?
+
+Customer
+Partner
+Snc_internal
+Snc_external
+ Unattempted
+External users, those who don‘t have internal access to the company network, must maintain a minimum role of snc_external to access a ServiceNow instance.
+
+Here‘s why the other options wouldn‘t be suitable:
+
+Customer: While “Customer“ might seem like a logical choice, it‘s not necessarily a universal role name in ServiceNow. The specific role name can vary depending on the instance configuration.
+Partner: Partner roles might exist for external companies that collaborate with the organization, but wouldn‘t be the minimum requirement for all external users.
+Snc_internal: This role is clearly intended for internal users within the company and wouldn‘t grant access to external users.
+
+44. Question
+Select the final state of a case?
+
+Resolved
+Resolution Accepted
+Closed
+Completed
+ Unattempted
+For more information about the states of the cases, please follow the official documentation found here
+
+45. Question
+T/F If only one user reports a content for moderation, the content will be hidden.
+
+TRUE
+False
+ Unattempted
+https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-com munities/task/approve-reject-content.html
+
+46. Question
+T/F Information about a customers service contract is found in Knowledge
+
+TRUE
+False
+ Unattempted
+https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-serv ice-management/concept/c_ContractsAndEntitlements.html
+
+47. Question
+T/F Partner admin contacts have access to the data of both their partner accounts and customer accounts.
+
+True
+FALSE
+ Unattempted
+https://docs.servicenow.com/bundle/orlando-customer-service-management/page/product/customer-service-management/reference/r_RolesInstalledWithCustomerService.html
+
+Use Page numbers below to navigate to other practice tests
+
+Pages: 1 2 3 4 5 6 7 8 9 10
+We help you to succeed in your certification exams
+We have helped over thousands of working professionals to achieve their certification goals with our practice tests.
+
+Skillcertpro
+Instagram Twitter Linkedin-in Facebook-f
+Quick Links
+About us
+FAQ
+Browse All practice tests
+Contact Form
+Important Links
+Refund Policy
+Refund Request
+Terms & Conditions
+Privacy Policy
+
+Privacy Policy
+
